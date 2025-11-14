@@ -1,0 +1,1949 @@
+﻿player_id,season_name,competition_id,competition_name,team_id,team_name,nb_in_group,nb_on_pitch,goals,assists,own_goals,subed_in,subed_out,yellow_cards,second_yellow_cards,direct_red_cards,penalty_goals,minutes_played,goals_conceded,clean_sheets,main_position
+1003925,24/25,IT1,Serie A,1390,Cagliari Calcio,3,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+1004295,22/23,ES1,LaLiga,1531,Elche CF,17,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+1004709,25/26,GB1,Premier League,405,Aston Villa,2,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+1004709,23/24,GB1,Premier League,405,Aston Villa,3,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+1008553,24/25,GB1,Premier League,1148,Brentford FC,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+101118,22/23,GB1,Premier League,399,Leeds United,27,4,,0,0,0,0,1,0,0,0,360.0,11,0,Goalkeeper
+101118,21/22,ES1,LaLiga,150,Real Betis Balompié,21,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+1013690,24/25,GB1,Premier League,985,Manchester United,6,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+1020190,24/25,FR1,Ligue 1,826,RC Lens,2,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+102146,22/23,ES1,LaLiga,1531,Elche CF,36,36,,0,0,0,0,2,0,0,0,3240.0,63,4,Goalkeeper
+102146,21/22,ES1,LaLiga,1531,Elche CF,38,24,,0,0,0,0,2,0,0,0,2160.0,35,5,Goalkeeper
+10254,22/23,MAL1,Premier League,37647,Gudja United FC,3,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+10254,21/22,MAL1,Premier League,10262,Birkirkara FC,13,12,,0,0,0,0,1,0,0,0,1080.0,12,4,Goalkeeper
+1036451,24/25,ES1,LaLiga,472,UD Las Palmas,13,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+1036451,23/24,ES1,LaLiga,472,UD Las Palmas,2,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+1041614,25/26,FR1,Ligue 1,583,Paris Saint-Germain,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+1041614,24/25,IT1,Serie A,12,AS Roma,20,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+1041614,23/24,IT1,Serie A,12,AS Roma,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+104220,23/24,A1,Bundesliga,4441,Wolfsberger AC,29,24,,0,0,0,0,2,0,0,0,2160.0,33,6,Goalkeeper
+104220,22/23,A1,Bundesliga,4441,Wolfsberger AC,31,31,,0,0,0,0,1,0,0,0,2790.0,49,8,Goalkeeper
+105470,25/26,GB1,Premier League,31,Liverpool FC,3,3,,0,0,0,0,0,0,0,0,270.0,4,1,Goalkeeper
+105470,24/25,GB1,Premier League,31,Liverpool FC,28,28,,0,0,0,1,0,0,0,0,2509.0,29,10,Goalkeeper
+105470,23/24,GB1,Premier League,31,Liverpool FC,28,28,,0,0,0,0,1,0,0,0,2520.0,30,8,Goalkeeper
+105470,22/23,GB1,Premier League,31,Liverpool FC,37,37,,0,0,0,0,1,0,0,0,3330.0,43,14,Goalkeeper
+105470,21/22,GB1,Premier League,31,Liverpool FC,36,36,,1,0,0,0,0,0,0,0,3240.0,24,20,Goalkeeper
+1055220,24/25,ES1,LaLiga,418,Real Madrid,25,1,,0,0,0,0,0,0,0,0,90.0,2,0,Goalkeeper
+1055220,23/24,ES1,LaLiga,418,Real Madrid,15,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+1055220,22/23,ES1,LaLiga,418,Real Madrid,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+1055833,24/25,ES1,LaLiga,1244,CD Leganés,33,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+1058347,24/25,IT1,Serie A,12,AS Roma,2,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+1059771,23/24,IT1,Serie A,749,FC Empoli,2,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+1060935,23/24,IT1,Serie A,410,Udinese Calcio,6,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+1061277,25/26,ES1,LaLiga,150,Real Betis Balompié,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+1061277,24/25,ES1,LaLiga,150,Real Betis Balompié,6,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+1061650,24/25,ES1,LaLiga,12321,Girona FC,4,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+1063990,25/26,ES1,LaLiga,1108,Deportivo Alavés,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+1063990,24/25,ES1,LaLiga,1108,Deportivo Alavés,4,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+106851,25/26,A1,Bundesliga,266,SV Ried,5,5,,0,0,0,0,1,0,0,0,450.0,7,1,Goalkeeper
+106851,21/22,A1,Bundesliga,503,FC Admira Wacker Mödling,32,32,,0,0,0,0,3,0,0,0,2880.0,46,6,Goalkeeper
+1070076,24/25,IT1,Serie A,46,Inter Milan,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+1071430,25/26,FR1,Ligue 1,1041,Olympique Lyon,2,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+1071430,24/25,FR1,Ligue 1,1041,Olympique Lyon,2,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+1073023,25/26,IT1,Serie A,12,AS Roma,2,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+1073176,25/26,FR1,Ligue 1,1420,Angers SCO,2,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+1075580,24/25,FR1,Ligue 1,415,FC Toulouse,4,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+1075582,24/25,FR1,Ligue 1,162,AS Monaco,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+107775,25/26,L1,Bundesliga,89,1.FC Union Berlin,2,2,,0,0,0,0,0,0,0,0,180.0,4,0,Goalkeeper
+107775,24/25,L1,Bundesliga,89,1.FC Union Berlin,28,28,,0,0,0,0,2,0,0,0,2520.0,38,8,Goalkeeper
+107775,23/24,L1,Bundesliga,89,1.FC Union Berlin,33,33,,0,0,0,0,2,0,0,0,2970.0,56,7,Goalkeeper
+107775,22/23,L1,Bundesliga,89,1.FC Union Berlin,29,29,,0,0,0,0,2,0,0,0,2610.0,27,11,Goalkeeper
+107775,21/22,L1,Bundesliga,89,1.FC Union Berlin,33,7,,0,0,0,0,1,0,0,0,630.0,5,2,Goalkeeper
+1078792,24/25,IT1,Serie A,410,Udinese Calcio,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+1079622,24/25,L1,Bundesliga,24,Eintracht Frankfurt,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+1080903,24/25,GB1,Premier League,281,Manchester City,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+108390,25/26,ES1,LaLiga,418,Real Madrid,3,3,,0,0,0,0,0,0,0,0,270.0,1,2,Goalkeeper
+108390,24/25,ES1,LaLiga,418,Real Madrid,32,30,,1,0,0,0,1,0,0,0,2700.0,29,11,Goalkeeper
+108390,23/24,ES1,LaLiga,418,Real Madrid,5,4,,0,0,0,1,0,0,0,0,333.0,0,4,Goalkeeper
+108390,22/23,ES1,LaLiga,418,Real Madrid,32,31,,0,0,0,0,0,0,0,0,2790.0,29,10,Goalkeeper
+108390,21/22,ES1,LaLiga,418,Real Madrid,37,36,,0,0,0,0,1,0,0,0,3240.0,29,16,Goalkeeper
+108880,23/24,L1,Bundesliga,82,VfL Wolfsburg,25,25,,0,0,0,0,2,0,0,0,2250.0,39,4,Goalkeeper
+108880,22/23,L1,Bundesliga,82,VfL Wolfsburg,34,34,,0,0,0,0,0,0,0,0,3060.0,48,12,Goalkeeper
+108880,21/22,L1,Bundesliga,82,VfL Wolfsburg,28,28,,0,0,0,0,1,0,0,0,2520.0,40,10,Goalkeeper
+1104725,24/25,L1,Bundesliga,27,Bayern Munich,2,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+110864,25/26,GB1,Premier League,543,Wolverhampton Wanderers,3,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+110864,24/25,GB1,Premier League,543,Wolverhampton Wanderers,23,7,,0,0,0,0,0,0,0,0,630.0,17,0,Goalkeeper
+110864,24/25,GB1,Premier League,873,Crystal Palace,2,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+110864,23/24,GB1,Premier League,873,Crystal Palace,24,20,,0,0,0,1,1,0,0,0,1797.0,27,6,Goalkeeper
+110864,22/23,GB1,Premier League,873,Crystal Palace,30,9,,0,0,0,0,1,0,0,0,810.0,10,3,Goalkeeper
+110867,21/22,GB1,Premier League,405,Aston Villa,19,1,,0,0,0,0,0,0,0,0,90.0,3,0,Goalkeeper
+110923,24/25,IT1,Serie A,506,Juventus FC,36,5,,0,0,0,0,0,0,0,0,450.0,3,3,Goalkeeper
+110923,23/24,IT1,Serie A,506,Juventus FC,33,3,,0,0,0,1,0,0,0,0,225.0,1,2,Goalkeeper
+110923,22/23,IT1,Serie A,506,Juventus FC,37,11,,0,0,1,0,0,0,0,0,947.0,7,6,Goalkeeper
+110923,21/22,IT1,Serie A,506,Juventus FC,37,5,,0,0,0,1,0,0,0,0,405.0,7,1,Goalkeeper
+110925,22/23,IT1,Serie A,1025,Bologna FC 1909,37,1,,0,0,0,0,0,0,0,0,90.0,0,1,Goalkeeper
+110925,21/22,IT1,Serie A,1025,Bologna FC 1909,38,2,,0,0,0,1,0,0,0,0,178.0,2,1,Goalkeeper
+111426,25/26,IT1,Serie A,252,Genoa CFC,2,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+111426,24/25,IT1,Serie A,252,Genoa CFC,16,2,,0,0,0,1,0,0,0,0,153.0,2,1,Goalkeeper
+111465,23/24,A1,Bundesliga,541,SC Austria Lustenau,31,31,,1,0,0,0,4,0,0,0,2790.0,56,7,Goalkeeper
+111465,22/23,A1,Bundesliga,541,SC Austria Lustenau,32,29,,0,0,0,0,3,0,0,0,2610.0,47,7,Goalkeeper
+111819,24/25,GB1,Premier League,11,Arsenal FC,33,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+111819,24/25,GB1,Premier League,989,AFC Bournemouth,2,2,,0,0,0,0,0,0,0,0,180.0,2,0,Goalkeeper
+111819,23/24,GB1,Premier League,989,AFC Bournemouth,36,32,,0,0,0,0,5,0,0,0,2880.0,55,7,Goalkeeper
+111819,22/23,GB1,Premier League,989,AFC Bournemouth,30,27,,0,0,0,1,4,0,0,0,2385.0,39,6,Goalkeeper
+111819,21/22,ES1,LaLiga,131,FC Barcelona,36,3,,0,0,0,0,0,0,0,0,270.0,4,0,Goalkeeper
+111873,25/26,GB1,Premier League,405,Aston Villa,1,1,,0,0,0,0,0,0,0,0,90.0,1,0,Goalkeeper
+111873,24/25,GB1,Premier League,405,Aston Villa,37,37,,0,0,0,2,5,0,0,0,3195.0,45,9,Goalkeeper
+111873,23/24,GB1,Premier League,405,Aston Villa,34,34,,2,0,0,1,4,0,0,0,3015.0,48,9,Goalkeeper
+111873,22/23,GB1,Premier League,405,Aston Villa,37,36,,1,0,0,2,7,0,0,0,3140.0,38,13,Goalkeeper
+111873,21/22,GB1,Premier League,405,Aston Villa,36,36,,0,0,0,0,4,0,0,0,3240.0,48,11,Goalkeeper
+1119876,24/25,FR1,Ligue 1,738,Le Havre AC,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+112541,22/23,L1,Bundesliga,15,Bayer 04 Leverkusen,11,1,,0,0,0,0,0,0,0,0,90.0,2,0,Goalkeeper
+112541,21/22,L1,Bundesliga,15,Bayer 04 Leverkusen,24,1,,0,0,0,0,0,0,0,0,90.0,1,0,Goalkeeper
+112822,25/26,FR1,Ligue 1,667,RC Strasbourg Alsace,3,1,,0,0,0,0,0,0,0,0,90.0,0,1,Goalkeeper
+112822,24/25,FR1,Ligue 1,667,RC Strasbourg Alsace,34,3,,0,0,0,0,0,0,0,0,270.0,6,0,Goalkeeper
+1131973,24/25,GB1,Premier League,11,Arsenal FC,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+1142392,23/24,A1,Bundesliga,4467,TSV Hartberg,2,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+115979,24/25,L1,Bundesliga,269,Holstein Kiel,34,9,,0,0,0,0,0,0,0,0,810.0,19,0,Goalkeeper
+115989,25/26,A1,Bundesliga,3551,SCR Altach,5,5,,0,0,0,0,2,0,0,0,450.0,2,3,Goalkeeper
+115989,24/25,A1,Bundesliga,3551,SCR Altach,29,29,,0,0,0,0,1,0,0,0,2610.0,44,4,Goalkeeper
+115989,23/24,A1,Bundesliga,3551,SCR Altach,26,26,,0,0,0,1,2,0,0,0,2274.0,29,9,Goalkeeper
+1160273,24/25,FR1,Ligue 1,738,Le Havre AC,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+116648,24/25,GB1,Premier League,631,Chelsea FC,5,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+116648,23/24,GB1,Premier League,631,Chelsea FC,18,0,0.0,0,0,0,0,1,0,0,0,,0,0,Goalkeeper
+116648,22/23,GB1,Premier League,631,Chelsea FC,17,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+116648,21/22,GB1,Premier League,631,Chelsea FC,7,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+1169436,25/26,ES1,LaLiga,12321,Girona FC,3,2,,0,0,1,0,0,0,0,0,137.0,6,0,Goalkeeper
+1169436,24/25,ES1,LaLiga,12321,Girona FC,15,2,,0,0,0,0,0,0,0,0,180.0,7,0,Goalkeeper
+117481,22/23,ARM1,Premier League,37914,Alashkert Yerevan FC,16,3,,0,0,0,0,1,0,0,0,270.0,2,2,Goalkeeper
+1177163,24/25,FR1,Ligue 1,826,RC Lens,7,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+1185950,25/26,IT1,Serie A,1390,Cagliari Calcio,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+1185980,25/26,IT1,Serie A,5,AC Milan,2,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+118997,25/26,ES1,LaLiga,331,CA Osasuna,3,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+118997,24/25,ES1,LaLiga,331,CA Osasuna,38,1,,0,0,0,0,0,0,0,0,90.0,0,1,Goalkeeper
+118997,23/24,ES1,LaLiga,331,CA Osasuna,38,7,,0,0,1,0,1,0,0,0,550.0,9,1,Goalkeeper
+118997,22/23,ES1,LaLiga,331,CA Osasuna,38,21,,0,0,0,0,1,0,0,0,1890.0,19,8,Goalkeeper
+118997,21/22,ES1,LaLiga,3368,Levante UD,35,13,,0,0,0,0,1,0,0,0,1167.0,29,2,Goalkeeper
+1194286,23/24,IT1,Serie A,380,US Salernitana 1919,13,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+1200424,24/25,FR1,Ligue 1,826,RC Lens,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+120186,21/22,GB1,Premier League,1010,Watford FC,37,12,,0,0,0,0,0,0,0,0,1080.0,28,0,Goalkeeper
+120296,22/23,L1,Bundesliga,60,SC Freiburg,26,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+120296,21/22,L1,Bundesliga,60,SC Freiburg,33,2,,0,0,0,0,0,0,0,0,180.0,7,0,Goalkeeper
+12029,24/25,FR1,Ligue 1,1421,Stade Reims,4,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+120629,25/26,GB1,Premier League,379,West Ham United,3,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+120629,24/25,GB1,Premier League,379,West Ham United,34,26,,1,0,1,1,0,0,0,0,2259.0,41,5,Goalkeeper
+120629,23/24,GB1,Premier League,379,West Ham United,33,31,,1,0,0,3,1,0,0,0,2700.0,53,4,Goalkeeper
+120629,22/23,GB1,Premier League,379,West Ham United,35,5,,0,0,3,0,0,0,0,0,307.0,7,2,Goalkeeper
+120629,21/22,GB1,Premier League,379,West Ham United,38,1,,0,0,0,0,0,0,0,0,90.0,1,0,Goalkeeper
+120705,25/26,ES1,LaLiga,12321,Girona FC,2,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+120705,24/25,ES1,LaLiga,12321,Girona FC,34,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+120705,23/24,ES1,LaLiga,12321,Girona FC,31,0,0.0,0,0,0,0,1,0,0,0,,0,0,Goalkeeper
+120705,22/23,ES1,LaLiga,12321,Girona FC,38,10,,0,0,0,0,0,0,0,0,900.0,18,0,Goalkeeper
+121254,23/24,GB1,Premier League,350,Sheffield United,18,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+12137,21/22,A1,Bundesliga,413,LASK,31,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+121483,25/26,ES1,LaLiga,13,Atlético de Madrid,3,3,,0,0,0,0,0,0,0,0,270.0,4,0,Goalkeeper
+121483,24/25,ES1,LaLiga,13,Atlético de Madrid,36,36,,0,0,0,0,0,0,0,0,3240.0,30,15,Goalkeeper
+121483,23/24,ES1,LaLiga,13,Atlético de Madrid,38,38,,0,0,0,0,1,0,0,0,3420.0,43,13,Goalkeeper
+121483,22/23,ES1,LaLiga,13,Atlético de Madrid,28,28,,0,0,0,2,1,0,0,0,2494.0,20,12,Goalkeeper
+121483,21/22,ES1,LaLiga,13,Atlético de Madrid,38,38,,0,0,0,0,2,0,0,0,3420.0,43,12,Goalkeeper
+1216906,24/25,FR1,Ligue 1,1041,Olympique Lyon,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+12359,21/22,IT1,Serie A,607,Venezia FC,30,17,,0,0,1,0,1,0,0,0,1485.0,27,1,Goalkeeper
+1237073,23/24,GB1,Premier League,405,Aston Villa,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+124080,24/25,L1,Bundesliga,269,Holstein Kiel,7,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+124419,25/26,ES1,LaLiga,368,Sevilla FC,2,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+124419,24/25,GB1,Premier League,762,Newcastle United,10,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+124419,23/24,GB1,Premier League,703,Nottingham Forest,19,5,,0,0,0,0,0,0,0,0,450.0,12,1,Goalkeeper
+124884,25/26,GB1,Premier League,405,Aston Villa,3,2,,0,0,0,0,1,0,0,0,180.0,3,1,Goalkeeper
+124884,24/25,FR1,Ligue 1,3911,Stade Brestois 29,32,32,,0,0,0,0,4,0,0,0,2880.0,54,10,Goalkeeper
+124884,23/24,FR1,Ligue 1,3911,Stade Brestois 29,32,32,,0,0,0,0,3,0,0,0,2877.0,34,13,Goalkeeper
+124884,22/23,FR1,Ligue 1,3911,Stade Brestois 29,37,37,,0,0,0,0,4,0,0,0,3330.0,54,8,Goalkeeper
+124884,21/22,FR1,Ligue 1,3911,Stade Brestois 29,38,38,,0,0,0,0,1,0,0,0,3420.0,57,7,Goalkeeper
+124901,25/26,FR1,Ligue 1,1158,FC Lorient,3,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+124901,22/23,FR1,Ligue 1,1147,AC Ajaccio,35,32,,0,0,0,1,1,0,0,0,2799.0,60,5,Goalkeeper
+125350,21/22,FR1,Ligue 1,1095,ESTAC Troyes,19,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+125714,25/26,L1,Bundesliga,15,Bayer 04 Leverkusen,3,3,,0,0,0,0,0,0,0,0,270.0,6,0,Goalkeeper
+125714,24/25,GB1,Premier League,1148,Brentford FC,37,37,,0,0,0,1,1,0,0,0,3276.0,55,8,Goalkeeper
+125714,23/24,GB1,Premier League,1148,Brentford FC,37,37,,0,0,0,1,3,0,0,0,3285.0,63,7,Goalkeeper
+125714,22/23,L1,Bundesliga,60,SC Freiburg,34,34,,0,0,0,0,0,0,0,0,3060.0,44,13,Goalkeeper
+125714,21/22,L1,Bundesliga,60,SC Freiburg,32,32,,0,0,0,0,0,0,0,0,2880.0,39,10,Goalkeeper
+1259706,25/26,IT1,Serie A,1047,Como 1907,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+126634,25/26,IT1,Serie A,800,Atalanta BC,2,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+126634,24/25,IT1,Serie A,800,Atalanta BC,38,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+126634,23/24,IT1,Serie A,800,Atalanta BC,35,1,,0,0,1,0,0,0,0,0,4.0,0,1,Goalkeeper
+126634,22/23,IT1,Serie A,800,Atalanta BC,37,1,,0,0,1,0,0,0,0,0,3.0,0,1,Goalkeeper
+126634,21/22,IT1,Serie A,800,Atalanta BC,36,1,,0,0,1,0,0,0,0,0,36.0,1,0,Goalkeeper
+1271,22/23,A1,Bundesliga,409,Red Bull Salzburg,2,1,,0,0,0,1,0,0,0,0,33.0,1,0,Goalkeeper
+1271,21/22,A1,Bundesliga,409,Red Bull Salzburg,5,1,,0,0,0,0,0,0,0,0,90.0,0,1,Goalkeeper
+127181,25/26,GB1,Premier League,931,Fulham FC,3,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+127181,24/25,FR1,Ligue 1,969,Montpellier HSC,34,30,,1,0,0,0,0,0,0,0,2700.0,68,1,Goalkeeper
+127181,23/24,FR1,Ligue 1,969,Montpellier HSC,30,30,,1,0,0,0,1,0,0,0,2700.0,37,10,Goalkeeper
+127181,22/23,FR1,Ligue 1,969,Montpellier HSC,19,19,,0,0,0,0,0,0,0,0,1710.0,22,8,Goalkeeper
+127181,22/23,ES1,LaLiga,714,RCD Espanyol Barcelona,14,10,,1,0,0,0,1,0,0,0,900.0,14,1,Goalkeeper
+127181,21/22,ES1,LaLiga,13,Atlético de Madrid,36,0,0.0,0,0,0,0,1,0,0,0,,0,0,Goalkeeper
+127188,25/26,FR1,Ligue 1,417,OGC Nice,3,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+127188,24/25,FR1,Ligue 1,417,OGC Nice,34,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+127188,23/24,FR1,Ligue 1,417,OGC Nice,15,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+127188,22/23,FR1,Ligue 1,415,FC Toulouse,38,38,,0,0,0,0,2,0,0,0,3420.0,57,9,Goalkeeper
+127202,25/26,GB1,Premier League,703,Nottingham Forest,3,3,,0,0,0,0,1,0,0,0,270.0,5,0,Goalkeeper
+127202,24/25,GB1,Premier League,703,Nottingham Forest,38,38,,0,0,0,0,4,0,0,0,3420.0,46,13,Goalkeeper
+127202,23/24,GB1,Premier League,703,Nottingham Forest,16,16,,0,0,0,0,1,0,0,0,1440.0,27,1,Goalkeeper
+127202,23/24,FR1,Ligue 1,667,RC Strasbourg Alsace,19,19,,0,0,0,0,2,0,0,0,1710.0,24,3,Goalkeeper
+127202,22/23,FR1,Ligue 1,667,RC Strasbourg Alsace,38,38,,0,0,0,0,2,0,0,0,3420.0,59,6,Goalkeeper
+127202,21/22,FR1,Ligue 1,667,RC Strasbourg Alsace,37,37,,0,0,0,0,1,0,0,0,3330.0,43,13,Goalkeeper
+127217,24/25,IT1,Serie A,276,Hellas Verona,30,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+127217,23/24,IT1,Serie A,276,Hellas Verona,20,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+127217,22/23,IT1,Serie A,276,Hellas Verona,34,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+127217,21/22,IT1,Serie A,276,Hellas Verona,31,1,,0,0,0,0,0,0,0,0,90.0,3,0,Goalkeeper
+128899,22/23,GB1,Premier League,985,Manchester United,12,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+128899,22/23,GB1,Premier League,873,Crystal Palace,2,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+128899,21/22,GB1,Premier League,873,Crystal Palace,38,9,,0,0,1,0,0,0,0,0,765.0,13,1,Goalkeeper
+128969,25/26,ES1,LaLiga,3368,Levante UD,1,1,,0,0,0,0,0,0,0,0,90.0,2,0,Goalkeeper
+128969,24/25,FR1,Ligue 1,826,RC Lens,14,14,,0,0,0,0,0,0,0,0,1260.0,17,6,Goalkeeper
+128969,24/25,IT1,Serie A,12,AS Roma,19,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+128969,21/22,ES1,LaLiga,681,Real Sociedad,35,3,,0,0,0,0,0,0,0,0,270.0,5,1,Goalkeeper
+12907,23/24,IT1,Serie A,6574,US Sassuolo,37,3,,0,0,0,0,0,0,0,0,270.0,7,0,Goalkeeper
+12907,22/23,IT1,Serie A,2919,AC Monza,38,1,,0,0,0,0,0,0,0,0,90.0,3,0,Goalkeeper
+12907,21/22,IT1,Serie A,1390,Cagliari Calcio,35,35,,0,0,0,0,3,0,0,0,3150.0,63,2,Goalkeeper
+129374,23/24,ES1,LaLiga,16795,Granada CF,17,3,,0,0,0,0,0,0,0,0,270.0,11,0,Goalkeeper
+130164,25/26,GB1,Premier League,29,Everton FC,3,3,,0,0,0,0,0,0,0,0,270.0,3,1,Goalkeeper
+130164,24/25,GB1,Premier League,29,Everton FC,38,38,,0,0,0,0,7,0,0,0,3420.0,44,12,Goalkeeper
+130164,23/24,GB1,Premier League,29,Everton FC,38,38,,1,0,0,0,5,0,0,0,3420.0,51,13,Goalkeeper
+130164,22/23,GB1,Premier League,29,Everton FC,37,37,,0,0,0,0,5,0,0,0,3330.0,57,8,Goalkeeper
+130164,21/22,GB1,Premier League,29,Everton FC,35,35,,0,0,0,0,2,0,0,0,3150.0,58,7,Goalkeeper
+130388,21/22,IT1,Serie A,410,Udinese Calcio,3,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+131758,24/25,IT1,Serie A,607,Venezia FC,36,8,,1,0,1,0,0,0,0,0,702.0,15,2,Goalkeeper
+13572,21/22,GB1,Premier League,1010,Watford FC,28,26,,0,0,0,0,0,0,0,0,2340.0,49,4,Goalkeeper
+135747,25/26,IT1,Serie A,430,ACF Fiorentina,2,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+135747,21/22,IT1,Serie A,607,Venezia FC,13,6,,0,0,0,1,2,0,0,0,495.0,9,1,Goalkeeper
+136111,25/26,IT1,Serie A,252,Genoa CFC,2,2,,0,0,0,0,0,0,0,0,180.0,1,1,Goalkeeper
+136111,24/25,IT1,Serie A,252,Genoa CFC,38,29,,1,0,0,0,1,0,0,0,2610.0,31,10,Goalkeeper
+136111,23/24,IT1,Serie A,252,Genoa CFC,37,3,,0,0,1,1,1,0,0,0,177.0,2,2,Goalkeeper
+1361456,24/25,ES1,LaLiga,472,UD Las Palmas,10,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+136401,24/25,GB1,Premier League,543,Wolverhampton Wanderers,18,2,,0,0,0,0,0,0,0,0,180.0,4,1,Goalkeeper
+136401,23/24,GB1,Premier League,543,Wolverhampton Wanderers,38,5,,0,0,2,0,0,0,0,0,382.0,7,2,Goalkeeper
+136401,22/23,GB1,Premier League,543,Wolverhampton Wanderers,18,2,,0,0,0,0,0,0,0,0,180.0,3,0,Goalkeeper
+14044,23/24,GB1,Premier League,29,Everton FC,10,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+14044,22/23,GB1,Premier League,29,Everton FC,4,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+14044,21/22,GB1,Premier League,29,Everton FC,11,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+142389,23/24,GB1,Premier League,762,Newcastle United,12,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+142389,22/23,GB1,Premier League,762,Newcastle United,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+142389,21/22,GB1,Premier League,762,Newcastle United,11,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+144128,25/26,ES1,LaLiga,1531,Elche CF,4,4,,0,0,0,0,1,0,0,0,360.0,4,1,Goalkeeper
+144128,21/22,ES1,LaLiga,940,Celta de Vigo,38,38,,0,0,0,0,1,0,0,0,3420.0,43,14,Goalkeeper
+14555,24/25,GB1,Premier League,281,Manchester City,16,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+14555,23/24,GB1,Premier League,281,Manchester City,13,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+14555,22/23,GB1,Premier League,281,Manchester City,5,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+14555,21/22,GB1,Premier League,281,Manchester City,18,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+146227,24/25,ES1,LaLiga,472,UD Las Palmas,32,27,,0,0,0,2,1,0,0,0,2337.0,42,4,Goalkeeper
+146227,21/22,ES1,LaLiga,1049,Valencia CF,29,17,,0,0,0,1,1,0,0,0,1458.0,29,3,Goalkeeper
+146693,23/24,L1,Bundesliga,105,SV Darmstadt 98,26,3,,0,0,0,0,2,0,0,0,270.0,10,0,Goalkeeper
+146714,23/24,L1,Bundesliga,167,FC Augsburg,34,3,,0,0,0,0,0,0,0,0,270.0,8,0,Goalkeeper
+146714,22/23,L1,Bundesliga,167,FC Augsburg,26,11,,0,0,0,0,0,0,0,0,990.0,22,1,Goalkeeper
+146714,21/22,L1,Bundesliga,167,FC Augsburg,32,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+146799,21/22,IT1,Serie A,749,FC Empoli,2,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+147051,25/26,FR1,Ligue 1,1158,FC Lorient,1,1,,0,0,0,0,0,0,0,0,90.0,4,0,Goalkeeper
+147051,23/24,FR1,Ligue 1,1158,FC Lorient,34,34,,0,0,0,0,1,0,0,0,3060.0,66,4,Goalkeeper
+147051,22/23,FR1,Ligue 1,1158,FC Lorient,22,21,,0,0,0,1,0,0,0,0,1813.0,29,3,Goalkeeper
+152460,24/25,L1,Bundesliga,35,FC St. Pauli,10,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+155038,24/25,IT1,Serie A,607,Venezia FC,38,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+157390,24/25,A1,Bundesliga,170,Rapid Vienna,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+157390,21/22,A1,Bundesliga,266,SV Ried,26,2,,0,0,1,0,0,0,0,0,96.0,3,0,Goalkeeper
+159758,22/23,A1,Bundesliga,3551,SCR Altach,7,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+159758,21/22,A1,Bundesliga,3551,SCR Altach,3,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+160929,25/26,L1,Bundesliga,3,1.FC Köln,2,2,,0,0,0,0,0,0,0,0,180.0,1,1,Goalkeeper
+160929,23/24,L1,Bundesliga,3,1.FC Köln,34,34,,0,0,0,0,0,0,0,0,3060.0,60,4,Goalkeeper
+160929,22/23,L1,Bundesliga,3,1.FC Köln,34,34,,0,0,0,0,1,0,0,0,3060.0,54,6,Goalkeeper
+160929,21/22,L1,Bundesliga,3,1.FC Köln,31,21,,0,0,0,0,1,0,0,0,1890.0,28,3,Goalkeeper
+160954,24/25,L1,Bundesliga,60,SC Freiburg,12,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+160971,24/25,L1,Bundesliga,23826,RB Leipzig,14,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+160971,23/24,L1,Bundesliga,23826,RB Leipzig,10,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+160963,25/26,L1,Bundesliga,39,1.FSV Mainz 05,2,2,,0,0,0,0,1,0,0,0,180.0,2,0,Goalkeeper
+160963,24/25,L1,Bundesliga,39,1.FSV Mainz 05,32,32,,0,0,0,0,3,0,0,0,2880.0,41,9,Goalkeeper
+160963,23/24,L1,Bundesliga,39,1.FSV Mainz 05,30,30,,0,0,0,0,3,0,0,0,2700.0,48,7,Goalkeeper
+160963,22/23,L1,Bundesliga,39,1.FSV Mainz 05,27,26,,0,0,0,0,1,0,0,0,2340.0,39,7,Goalkeeper
+160963,21/22,L1,Bundesliga,39,1.FSV Mainz 05,34,32,,0,0,0,0,1,0,0,0,2880.0,42,10,Goalkeeper
+161057,24/25,L1,Bundesliga,89,1.FC Union Berlin,8,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+162027,23/24,ES1,LaLiga,2687,Cádiz CF,37,5,,0,0,1,0,1,0,0,0,371.0,8,2,Goalkeeper
+162027,22/23,ES1,LaLiga,2687,Cádiz CF,27,4,,0,0,0,0,0,0,0,0,360.0,5,1,Goalkeeper
+162027,21/22,ES1,LaLiga,2687,Cádiz CF,38,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+163048,25/26,IT1,Serie A,416,Torino FC,2,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+163048,24/25,IT1,Serie A,416,Torino FC,38,1,,0,0,0,0,0,0,0,0,90.0,3,0,Goalkeeper
+163568,23/24,FR1,Ligue 1,1158,FC Lorient,25,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+163568,21/22,FR1,Ligue 1,273,Stade Rennais FC,26,25,,0,0,0,0,1,0,0,0,2250.0,25,10,Goalkeeper
+163652,21/22,IT1,Serie A,749,FC Empoli,23,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+164904,25/26,FR1,Ligue 1,738,Le Havre AC,3,3,,0,0,0,0,0,0,0,0,270.0,6,0,Goalkeeper
+164904,23/24,FR1,Ligue 1,3524,Clermont Foot 63,30,30,,0,0,0,0,3,0,0,0,2700.0,54,5,Goalkeeper
+164904,22/23,FR1,Ligue 1,3524,Clermont Foot 63,37,37,,0,0,0,0,0,0,0,0,3330.0,47,10,Goalkeeper
+164915,25/26,FR1,Ligue 1,738,Le Havre AC,3,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+165467,25/26,ES1,LaLiga,1049,Valencia CF,2,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+165467,24/25,ES1,LaLiga,1049,Valencia CF,38,4,,0,0,0,0,1,0,0,0,360.0,6,0,Goalkeeper
+165467,23/24,ES1,LaLiga,367,Rayo Vallecano,38,37,,0,0,0,0,1,0,0,0,3330.0,47,13,Goalkeeper
+165467,22/23,ES1,LaLiga,367,Rayo Vallecano,38,37,,0,0,0,1,4,0,0,0,3325.0,49,9,Goalkeeper
+165467,21/22,ES1,LaLiga,367,Rayo Vallecano,37,31,,0,0,1,0,0,0,0,0,2771.0,37,9,Goalkeeper
+16633,22/23,IT1,Serie A,46,Inter Milan,35,1,,0,0,1,0,0,0,0,0,25.0,0,1,Goalkeeper
+16633,21/22,IT1,Serie A,46,Inter Milan,29,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+167685,22/23,IT1,Serie A,380,US Salernitana 1919,9,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+16911,22/23,FR1,Ligue 1,417,OGC Nice,38,36,,0,0,0,0,0,0,0,0,3240.0,35,11,Goalkeeper
+16911,21/22,GB1,Premier League,1003,Leicester City,38,37,,0,0,0,0,1,0,0,0,3330.0,58,7,Goalkeeper
+169271,22/23,A1,Bundesliga,3551,SCR Altach,32,23,,0,0,0,0,0,0,0,0,2070.0,38,4,Goalkeeper
+169271,21/22,A1,Bundesliga,3551,SCR Altach,30,30,,0,0,0,1,0,0,0,0,2696.0,48,6,Goalkeeper
+170517,21/22,L1,Bundesliga,65,SpVgg Greuther Fürth,18,8,,0,0,0,0,0,0,0,0,720.0,30,0,Goalkeeper
+170911,25/26,FR1,Ligue 1,290,AJ Auxerre,2,2,,0,0,0,0,0,0,0,0,135.0,2,1,Goalkeeper
+170911,24/25,FR1,Ligue 1,290,AJ Auxerre,32,32,,0,0,0,0,4,0,0,0,2880.0,48,9,Goalkeeper
+170911,22/23,FR1,Ligue 1,290,AJ Auxerre,36,2,,0,0,0,0,0,0,0,0,180.0,2,0,Goalkeeper
+172015,24/25,ES1,LaLiga,714,RCD Espanyol Barcelona,30,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+172015,22/23,ES1,LaLiga,714,RCD Espanyol Barcelona,19,16,,0,0,0,0,0,0,0,0,1440.0,33,3,Goalkeeper
+172015,22/23,ES1,LaLiga,3302,UD Almería,11,1,,0,0,0,0,0,0,0,0,90.0,2,0,Goalkeeper
+172015,21/22,ES1,LaLiga,1108,Deportivo Alavés,35,34,,0,0,0,1,1,0,0,0,3054.0,60,6,Goalkeeper
+17259,25/26,L1,Bundesliga,27,Bayern Munich,2,2,,0,0,0,0,0,0,0,0,180.0,2,1,Goalkeeper
+17259,24/25,L1,Bundesliga,27,Bayern Munich,23,22,,0,0,0,0,0,0,0,0,1980.0,15,13,Goalkeeper
+17259,23/24,L1,Bundesliga,27,Bayern Munich,23,23,,0,0,0,1,1,0,0,0,2054.0,33,7,Goalkeeper
+17259,22/23,L1,Bundesliga,27,Bayern Munich,12,12,,0,0,0,0,0,0,0,0,1080.0,11,4,Goalkeeper
+17259,21/22,L1,Bundesliga,27,Bayern Munich,29,28,,0,0,0,1,0,0,0,0,2511.0,26,10,Goalkeeper
+179658,21/22,MAL1,Premier League,10262,Birkirkara FC,1,1,,0,0,0,1,1,0,0,0,45.0,2,0,Goalkeeper
+17965,22/23,GB1,Premier League,148,Tottenham Hotspur,26,25,,1,0,0,1,0,0,0,0,2205.0,39,7,Goalkeeper
+17965,21/22,GB1,Premier League,148,Tottenham Hotspur,38,38,,0,0,0,0,2,0,0,0,3420.0,40,16,Goalkeeper
+181454,22/23,A1,Bundesliga,4467,TSV Hartberg,13,12,,1,0,0,0,3,0,0,0,1080.0,29,1,Goalkeeper
+181454,21/22,A1,Bundesliga,4467,TSV Hartberg,27,27,,0,0,0,1,7,0,0,0,2350.0,37,7,Goalkeeper
+181720,23/24,A1,Bundesliga,4467,TSV Hartberg,28,0,0.0,0,0,0,0,1,0,0,0,,0,0,Goalkeeper
+182891,22/23,FR1,Ligue 1,162,AS Monaco,38,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+182906,25/26,IT1,Serie A,5,AC Milan,2,2,,0,0,0,0,0,0,0,0,180.0,2,1,Goalkeeper
+182906,24/25,IT1,Serie A,5,AC Milan,37,37,,0,0,0,1,1,0,0,0,3295.0,41,13,Goalkeeper
+182906,23/24,IT1,Serie A,5,AC Milan,31,29,,0,0,0,0,1,0,0,0,2610.0,34,11,Goalkeeper
+182906,22/23,IT1,Serie A,5,AC Milan,22,22,,0,0,0,1,0,0,0,0,1979.0,21,8,Goalkeeper
+182906,21/22,IT1,Serie A,5,AC Milan,32,32,,0,0,0,0,1,0,0,0,2880.0,21,17,Goalkeeper
+186374,25/26,A1,Bundesliga,409,Red Bull Salzburg,5,5,,0,0,0,0,0,0,0,0,450.0,5,2,Goalkeeper
+186374,24/25,A1,Bundesliga,409,Red Bull Salzburg,26,21,,0,0,0,0,3,0,0,0,1890.0,22,7,Goalkeeper
+186374,23/24,A1,Bundesliga,409,Red Bull Salzburg,29,28,,0,0,0,0,4,0,0,0,2520.0,24,14,Goalkeeper
+186374,22/23,A1,Bundesliga,413,LASK,28,25,,0,0,0,0,2,0,0,0,2250.0,29,4,Goalkeeper
+186374,21/22,A1,Bundesliga,413,LASK,32,32,,0,0,0,0,3,0,0,0,2880.0,42,8,Goalkeeper
+186901,23/24,GB1,Premier League,931,Fulham FC,38,0,0.0,0,0,0,0,1,0,0,0,,0,0,Goalkeeper
+186901,22/23,GB1,Premier League,931,Fulham FC,38,2,,0,0,0,0,0,0,0,0,180.0,2,1,Goalkeeper
+187624,25/26,L1,Bundesliga,79,VfB Stuttgart,2,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+187624,24/25,L1,Bundesliga,79,VfB Stuttgart,34,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+187624,23/24,L1,Bundesliga,79,VfB Stuttgart,30,4,,0,0,0,0,0,0,0,0,360.0,3,1,Goalkeeper
+187624,22/23,L1,Bundesliga,79,VfB Stuttgart,33,15,,0,0,0,0,2,0,0,0,1350.0,23,1,Goalkeeper
+187624,21/22,L1,Bundesliga,79,VfB Stuttgart,30,4,,0,0,0,0,0,0,0,0,360.0,7,0,Goalkeeper
+188881,21/22,A1,Bundesliga,503,FC Admira Wacker Mödling,29,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+188930,21/22,FR1,Ligue 1,1420,Angers SCO,37,15,,0,0,0,0,1,0,0,0,1350.0,22,2,Goalkeeper
+18940,25/26,FR1,Ligue 1,10004,Paris FC,2,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+18940,23/24,FR1,Ligue 1,1041,Olympique Lyon,13,3,,0,0,0,0,0,0,0,0,270.0,6,1,Goalkeeper
+18940,22/23,FR1,Ligue 1,1041,Olympique Lyon,38,7,,0,0,1,0,0,0,0,0,600.0,8,1,Goalkeeper
+189744,22/23,FR1,Ligue 1,1158,FC Lorient,3,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+189744,21/22,FR1,Ligue 1,1158,FC Lorient,38,22,,0,0,0,0,1,0,0,0,1980.0,38,4,Goalkeeper
+190263,23/24,ES1,LaLiga,237,RCD Mallorca,38,36,,0,0,0,0,2,0,0,0,3240.0,43,9,Goalkeeper
+190263,22/23,ES1,LaLiga,237,RCD Mallorca,38,36,,0,0,0,0,3,0,0,0,3240.0,40,12,Goalkeeper
+190263,21/22,FR1,Ligue 1,1421,Stade Reims,38,38,,0,0,0,0,2,0,0,0,3420.0,44,11,Goalkeeper
+190280,25/26,FR1,Ligue 1,995,FC Nantes,3,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+190280,24/25,FR1,Ligue 1,995,FC Nantes,31,5,,0,0,1,0,0,0,0,0,416.0,7,1,Goalkeeper
+191056,25/26,FR1,Ligue 1,273,Stade Rennais FC,3,3,,0,0,0,0,0,0,0,0,270.0,5,1,Goalkeeper
+191056,24/25,FR1,Ligue 1,273,Stade Rennais FC,17,17,,0,0,0,1,3,0,0,0,1530.0,27,5,Goalkeeper
+191056,24/25,FR1,Ligue 1,826,RC Lens,15,15,,0,0,0,0,1,0,0,0,1350.0,14,7,Goalkeeper
+191056,23/24,FR1,Ligue 1,826,RC Lens,33,33,,1,0,0,0,3,0,0,0,2970.0,35,14,Goalkeeper
+191056,22/23,FR1,Ligue 1,826,RC Lens,38,37,,0,0,0,0,3,0,0,0,3330.0,28,15,Goalkeeper
+19114,22/23,L1,Bundesliga,33,FC Schalke 04,5,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+192080,25/26,GB1,Premier League,762,Newcastle United,3,3,,0,0,0,0,1,0,0,0,270.0,3,2,Goalkeeper
+192080,24/25,GB1,Premier League,762,Newcastle United,31,28,,0,0,0,0,2,0,0,0,2520.0,35,8,Goalkeeper
+192080,23/24,GB1,Premier League,762,Newcastle United,18,15,,0,0,0,1,1,0,0,0,1346.0,16,6,Goalkeeper
+192080,22/23,GB1,Premier League,762,Newcastle United,37,37,,0,0,0,0,3,0,0,0,3262.0,32,14,Goalkeeper
+192080,21/22,GB1,Premier League,1132,Burnley FC,36,36,,0,0,0,0,1,0,0,0,3240.0,47,9,Goalkeeper
+192268,23/24,L1,Bundesliga,82,VfL Wolfsburg,7,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+192268,22/23,L1,Bundesliga,82,VfL Wolfsburg,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+192268,21/22,L1,Bundesliga,82,VfL Wolfsburg,6,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+192279,25/26,GB1,Premier League,11,Arsenal FC,3,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+192279,24/25,GB1,Premier League,989,AFC Bournemouth,32,31,,0,0,0,0,2,0,0,0,2790.0,39,8,Goalkeeper
+192279,23/24,ES1,LaLiga,418,Real Madrid,35,14,,0,0,1,0,1,0,0,0,1197.0,9,8,Goalkeeper
+192279,22/23,GB1,Premier League,631,Chelsea FC,36,29,,0,0,0,1,1,0,0,0,2565.0,33,9,Goalkeeper
+192279,21/22,GB1,Premier League,631,Chelsea FC,38,4,,0,0,0,0,0,0,0,0,360.0,2,2,Goalkeeper
+193256,24/25,FR1,Ligue 1,273,Stade Rennais FC,17,1,,0,0,1,0,0,0,0,0,45.0,0,1,Goalkeeper
+193256,23/24,FR1,Ligue 1,273,Stade Rennais FC,34,0,0.0,0,0,0,0,1,0,0,0,,0,0,Goalkeeper
+193256,22/23,FR1,Ligue 1,1095,ESTAC Troyes,35,30,,0,0,0,0,3,0,0,0,2668.0,65,0,Goalkeeper
+193256,21/22,FR1,Ligue 1,1095,ESTAC Troyes,31,31,,0,0,0,0,2,0,0,0,2790.0,45,8,Goalkeeper
+194457,25/26,A1,Bundesliga,316,Grazer AK 1902,5,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+194457,24/25,A1,Bundesliga,316,Grazer AK 1902,13,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+195488,25/26,ES1,LaLiga,12321,Girona FC,2,2,,0,0,0,0,0,0,0,0,133.0,4,0,Goalkeeper
+195488,24/25,ES1,LaLiga,12321,Girona FC,38,36,,0,0,0,1,3,0,0,0,3195.0,51,9,Goalkeeper
+195488,23/24,ES1,LaLiga,12321,Girona FC,38,38,,0,0,0,0,2,0,0,0,3420.0,46,12,Goalkeeper
+195488,22/23,ES1,LaLiga,12321,Girona FC,35,28,,0,0,0,0,4,0,0,0,2520.0,37,4,Goalkeeper
+195778,25/26,L1,Bundesliga,79,VfB Stuttgart,2,2,,0,0,0,0,0,0,0,0,180.0,2,1,Goalkeeper
+195778,24/25,L1,Bundesliga,79,VfB Stuttgart,34,34,,0,0,0,0,0,0,0,0,3060.0,53,7,Goalkeeper
+195778,23/24,L1,Bundesliga,79,VfB Stuttgart,30,30,,1,0,0,0,1,0,0,0,2700.0,36,11,Goalkeeper
+195778,22/23,FR1,Ligue 1,162,AS Monaco,38,38,,0,0,0,0,1,0,0,0,3420.0,58,9,Goalkeeper
+195778,21/22,FR1,Ligue 1,162,AS Monaco,38,38,,1,0,0,0,0,0,0,0,3420.0,40,11,Goalkeeper
+196722,25/26,GB1,Premier League,873,Crystal Palace,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+196722,24/25,GB1,Premier League,873,Crystal Palace,7,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+196722,23/24,GB1,Premier League,873,Crystal Palace,29,1,,0,0,1,0,0,0,0,0,3.0,1,0,Goalkeeper
+196722,21/22,GB1,Premier League,873,Crystal Palace,7,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+196813,25/26,L1,Bundesliga,24,Eintracht Frankfurt,3,3,,0,0,0,0,0,0,0,0,270.0,5,0,Goalkeeper
+196813,24/25,L1,Bundesliga,86,SV Werder Bremen,34,34,,0,0,0,0,2,0,0,0,3060.0,57,10,Goalkeeper
+196813,23/24,L1,Bundesliga,86,SV Werder Bremen,34,27,,0,0,0,0,2,0,0,0,2430.0,37,6,Goalkeeper
+196813,22/23,L1,Bundesliga,86,SV Werder Bremen,34,2,,0,0,1,0,0,0,0,0,151.0,3,0,Goalkeeper
+199221,21/22,L1,Bundesliga,65,SpVgg Greuther Fürth,16,12,,0,0,0,0,0,0,0,0,1080.0,24,3,Goalkeeper
+199321,23/24,FR1,Ligue 1,244,Olympique Marseille,32,2,,0,0,1,0,0,0,0,0,120.0,2,0,Goalkeeper
+199321,22/23,FR1,Ligue 1,244,Olympique Marseille,38,6,,0,0,0,1,0,0,0,0,495.0,6,1,Goalkeeper
+199321,21/22,ES1,LaLiga,940,Celta de Vigo,36,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+19948,22/23,GB1,Premier League,180,Southampton FC,11,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+19948,21/22,GB1,Premier League,180,Southampton FC,21,2,,0,0,0,0,1,0,0,0,180.0,5,0,Goalkeeper
+199976,25/26,IT1,Serie A,800,Atalanta BC,2,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+199976,24/25,IT1,Serie A,5,AC Milan,31,2,,0,0,1,0,0,0,0,0,125.0,2,1,Goalkeeper
+199976,23/24,IT1,Serie A,5,AC Milan,26,7,,0,0,0,0,0,0,0,0,630.0,11,2,Goalkeeper
+199976,22/23,IT1,Serie A,800,Atalanta BC,37,15,,0,0,1,1,0,0,0,0,1339.0,21,2,Goalkeeper
+199976,21/22,IT1,Serie A,800,Atalanta BC,37,5,,0,0,0,0,1,0,0,0,450.0,5,2,Goalkeeper
+201574,25/26,GB1,Premier League,703,Nottingham Forest,3,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+201574,21/22,GB1,Premier League,1123,Norwich City,38,9,,0,0,0,0,0,0,0,0,810.0,22,1,Goalkeeper
+201731,24/25,A1,Bundesliga,14,Austria Vienna,6,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+201731,23/24,A1,Bundesliga,14,Austria Vienna,3,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+203026,24/25,GB1,Premier League,1003,Leicester City,16,2,,0,0,1,0,0,0,0,0,135.0,6,0,Goalkeeper
+203026,22/23,GB1,Premier League,1003,Leicester City,35,26,,0,0,0,0,0,0,0,0,2340.0,46,6,Goalkeeper
+203026,21/22,GB1,Premier League,1003,Leicester City,32,1,,0,0,0,0,0,0,0,0,90.0,1,0,Goalkeeper
+203411,24/25,L1,Bundesliga,533,TSG 1899 Hoffenheim,4,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+203411,23/24,L1,Bundesliga,89,1.FC Union Berlin,6,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+203411,22/23,L1,Bundesliga,89,1.FC Union Berlin,5,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+203411,21/22,L1,Bundesliga,89,1.FC Union Berlin,5,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+205465,24/25,FR1,Ligue 1,1082,LOSC Lille,4,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+205465,21/22,FR1,Ligue 1,347,FC Metz,34,19,,0,0,2,0,1,0,0,0,1540.0,30,6,Goalkeeper
+207302,22/23,FR1,Ligue 1,583,Paris Saint-Germain,25,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+207302,21/22,ES1,LaLiga,237,RCD Mallorca,18,14,,0,0,0,0,0,0,0,0,1260.0,29,1,Goalkeeper
+207302,21/22,FR1,Ligue 1,583,Paris Saint-Germain,7,1,,0,0,1,0,0,0,0,0,22.0,1,0,Goalkeeper
+207834,23/24,ES1,LaLiga,368,Sevilla FC,1,1,,0,0,0,0,0,0,0,0,90.0,2,0,Goalkeeper
+207834,22/23,ES1,LaLiga,368,Sevilla FC,38,25,,0,0,0,2,2,0,0,0,2152.0,41,5,Goalkeeper
+207834,21/22,ES1,LaLiga,368,Sevilla FC,33,31,,0,0,0,0,2,0,0,0,2790.0,24,13,Goalkeeper
+208166,22/23,IT1,Serie A,3522,Spezia Calcio,37,34,,0,0,0,2,1,0,0,0,2948.0,54,7,Goalkeeper
+208166,21/22,IT1,Serie A,430,ACF Fiorentina,25,7,,0,0,0,0,0,0,0,0,557.0,8,3,Goalkeeper
+208379,24/25,GB1,Premier League,677,Ipswich Town,34,7,,0,0,0,0,0,0,0,0,630.0,19,1,Goalkeeper
+212862,25/26,ES1,LaLiga,681,Real Sociedad,3,3,,0,0,0,0,0,0,0,0,270.0,4,0,Goalkeeper
+212862,24/25,ES1,LaLiga,681,Real Sociedad,38,36,,0,0,0,0,0,0,0,0,3240.0,43,13,Goalkeeper
+212862,23/24,ES1,LaLiga,681,Real Sociedad,37,37,,0,0,0,0,2,0,0,0,3276.0,36,16,Goalkeeper
+212862,22/23,ES1,LaLiga,681,Real Sociedad,38,38,,0,0,0,0,1,0,0,0,3420.0,35,15,Goalkeeper
+212862,21/22,ES1,LaLiga,681,Real Sociedad,38,35,,0,0,0,0,1,0,0,0,3150.0,32,19,Goalkeeper
+21327,25/26,L1,Bundesliga,3,1.FC Köln,2,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+215167,22/23,IT1,Serie A,1005,US Lecce,38,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+215810,24/25,GB1,Premier League,543,Wolverhampton Wanderers,3,1,,0,0,1,0,0,0,0,0,1.0,0,1,Goalkeeper
+215810,23/24,GB1,Premier League,543,Wolverhampton Wanderers,4,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+21726,21/22,L1,Bundesliga,23826,RB Leipzig,14,1,,0,0,1,0,0,0,0,0,3.0,0,1,Goalkeeper
+21872,23/24,IT1,Serie A,6574,US Sassuolo,37,0,0.0,0,0,0,0,1,0,0,0,,0,0,Goalkeeper
+21872,22/23,IT1,Serie A,6574,US Sassuolo,38,2,,0,0,0,0,0,0,0,0,180.0,3,0,Goalkeeper
+21872,21/22,IT1,Serie A,6574,US Sassuolo,38,1,,0,0,0,0,0,0,0,0,90.0,3,0,Goalkeeper
+22141,23/24,IT1,Serie A,5,AC Milan,29,2,,0,0,0,1,0,0,0,0,178.0,3,0,Goalkeeper
+22141,22/23,IT1,Serie A,5,AC Milan,38,1,,0,0,1,0,0,0,0,0,1.0,0,1,Goalkeeper
+22141,21/22,IT1,Serie A,5,AC Milan,29,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+221624,21/22,GB1,Premier League,281,Manchester City,30,1,,0,0,0,0,0,0,0,0,90.0,0,1,Goalkeeper
+22318,23/24,MAL1,Premier League,17149,Hamrun Spartans,23,10,,0,0,0,1,1,0,0,0,855.0,6,6,Goalkeeper
+22318,22/23,IT1,Serie A,3522,Spezia Calcio,18,1,,0,0,1,0,0,0,0,0,58.0,2,0,Goalkeeper
+22318,21/22,IT1,Serie A,252,Genoa CFC,25,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+223972,22/23,L1,Bundesliga,15,Bayer 04 Leverkusen,15,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+223972,22/23,FR1,Ligue 1,1421,Stade Reims,19,7,,0,0,0,0,1,0,0,0,630.0,14,0,Goalkeeper
+223972,21/22,A1,Bundesliga,14,Austria Vienna,32,32,,0,0,0,0,1,0,0,0,2880.0,39,6,Goalkeeper
+225360,24/25,A1,Bundesliga,4467,TSV Hartberg,31,31,,0,0,0,0,3,0,0,0,2790.0,40,8,Goalkeeper
+225360,23/24,A1,Bundesliga,4467,TSV Hartberg,32,32,,0,0,0,0,4,0,0,0,2880.0,52,10,Goalkeeper
+225360,22/23,A1,Bundesliga,4467,TSV Hartberg,32,20,,0,0,0,1,2,0,0,0,1798.0,27,6,Goalkeeper
+225360,21/22,A1,Bundesliga,4467,TSV Hartberg,30,5,,0,0,1,0,0,0,0,0,440.0,9,0,Goalkeeper
+226012,25/26,ES1,LaLiga,3709,Getafe CF,3,3,,0,0,0,0,1,0,0,0,270.0,4,1,Goalkeeper
+226012,24/25,ES1,LaLiga,3709,Getafe CF,38,38,,0,0,0,0,2,0,0,0,3420.0,39,9,Goalkeeper
+226012,23/24,ES1,LaLiga,3709,Getafe CF,38,38,,0,0,0,1,3,0,0,0,3414.0,52,11,Goalkeeper
+226012,22/23,ES1,LaLiga,3709,Getafe CF,38,38,,0,0,0,0,3,0,0,0,3420.0,45,13,Goalkeeper
+226012,21/22,ES1,LaLiga,3709,Getafe CF,38,38,,0,0,0,1,4,0,0,0,3415.0,41,14,Goalkeeper
+226049,21/22,GB1,Premier League,762,Newcastle United,5,4,,0,0,0,0,0,0,0,0,360.0,12,0,Goalkeeper
+226073,23/24,GB1,Premier League,350,Sheffield United,14,9,,0,0,0,1,1,0,0,0,772.0,25,0,Goalkeeper
+226073,23/24,ES1,LaLiga,13,Atlético de Madrid,18,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+226073,22/23,ES1,LaLiga,13,Atlético de Madrid,38,12,,0,0,2,1,3,0,0,0,921.0,12,3,Goalkeeper
+226073,21/22,FR1,Ligue 1,1082,LOSC Lille,32,21,,0,0,0,0,3,0,0,0,1890.0,28,2,Goalkeeper
+226073,21/22,ES1,LaLiga,13,Atlético de Madrid,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+22628,23/24,IT1,Serie A,380,US Salernitana 1919,38,13,,0,0,0,0,0,0,0,0,1170.0,29,1,Goalkeeper
+22628,22/23,FR1,Ligue 1,1082,LOSC Lille,19,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+22628,22/23,FR1,Ligue 1,290,AJ Auxerre,19,19,,0,0,0,0,0,0,0,0,1710.0,41,2,Goalkeeper
+22628,21/22,FR1,Ligue 1,40,FC Girondins Bordeaux,29,25,,0,0,0,0,1,0,0,0,2250.0,62,0,Goalkeeper
+227089,23/24,L1,Bundesliga,3,1.FC Köln,10,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+227089,22/23,L1,Bundesliga,3,1.FC Köln,3,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+227089,21/22,L1,Bundesliga,3,1.FC Köln,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+227805,24/25,ES1,LaLiga,1049,Valencia CF,23,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+227805,23/24,ES1,LaLiga,1049,Valencia CF,34,2,,0,0,1,1,0,0,0,0,79.0,3,1,Goalkeeper
+227805,22/23,ES1,LaLiga,1049,Valencia CF,12,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+227805,21/22,ES1,LaLiga,1049,Valencia CF,32,4,,0,0,1,0,2,0,0,0,342.0,4,2,Goalkeeper
+228975,22/23,FR1,Ligue 1,1158,FC Lorient,11,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+228975,21/22,FR1,Ligue 1,1041,Olympique Lyon,35,6,,0,0,2,0,0,0,0,0,434.0,6,2,Goalkeeper
+229604,25/26,FR1,Ligue 1,244,Olympique Marseille,4,3,,0,0,0,0,0,0,0,0,270.0,4,0,Goalkeeper
+229604,24/25,FR1,Ligue 1,244,Olympique Marseille,34,34,,0,0,0,0,1,0,0,0,3060.0,47,5,Goalkeeper
+229604,22/23,ES1,LaLiga,1050,Villarreal CF,15,14,,0,0,0,0,1,0,0,0,1260.0,10,7,Goalkeeper
+229604,21/22,ES1,LaLiga,1050,Villarreal CF,38,32,,0,0,0,0,2,0,0,0,2880.0,28,14,Goalkeeper
+234509,25/26,GB1,Premier League,985,Manchester United,2,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+234509,24/25,GB1,Premier League,985,Manchester United,34,34,,0,0,0,0,0,0,0,0,3060.0,44,9,Goalkeeper
+234509,23/24,GB1,Premier League,985,Manchester United,38,38,,0,0,0,0,5,0,0,0,3420.0,58,9,Goalkeeper
+234509,22/23,IT1,Serie A,46,Inter Milan,38,24,,1,0,0,0,1,0,0,0,2160.0,24,8,Goalkeeper
+234811,24/25,ES1,LaLiga,150,Real Betis Balompié,16,15,,0,0,0,0,1,0,0,0,1350.0,18,4,Goalkeeper
+234811,23/24,ES1,LaLiga,150,Real Betis Balompié,34,28,,1,0,0,1,4,0,0,0,2475.0,36,9,Goalkeeper
+234811,22/23,ES1,LaLiga,150,Real Betis Balompié,37,26,,0,0,0,0,2,0,0,0,2340.0,32,9,Goalkeeper
+234811,21/22,ES1,LaLiga,150,Real Betis Balompié,36,22,,0,0,1,0,2,0,0,0,1963.0,21,8,Goalkeeper
+234880,21/22,IT1,Serie A,252,Genoa CFC,6,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+236734,22/23,ES1,LaLiga,1531,Elche CF,38,2,,0,0,0,0,0,0,0,0,180.0,4,0,Goalkeeper
+236734,21/22,ES1,LaLiga,1531,Elche CF,12,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+236918,23/24,MAL1,Premier League,32768,Gzira United FC,22,21,,0,0,0,0,1,0,0,0,1890.0,23,6,Goalkeeper
+236918,22/23,MAL1,Premier League,32768,Gzira United FC,26,23,,0,0,0,2,0,0,0,0,1999.0,14,12,Goalkeeper
+236918,21/22,MAL1,Premier League,32768,Gzira United FC,14,14,,0,0,0,0,1,0,0,0,1260.0,23,0,Goalkeeper
+238223,25/26,GB1,Premier League,281,Manchester City,2,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+238223,24/25,GB1,Premier League,281,Manchester City,30,26,,0,0,0,1,4,0,0,0,2321.0,26,10,Goalkeeper
+238223,23/24,GB1,Premier League,281,Manchester City,35,33,,0,0,0,4,5,0,0,0,2788.0,27,13,Goalkeeper
+238223,22/23,GB1,Premier League,281,Manchester City,38,35,,0,0,0,0,3,0,0,0,3150.0,32,11,Goalkeeper
+238223,21/22,GB1,Premier League,281,Manchester City,37,37,,0,0,0,0,3,0,0,0,3330.0,26,20,Goalkeeper
+238537,25/26,IT1,Serie A,1005,US Lecce,2,2,,0,0,0,0,0,0,0,0,180.0,2,1,Goalkeeper
+238537,24/25,IT1,Serie A,1005,US Lecce,38,38,,0,0,0,0,2,0,0,0,3420.0,58,9,Goalkeeper
+238537,23/24,IT1,Serie A,1005,US Lecce,38,38,,0,0,0,0,0,0,0,0,3420.0,54,7,Goalkeeper
+238537,22/23,IT1,Serie A,1005,US Lecce,38,38,,0,0,0,0,2,0,0,0,3420.0,46,6,Goalkeeper
+238537,21/22,IT1,Serie A,1038,UC Sampdoria,37,10,,0,0,1,0,2,0,0,0,855.0,14,3,Goalkeeper
+23951,24/25,FR1,Ligue 1,273,Stade Rennais FC,34,18,,0,0,1,1,0,0,0,0,1486.0,23,7,Goalkeeper
+23951,23/24,FR1,Ligue 1,273,Stade Rennais FC,34,34,,1,0,0,0,1,0,0,0,3060.0,46,7,Goalkeeper
+23951,22/23,FR1,Ligue 1,273,Stade Rennais FC,35,34,,0,0,0,2,1,0,0,0,3015.0,31,14,Goalkeeper
+23951,21/22,FR1,Ligue 1,244,Olympique Marseille,37,9,,0,0,0,0,0,0,0,0,810.0,7,5,Goalkeeper
+23974,22/23,FR1,Ligue 1,273,Stade Rennais FC,3,0,0.0,0,0,0,0,0,1,0,0,,0,0,Goalkeeper
+23974,21/22,FR1,Ligue 1,273,Stade Rennais FC,24,1,,0,0,0,0,0,0,0,0,90.0,2,0,Goalkeeper
+240414,25/26,IT1,Serie A,6195,SSC Napoli,2,2,,0,0,0,0,0,0,0,0,180.0,0,2,Goalkeeper
+240414,24/25,IT1,Serie A,6195,SSC Napoli,35,34,,1,0,0,1,0,0,0,0,3006.0,25,17,Goalkeeper
+240414,23/24,IT1,Serie A,6195,SSC Napoli,32,31,,0,0,0,1,0,0,0,0,2774.0,40,6,Goalkeeper
+240414,22/23,IT1,Serie A,6195,SSC Napoli,38,34,,0,0,0,0,0,0,0,0,3060.0,24,16,Goalkeeper
+240414,21/22,IT1,Serie A,6195,SSC Napoli,32,7,,0,0,0,1,0,0,0,0,620.0,6,3,Goalkeeper
+240675,25/26,IT1,Serie A,276,Hellas Verona,2,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+240675,24/25,IT1,Serie A,276,Hellas Verona,38,2,,0,0,0,0,0,0,0,0,180.0,2,0,Goalkeeper
+240675,23/24,IT1,Serie A,276,Hellas Verona,38,1,,0,0,0,0,0,0,0,0,90.0,2,0,Goalkeeper
+240675,22/23,IT1,Serie A,276,Hellas Verona,36,1,,0,0,0,0,0,0,0,0,90.0,0,1,Goalkeeper
+24112,22/23,L1,Bundesliga,44,Hertha BSC,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+241923,25/26,IT1,Serie A,276,Hellas Verona,2,2,,0,0,0,0,0,0,0,0,180.0,5,0,Goalkeeper
+241923,24/25,IT1,Serie A,276,Hellas Verona,37,36,,1,0,0,0,0,0,0,0,3240.0,64,8,Goalkeeper
+241923,23/24,IT1,Serie A,276,Hellas Verona,37,37,,0,0,0,0,0,0,0,0,3330.0,49,8,Goalkeeper
+241923,22/23,IT1,Serie A,276,Hellas Verona,37,37,,0,0,0,0,1,0,0,0,3330.0,59,5,Goalkeeper
+241923,21/22,IT1,Serie A,276,Hellas Verona,36,34,,0,0,0,0,1,0,0,0,3060.0,50,4,Goalkeeper
+241974,21/22,L1,Bundesliga,44,Hertha BSC,6,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+242082,22/23,MAL1,Premier League,5617,Pietà Hotspurs FC,4,4,,0,0,0,0,0,0,0,0,360.0,13,0,Goalkeeper
+242284,23/24,GB1,Premier League,703,Nottingham Forest,4,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+242359,25/26,ES1,LaLiga,13,Atlético de Madrid,3,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+242359,24/25,ES1,LaLiga,13,Atlético de Madrid,36,2,,0,0,0,0,0,0,0,0,180.0,0,2,Goalkeeper
+242359,24/25,IT1,Serie A,800,Atalanta BC,2,1,,0,0,0,0,0,0,0,0,90.0,0,1,Goalkeeper
+242359,23/24,IT1,Serie A,800,Atalanta BC,38,11,,0,0,0,0,0,0,0,0,990.0,12,6,Goalkeeper
+242359,22/23,IT1,Serie A,800,Atalanta BC,34,24,,1,0,0,1,1,0,0,0,2078.0,27,8,Goalkeeper
+242359,21/22,IT1,Serie A,800,Atalanta BC,37,33,,0,0,0,0,1,0,0,0,2933.0,42,8,Goalkeeper
+243591,23/24,GB1,Premier League,1132,Burnley FC,5,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+244192,24/25,IT1,Serie A,12,AS Roma,16,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+244192,24/25,IT1,Serie A,252,Genoa CFC,15,7,,0,0,0,0,1,0,0,0,630.0,15,1,Goalkeeper
+244192,23/24,IT1,Serie A,6195,SSC Napoli,28,7,,0,0,0,0,0,0,0,0,630.0,8,1,Goalkeeper
+244192,22/23,IT1,Serie A,6195,SSC Napoli,19,4,,0,0,0,0,0,0,0,0,360.0,4,2,Goalkeeper
+244192,22/23,IT1,Serie A,430,ACF Fiorentina,13,3,,0,0,0,0,0,0,0,0,270.0,2,2,Goalkeeper
+244192,21/22,GB1,Premier League,148,Tottenham Hotspur,35,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+244491,23/24,IT1,Serie A,2919,AC Monza,37,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+245625,24/25,GB1,Premier League,677,Ipswich Town,13,13,,0,0,0,0,2,0,0,0,1170.0,30,0,Goalkeeper
+246335,21/22,ES1,LaLiga,3709,Getafe CF,36,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+247594,23/24,ARM1,Premier League,60368,FC Noah Yerevan,19,9,,0,0,0,0,0,0,0,0,810.0,9,4,Goalkeeper
+247594,21/22,MAL1,Premier League,32125,Mosta FC,9,6,,0,0,0,0,1,0,0,0,540.0,14,0,Goalkeeper
+247915,25/26,L1,Bundesliga,18,Borussia Mönchengladbach,2,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+247915,24/25,L1,Bundesliga,18,Borussia Mönchengladbach,23,12,,0,0,1,1,0,0,0,0,979.0,26,2,Goalkeeper
+247915,23/24,L1,Bundesliga,18,Borussia Mönchengladbach,8,7,,0,0,0,0,1,0,0,0,630.0,18,0,Goalkeeper
+247915,22/23,L1,Bundesliga,18,Borussia Mönchengladbach,15,15,,0,0,0,1,0,0,0,0,1291.0,18,5,Goalkeeper
+247915,22/23,FR1,Ligue 1,969,Montpellier HSC,14,14,,0,0,0,1,1,0,0,0,1168.0,26,3,Goalkeeper
+247915,21/22,FR1,Ligue 1,969,Montpellier HSC,29,29,,1,0,0,1,0,0,0,0,2589.0,41,9,Goalkeeper
+248454,25/26,L1,Bundesliga,35,FC St. Pauli,2,2,,0,0,0,0,0,0,0,0,180.0,3,1,Goalkeeper
+248454,24/25,L1,Bundesliga,35,FC St. Pauli,33,33,,0,0,0,0,0,1,0,0,2970.0,39,9,Goalkeeper
+248738,25/26,ES1,LaLiga,331,CA Osasuna,3,3,,0,0,0,0,0,0,0,0,270.0,2,1,Goalkeeper
+248738,24/25,ES1,LaLiga,331,CA Osasuna,37,37,,0,0,0,0,5,0,0,0,3330.0,52,8,Goalkeeper
+248738,23/24,ES1,LaLiga,331,CA Osasuna,38,32,,0,0,0,1,2,0,0,0,2870.0,47,10,Goalkeeper
+248738,22/23,ES1,LaLiga,331,CA Osasuna,36,17,,1,0,0,0,3,0,0,0,1530.0,23,3,Goalkeeper
+248738,21/22,ES1,LaLiga,331,CA Osasuna,37,36,,0,0,0,0,3,0,0,0,3240.0,48,12,Goalkeeper
+249994,25/26,GB1,Premier League,543,Wolverhampton Wanderers,3,3,,0,0,0,0,0,0,0,0,270.0,8,0,Goalkeeper
+249994,24/25,GB1,Premier League,543,Wolverhampton Wanderers,33,29,,0,0,0,1,2,0,0,0,2610.0,48,7,Goalkeeper
+249994,23/24,GB1,Premier League,543,Wolverhampton Wanderers,35,35,,0,0,0,2,1,0,0,0,3038.0,58,4,Goalkeeper
+249994,22/23,GB1,Premier League,543,Wolverhampton Wanderers,38,36,,0,0,0,0,2,0,0,0,3240.0,55,11,Goalkeeper
+249994,21/22,GB1,Premier League,543,Wolverhampton Wanderers,38,37,,1,0,0,1,3,0,0,0,3285.0,40,11,Goalkeeper
+250683,25/26,IT1,Serie A,6195,SSC Napoli,2,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+250683,24/25,IT1,Serie A,6195,SSC Napoli,30,0,0.0,0,0,0,0,1,0,0,0,,0,0,Goalkeeper
+250683,23/24,IT1,Serie A,6195,SSC Napoli,35,1,,0,0,1,0,0,0,0,0,16.0,0,1,Goalkeeper
+250683,22/23,IT1,Serie A,1038,UC Sampdoria,14,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+251322,25/26,FR1,Ligue 1,162,AS Monaco,3,1,,0,0,1,0,0,0,0,0,11.0,0,1,Goalkeeper
+251322,24/25,FR1,Ligue 1,162,AS Monaco,34,19,,0,0,0,0,1,0,0,0,1710.0,19,8,Goalkeeper
+251322,23/24,FR1,Ligue 1,162,AS Monaco,34,22,,0,0,0,0,0,0,0,0,1980.0,32,5,Goalkeeper
+251322,22/23,A1,Bundesliga,409,Red Bull Salzburg,32,32,,0,0,1,0,4,0,0,0,2847.0,21,16,Goalkeeper
+251322,21/22,A1,Bundesliga,409,Red Bull Salzburg,30,28,,0,0,0,0,0,0,0,0,2520.0,17,14,Goalkeeper
+251299,25/26,L1,Bundesliga,167,FC Augsburg,2,2,,0,0,0,0,0,0,0,0,180.0,4,0,Goalkeeper
+251299,24/25,L1,Bundesliga,167,FC Augsburg,29,19,,0,0,0,0,0,0,0,0,1710.0,19,9,Goalkeeper
+251299,23/24,L1,Bundesliga,167,FC Augsburg,31,31,,1,0,0,0,4,0,0,0,2790.0,52,3,Goalkeeper
+251299,22/23,L1,Bundesliga,39,1.FSV Mainz 05,34,8,,0,0,0,0,0,0,0,0,720.0,16,0,Goalkeeper
+251299,21/22,L1,Bundesliga,39,1.FSV Mainz 05,30,2,,0,0,0,0,0,0,0,0,180.0,3,0,Goalkeeper
+251892,24/25,ES1,LaLiga,1244,CD Leganés,37,6,,1,0,0,0,1,0,0,0,540.0,7,1,Goalkeeper
+25508,23/24,FR1,Ligue 1,417,OGC Nice,10,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+25508,22/23,IT1,Serie A,430,ACF Fiorentina,8,1,,0,0,0,0,0,0,0,0,90.0,0,1,Goalkeeper
+25508,22/23,IT1,Serie A,6195,SSC Napoli,15,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+25508,21/22,IT1,Serie A,252,Genoa CFC,38,37,,1,0,0,0,0,0,0,0,3330.0,59,10,Goalkeeper
+255287,22/23,A1,Bundesliga,4467,TSV Hartberg,5,1,,0,0,1,0,0,0,0,0,2.0,0,1,Goalkeeper
+255287,21/22,A1,Bundesliga,4467,TSV Hartberg,6,1,,0,0,0,0,0,0,0,0,90.0,1,0,Goalkeeper
+256339,25/26,IT1,Serie A,2239,US Cremonese,2,2,,0,0,0,0,0,0,0,0,180.0,3,0,Goalkeeper
+256339,24/25,IT1,Serie A,1047,Como 1907,23,8,,0,0,0,0,0,0,0,0,720.0,18,0,Goalkeeper
+256339,23/24,IT1,Serie A,46,Inter Milan,38,4,,0,0,0,1,0,0,0,0,338.0,3,2,Goalkeeper
+256339,22/23,IT1,Serie A,1038,UC Sampdoria,25,25,,1,0,0,0,1,0,0,0,2250.0,39,4,Goalkeeper
+256339,21/22,IT1,Serie A,1038,UC Sampdoria,36,29,,0,0,0,2,2,0,0,0,2561.0,48,6,Goalkeeper
+256996,21/22,IT1,Serie A,380,US Salernitana 1919,7,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+257474,25/26,IT1,Serie A,6195,SSC Napoli,2,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+257474,24/25,IT1,Serie A,416,Torino FC,37,37,,0,0,0,0,3,0,0,0,3330.0,42,10,Goalkeeper
+257474,23/24,IT1,Serie A,416,Torino FC,37,36,,0,0,0,0,2,0,0,0,3240.0,31,18,Goalkeeper
+257474,22/23,IT1,Serie A,416,Torino FC,38,38,,0,0,0,0,4,0,0,0,3420.0,41,11,Goalkeeper
+257474,21/22,IT1,Serie A,416,Torino FC,35,27,,0,0,0,0,3,0,0,0,2430.0,33,4,Goalkeeper
+257814,25/26,L1,Bundesliga,16,Borussia Dortmund,2,2,,0,0,0,0,0,0,0,0,180.0,3,1,Goalkeeper
+257814,24/25,L1,Bundesliga,16,Borussia Dortmund,32,32,,0,0,0,0,1,0,0,0,2880.0,47,7,Goalkeeper
+257814,23/24,L1,Bundesliga,16,Borussia Dortmund,27,27,,0,0,0,1,1,0,0,0,2366.0,34,7,Goalkeeper
+257814,22/23,L1,Bundesliga,16,Borussia Dortmund,29,27,,1,0,0,0,0,0,0,0,2430.0,32,11,Goalkeeper
+257814,21/22,L1,Bundesliga,16,Borussia Dortmund,29,29,,0,0,0,1,0,0,0,0,2565.0,39,8,Goalkeeper
+258267,23/24,FR1,Ligue 1,1082,LOSC Lille,12,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+258267,22/23,FR1,Ligue 1,1082,LOSC Lille,19,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+258267,21/22,FR1,Ligue 1,1082,LOSC Lille,21,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+258919,25/26,GB1,Premier League,873,Crystal Palace,3,3,,0,0,0,0,0,0,0,0,270.0,1,2,Goalkeeper
+258919,24/25,GB1,Premier League,873,Crystal Palace,38,38,,0,0,0,0,3,0,0,0,3420.0,51,11,Goalkeeper
+258919,23/24,GB1,Premier League,873,Crystal Palace,25,18,,0,0,0,0,2,0,0,0,1620.0,30,4,Goalkeeper
+258919,23/24,GB1,Premier League,985,Manchester United,3,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+258919,22/23,GB1,Premier League,703,Nottingham Forest,18,18,,0,0,0,0,2,0,0,0,1620.0,31,6,Goalkeeper
+258919,21/22,GB1,Premier League,985,Manchester United,30,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+260053,23/24,L1,Bundesliga,86,SV Werder Bremen,24,7,,0,0,0,0,0,0,0,0,630.0,17,1,Goalkeeper
+260053,22/23,L1,Bundesliga,86,SV Werder Bremen,33,33,,0,0,0,1,1,0,0,0,2909.0,61,5,Goalkeeper
+260841,24/25,GB1,Premier League,1003,Leicester City,12,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+260841,22/23,GB1,Premier League,1003,Leicester City,38,12,,1,0,0,0,0,0,0,0,1080.0,22,1,Goalkeeper
+262396,25/26,ES1,LaLiga,621,Athletic Bilbao,3,3,,0,0,0,0,0,0,0,0,270.0,3,1,Goalkeeper
+262396,24/25,ES1,LaLiga,621,Athletic Bilbao,25,21,,0,0,0,0,0,0,0,0,1890.0,14,10,Goalkeeper
+262396,23/24,ES1,LaLiga,621,Athletic Bilbao,37,36,,1,0,0,2,2,0,0,0,3184.0,33,18,Goalkeeper
+262396,22/23,ES1,LaLiga,621,Athletic Bilbao,35,31,,0,0,0,1,2,0,0,0,2745.0,37,9,Goalkeeper
+262396,21/22,ES1,LaLiga,621,Athletic Bilbao,34,34,,1,0,0,0,3,0,0,0,3060.0,31,12,Goalkeeper
+262749,25/26,GB1,Premier League,11,Arsenal FC,3,3,,0,0,0,0,1,0,0,0,270.0,1,2,Goalkeeper
+262749,24/25,GB1,Premier League,11,Arsenal FC,38,38,,0,0,0,0,3,0,0,0,3420.0,34,13,Goalkeeper
+262749,23/24,GB1,Premier League,11,Arsenal FC,35,32,,0,0,0,0,2,0,0,0,2880.0,24,16,Goalkeeper
+262749,22/23,GB1,Premier League,1148,Brentford FC,38,38,,1,0,0,0,1,0,0,0,3420.0,46,12,Goalkeeper
+262749,21/22,GB1,Premier League,1148,Brentford FC,24,24,,0,0,0,0,1,0,0,0,2160.0,27,8,Goalkeeper
+268335,25/26,A1,Bundesliga,266,SV Ried,5,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+274039,23/24,L1,Bundesliga,105,SV Darmstadt 98,12,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+27486,22/23,ES1,LaLiga,3709,Getafe CF,37,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+27486,21/22,ES1,LaLiga,1531,Elche CF,34,14,,0,0,0,0,3,0,0,0,1260.0,17,3,Goalkeeper
+27493,25/26,ES1,LaLiga,237,RCD Mallorca,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+27493,24/25,ES1,LaLiga,237,RCD Mallorca,28,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+27493,23/24,ES1,LaLiga,237,RCD Mallorca,31,1,,0,0,0,0,0,0,0,0,90.0,1,0,Goalkeeper
+27490,23/24,FR1,Ligue 1,826,RC Lens,34,1,,0,0,0,0,0,0,0,0,90.0,2,0,Goalkeeper
+27490,22/23,FR1,Ligue 1,826,RC Lens,37,1,,0,0,0,0,0,0,0,0,90.0,1,0,Goalkeeper
+27490,21/22,FR1,Ligue 1,826,RC Lens,34,27,,0,0,0,1,3,0,0,0,2314.0,33,6,Goalkeeper
+275218,25/26,ES1,LaLiga,367,Rayo Vallecano,3,3,,0,0,0,0,1,0,0,0,270.0,3,0,Goalkeeper
+275218,24/25,ES1,LaLiga,367,Rayo Vallecano,35,32,,0,0,0,0,6,0,0,0,2880.0,39,8,Goalkeeper
+275218,23/24,ES1,LaLiga,16795,Granada CF,20,17,,0,0,0,0,3,0,0,0,1530.0,28,3,Goalkeeper
+27807,25/26,IT1,Serie A,410,Udinese Calcio,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+27807,24/25,IT1,Serie A,410,Udinese Calcio,38,1,,0,0,0,0,0,0,0,0,90.0,0,1,Goalkeeper
+27807,23/24,IT1,Serie A,410,Udinese Calcio,30,0,0.0,0,0,0,0,1,0,0,0,,0,0,Goalkeeper
+27807,22/23,IT1,Serie A,410,Udinese Calcio,38,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+27807,21/22,IT1,Serie A,410,Udinese Calcio,37,3,,0,0,0,0,0,0,0,0,270.0,8,1,Goalkeeper
+28021,22/23,IT1,Serie A,46,Inter Milan,35,14,,0,0,0,1,0,0,0,0,1235.0,18,5,Goalkeeper
+28021,21/22,IT1,Serie A,46,Inter Milan,38,37,,0,0,0,0,1,0,0,0,3330.0,30,15,Goalkeeper
+282028,25/26,FR1,Ligue 1,1041,Olympique Lyon,3,3,,0,0,0,0,0,0,0,0,270.0,0,3,Goalkeeper
+282028,24/25,FR1,Ligue 1,1041,Olympique Lyon,32,1,,0,0,0,0,0,0,0,0,90.0,2,0,Goalkeeper
+282028,23/24,FR1,Ligue 1,995,FC Nantes,24,6,,0,0,0,0,1,0,0,0,540.0,11,1,Goalkeeper
+282028,22/23,FR1,Ligue 1,995,FC Nantes,33,1,,0,0,0,0,1,0,0,0,90.0,1,0,Goalkeeper
+282028,21/22,FR1,Ligue 1,995,FC Nantes,18,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+282823,24/25,GB1,Premier League,148,Tottenham Hotspur,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+282823,23/24,GB1,Premier League,148,Tottenham Hotspur,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+283170,25/26,ES1,LaLiga,1531,Elche CF,2,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+283170,25/26,ES1,LaLiga,131,FC Barcelona,2,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+283170,24/25,ES1,LaLiga,131,FC Barcelona,38,16,,0,0,1,0,1,0,0,0,1395.0,18,5,Goalkeeper
+283170,23/24,ES1,LaLiga,131,FC Barcelona,35,10,,0,0,0,0,0,0,0,0,900.0,17,2,Goalkeeper
+283170,22/23,ES1,LaLiga,131,FC Barcelona,38,2,,0,0,2,0,0,0,0,0,72.0,2,0,Goalkeeper
+283170,21/22,ES1,LaLiga,131,FC Barcelona,18,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+28356,24/25,FR1,Ligue 1,826,RC Lens,7,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+28356,23/24,FR1,Ligue 1,995,FC Nantes,16,1,,0,0,1,0,0,0,0,0,23.0,1,0,Goalkeeper
+28356,22/23,FR1,Ligue 1,995,FC Nantes,15,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+28356,21/22,FR1,Ligue 1,995,FC Nantes,21,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+283489,21/22,ES1,LaLiga,367,Rayo Vallecano,37,8,,0,0,0,0,0,0,0,0,646.0,13,1,Goalkeeper
+284346,23/24,A1,Bundesliga,28760,SK Austria Klagenfurt,31,31,,0,0,0,0,4,0,0,0,2790.0,48,8,Goalkeeper
+284346,22/23,A1,Bundesliga,28760,SK Austria Klagenfurt,32,30,,0,0,0,0,3,0,0,0,2700.0,57,4,Goalkeeper
+284346,21/22,A1,Bundesliga,28760,SK Austria Klagenfurt,30,28,,0,0,0,0,1,0,0,0,2480.0,52,4,Goalkeeper
+284430,25/26,ES1,LaLiga,2497,Real Oviedo,3,3,,0,0,0,0,0,0,0,0,270.0,5,1,Goalkeeper
+284430,23/24,ES1,LaLiga,472,UD Las Palmas,36,2,,0,0,1,0,0,0,0,0,133.0,3,0,Goalkeeper
+284430,21/22,ES1,LaLiga,16795,Granada CF,36,4,,0,0,1,0,1,0,0,0,283.0,6,1,Goalkeeper
+284769,25/26,L1,Bundesliga,60,SC Freiburg,2,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+284769,24/25,L1,Bundesliga,60,SC Freiburg,28,9,,0,0,1,0,0,0,0,0,752.0,16,2,Goalkeeper
+284769,23/24,L1,Bundesliga,60,SC Freiburg,34,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+284769,22/23,L1,Bundesliga,79,VfB Stuttgart,33,19,,0,0,0,0,0,0,0,0,1710.0,34,1,Goalkeeper
+284769,21/22,L1,Bundesliga,79,VfB Stuttgart,31,30,,0,0,0,0,0,0,0,0,2700.0,52,4,Goalkeeper
+285033,21/22,GB1,Premier League,1132,Burnley FC,9,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+2857,22/23,GB1,Premier League,29,Everton FC,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+2857,21/22,GB1,Premier League,1003,Leicester City,9,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+286047,25/26,GB1,Premier League,148,Tottenham Hotspur,3,3,,0,0,0,0,0,0,0,0,270.0,1,2,Goalkeeper
+286047,24/25,GB1,Premier League,148,Tottenham Hotspur,26,24,,0,0,0,0,1,0,0,0,2160.0,37,4,Goalkeeper
+286047,23/24,GB1,Premier League,148,Tottenham Hotspur,38,38,,0,0,0,0,2,0,0,0,3420.0,61,7,Goalkeeper
+286047,22/23,IT1,Serie A,749,FC Empoli,31,31,,0,0,0,1,3,0,0,0,2784.0,39,7,Goalkeeper
+286047,21/22,IT1,Serie A,749,FC Empoli,38,38,,0,0,0,0,1,0,0,0,3420.0,70,7,Goalkeeper
+286415,25/26,ES1,LaLiga,150,Real Betis Balompié,2,2,,0,0,0,0,0,0,0,0,180.0,1,1,Goalkeeper
+286415,24/25,ES1,LaLiga,12321,Girona FC,17,1,,0,0,1,0,0,0,0,0,45.0,2,0,Goalkeeper
+286415,23/24,FR1,Ligue 1,244,Olympique Marseille,33,33,,0,0,0,1,1,0,0,0,2940.0,39,8,Goalkeeper
+286415,22/23,FR1,Ligue 1,244,Olympique Marseille,35,33,,0,0,1,0,3,0,0,0,2925.0,34,10,Goalkeeper
+286415,21/22,FR1,Ligue 1,244,Olympique Marseille,36,29,,0,0,0,0,4,0,0,0,2610.0,31,10,Goalkeeper
+286546,25/26,A1,Bundesliga,316,Grazer AK 1902,5,5,,0,0,0,0,0,0,0,0,450.0,12,0,Goalkeeper
+286546,24/25,A1,Bundesliga,316,Grazer AK 1902,31,17,,0,0,0,0,1,0,0,0,1530.0,35,2,Goalkeeper
+286798,23/24,A1,Bundesliga,2157,FC Blau-Weiss Linz,2,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+288415,22/23,FR1,Ligue 1,1082,LOSC Lille,18,6,,0,0,0,0,0,0,0,0,540.0,13,0,Goalkeeper
+288415,21/22,FR1,Ligue 1,1082,LOSC Lille,22,17,,0,0,0,0,0,0,0,0,1530.0,20,8,Goalkeeper
+290088,25/26,A1,Bundesliga,316,Grazer AK 1902,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+290088,22/23,A1,Bundesliga,4467,TSV Hartberg,12,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+290346,24/25,ES1,LaLiga,366,Real Valladolid CF,33,6,,0,0,0,0,0,0,0,0,540.0,20,0,Goalkeeper
+290346,23/24,ES1,LaLiga,16795,Granada CF,21,15,,0,0,1,0,1,0,0,0,1339.0,29,0,Goalkeeper
+29051,21/22,ES1,LaLiga,237,RCD Mallorca,36,21,,1,0,0,0,5,0,0,0,1890.0,26,8,Goalkeeper
+290537,25/26,IT1,Serie A,1047,Como 1907,2,2,,0,0,0,0,0,0,0,0,180.0,1,1,Goalkeeper
+290537,24/25,IT1,Serie A,1047,Como 1907,20,19,,0,0,1,0,0,0,0,0,1665.0,20,5,Goalkeeper
+290559,21/22,FR1,Ligue 1,1420,Angers SCO,26,10,,0,0,0,0,0,0,0,0,900.0,14,2,Goalkeeper
+291097,24/25,A1,Bundesliga,2157,FC Blau-Weiss Linz,2,2,,0,0,0,0,0,0,0,0,180.0,5,1,Goalkeeper
+291097,23/24,A1,Bundesliga,2157,FC Blau-Weiss Linz,32,31,,0,0,0,0,0,0,0,0,2790.0,47,9,Goalkeeper
+291383,21/22,L1,Bundesliga,65,SpVgg Greuther Fürth,8,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+293257,22/23,GB1,Premier League,543,Wolverhampton Wanderers,20,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+29391,21/22,GB1,Premier League,1123,Norwich City,6,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+29559,23/24,IT1,Serie A,380,US Salernitana 1919,25,21,,0,0,0,0,0,0,0,0,1890.0,44,1,Goalkeeper
+29559,22/23,IT1,Serie A,380,US Salernitana 1919,23,20,,0,0,0,0,1,0,0,0,1800.0,33,4,Goalkeeper
+29586,24/25,A1,Bundesliga,2157,FC Blau-Weiss Linz,9,4,,0,0,0,0,0,0,0,0,360.0,5,1,Goalkeeper
+29586,23/24,A1,Bundesliga,2157,FC Blau-Weiss Linz,21,1,,0,0,0,0,0,0,0,0,90.0,1,0,Goalkeeper
+296428,24/25,L1,Bundesliga,269,Holstein Kiel,32,25,,0,0,0,0,4,0,0,0,2250.0,61,2,Goalkeeper
+296802,25/26,GB1,Premier League,873,Crystal Palace,3,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+296802,21/22,FR1,Ligue 1,417,OGC Nice,37,37,,0,0,0,0,2,0,0,0,3330.0,35,14,Goalkeeper
+29692,24/25,GB1,Premier League,379,West Ham United,35,14,,0,0,1,1,2,0,0,0,1161.0,21,3,Goalkeeper
+29692,23/24,GB1,Premier League,379,West Ham United,37,10,,0,0,3,0,0,0,0,0,721.0,21,1,Goalkeeper
+29692,22/23,GB1,Premier League,379,West Ham United,36,36,,0,0,0,3,1,0,0,0,3113.0,48,10,Goalkeeper
+29692,21/22,GB1,Premier League,379,West Ham United,37,37,,0,0,0,0,2,0,0,0,3330.0,50,8,Goalkeeper
+29712,24/25,GB1,Premier League,762,Newcastle United,8,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+29712,21/22,GB1,Premier League,543,Wolverhampton Wanderers,38,2,,0,0,1,0,0,0,0,0,135.0,3,0,Goalkeeper
+297194,25/26,ES1,LaLiga,940,Celta de Vigo,4,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+297194,24/25,ES1,LaLiga,940,Celta de Vigo,38,4,,0,0,0,0,0,0,0,0,360.0,9,0,Goalkeeper
+297194,23/24,ES1,LaLiga,940,Celta de Vigo,35,12,,0,0,0,0,0,0,0,0,1015.0,18,1,Goalkeeper
+297194,22/23,ES1,LaLiga,940,Celta de Vigo,38,19,,0,0,0,0,0,0,0,0,1710.0,24,4,Goalkeeper
+298197,25/26,ES1,LaLiga,1108,Deportivo Alavés,3,3,,0,0,0,0,0,0,0,0,270.0,3,0,Goalkeeper
+298197,24/25,ES1,LaLiga,1108,Deportivo Alavés,32,32,,1,0,0,1,6,0,0,0,2812.0,39,10,Goalkeeper
+298197,23/24,ES1,LaLiga,1108,Deportivo Alavés,38,34,,0,0,0,0,3,0,0,0,3060.0,38,10,Goalkeeper
+298197,21/22,ES1,LaLiga,1108,Deportivo Alavés,37,4,,0,0,1,0,1,0,0,0,276.0,4,1,Goalkeeper
+298613,22/23,ES1,LaLiga,331,CA Osasuna,17,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+298613,21/22,ES1,LaLiga,331,CA Osasuna,33,2,,0,0,0,0,0,0,0,0,180.0,3,0,Goalkeeper
+299715,21/22,ES1,LaLiga,3368,Levante UD,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+300137,23/24,IT1,Serie A,398,SS Lazio,2,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+300137,22/23,IT1,Serie A,398,SS Lazio,38,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+300137,21/22,IT1,Serie A,398,SS Lazio,37,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+301238,25/26,IT1,Serie A,506,Juventus FC,2,2,,0,0,0,0,0,0,0,0,180.0,0,2,Goalkeeper
+301238,24/25,IT1,Serie A,506,Juventus FC,38,33,,0,0,0,0,0,0,0,0,2970.0,32,14,Goalkeeper
+301238,23/24,IT1,Serie A,2919,AC Monza,34,33,,0,0,0,2,0,0,0,0,2874.0,35,14,Goalkeeper
+301238,22/23,IT1,Serie A,2919,AC Monza,38,37,,0,0,0,0,0,0,0,0,3330.0,49,10,Goalkeeper
+301240,24/25,IT1,Serie A,749,FC Empoli,10,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+301240,23/24,IT1,Serie A,749,FC Empoli,38,1,,0,0,0,0,0,0,0,0,90.0,2,0,Goalkeeper
+301240,22/23,IT1,Serie A,749,FC Empoli,36,7,,0,0,0,0,0,0,0,0,630.0,9,2,Goalkeeper
+303657,25/26,ES1,LaLiga,940,Celta de Vigo,4,4,,0,0,0,0,0,0,0,0,360.0,5,0,Goalkeeper
+303657,24/25,IT1,Serie A,607,Venezia FC,15,15,,0,0,0,0,1,0,0,0,1350.0,18,4,Goalkeeper
+303657,23/24,GB1,Premier League,989,AFC Bournemouth,13,2,,0,0,0,0,0,0,0,0,180.0,7,0,Goalkeeper
+303657,22/23,FR1,Ligue 1,290,AJ Auxerre,17,17,,0,0,0,0,0,0,0,0,1530.0,20,5,Goalkeeper
+303657,22/23,IT1,Serie A,2239,US Cremonese,9,9,,0,0,0,0,0,0,0,0,810.0,19,1,Goalkeeper
+303657,21/22,IT1,Serie A,46,Inter Milan,38,1,,0,0,0,0,0,0,0,0,90.0,2,0,Goalkeeper
+304144,24/25,IT1,Serie A,1390,Cagliari Calcio,38,7,,0,0,0,1,0,0,0,0,622.0,11,1,Goalkeeper
+30690,21/22,IT1,Serie A,607,Venezia FC,17,16,,0,0,0,0,2,0,0,0,1440.0,33,3,Goalkeeper
+307511,25/26,A1,Bundesliga,14,Austria Vienna,5,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+307511,24/25,A1,Bundesliga,14,Austria Vienna,26,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+307511,23/24,A1,Bundesliga,14,Austria Vienna,32,3,,0,0,0,0,0,0,0,0,270.0,5,0,Goalkeeper
+307511,22/23,A1,Bundesliga,14,Austria Vienna,32,1,,0,0,1,0,0,0,0,0,45.0,0,1,Goalkeeper
+307511,21/22,A1,Bundesliga,14,Austria Vienna,16,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+307598,25/26,A1,Bundesliga,4467,TSV Hartberg,5,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+307598,24/25,A1,Bundesliga,3551,SCR Altach,30,3,,0,0,0,0,0,0,0,0,270.0,2,1,Goalkeeper
+307598,23/24,A1,Bundesliga,541,SC Austria Lustenau,32,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+307598,22/23,A1,Bundesliga,541,SC Austria Lustenau,32,3,,0,0,0,0,0,0,0,0,270.0,7,0,Goalkeeper
+307598,21/22,A1,Bundesliga,14,Austria Vienna,16,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+309397,22/23,L1,Bundesliga,89,1.FC Union Berlin,34,5,,0,0,0,0,0,0,0,0,450.0,11,2,Goalkeeper
+309397,21/22,L1,Bundesliga,15,Bayer 04 Leverkusen,15,1,,0,0,0,0,0,0,0,0,90.0,2,0,Goalkeeper
+312773,25/26,IT1,Serie A,252,Genoa CFC,2,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+312773,24/25,IT1,Serie A,252,Genoa CFC,38,1,,0,0,1,0,0,0,0,0,27.0,1,0,Goalkeeper
+312773,23/24,IT1,Serie A,252,Genoa CFC,37,1,,0,0,1,0,0,0,0,0,4.0,0,1,Goalkeeper
+315253,25/26,FR1,Ligue 1,244,Olympique Marseille,3,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+315253,24/25,FR1,Ligue 1,244,Olympique Marseille,34,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+315858,24/25,FR1,Ligue 1,583,Paris Saint-Germain,29,24,,0,0,0,1,2,0,0,0,2092.0,25,5,Goalkeeper
+315858,23/24,FR1,Ligue 1,583,Paris Saint-Germain,29,25,,0,0,0,0,3,0,0,0,2170.0,20,11,Goalkeeper
+315858,22/23,FR1,Ligue 1,583,Paris Saint-Germain,38,38,,0,0,0,1,3,0,0,0,3410.0,40,13,Goalkeeper
+315858,21/22,FR1,Ligue 1,583,Paris Saint-Germain,32,17,,0,0,0,0,3,0,0,0,1530.0,17,5,Goalkeeper
+31653,25/26,L1,Bundesliga,18,Borussia Mönchengladbach,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+31653,24/25,L1,Bundesliga,18,Borussia Mönchengladbach,15,1,,0,0,1,0,0,0,0,0,58.0,3,0,Goalkeeper
+31653,23/24,L1,Bundesliga,18,Borussia Mönchengladbach,4,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+31653,22/23,L1,Bundesliga,18,Borussia Mönchengladbach,18,6,,0,0,1,0,1,0,0,0,509.0,12,1,Goalkeeper
+31653,21/22,L1,Bundesliga,18,Borussia Mönchengladbach,34,1,,0,0,0,0,0,0,0,0,90.0,1,0,Goalkeeper
+316729,25/26,A1,Bundesliga,2157,FC Blau-Weiss Linz,5,0,0.0,0,0,0,0,2,0,0,0,,0,0,Goalkeeper
+316729,24/25,A1,Bundesliga,2157,FC Blau-Weiss Linz,16,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+316884,25/26,FR1,Ligue 1,1041,Olympique Lyon,2,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+316884,24/25,ES1,LaLiga,237,RCD Mallorca,38,31,,0,0,0,0,1,0,0,0,2790.0,34,7,Goalkeeper
+316884,23/24,ES1,LaLiga,237,RCD Mallorca,38,1,,0,0,0,0,0,0,0,0,90.0,0,1,Goalkeeper
+316884,22/23,ES1,LaLiga,237,RCD Mallorca,25,1,,0,0,0,0,0,0,0,0,90.0,3,0,Goalkeeper
+316884,21/22,ES1,LaLiga,237,RCD Mallorca,14,1,,0,0,0,0,0,0,0,0,90.0,3,0,Goalkeeper
+316983,22/23,L1,Bundesliga,80,VfL Bochum,8,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+317057,25/26,IT1,Serie A,4172,Pisa Sporting Club,2,2,,0,0,0,0,0,0,0,0,180.0,2,0,Goalkeeper
+317057,21/22,IT1,Serie A,252,Genoa CFC,35,1,,0,0,0,0,0,0,0,0,90.0,1,0,Goalkeeper
+318507,22/23,FR1,Ligue 1,1420,Angers SCO,38,27,,0,0,0,0,0,0,0,0,2430.0,62,3,Goalkeeper
+318507,21/22,FR1,Ligue 1,618,AS Saint-Étienne,19,19,,0,0,0,0,0,0,0,0,1710.0,37,3,Goalkeeper
+318507,21/22,FR1,Ligue 1,1420,Angers SCO,13,13,,0,0,0,0,0,0,0,0,1170.0,19,4,Goalkeeper
+318470,25/26,FR1,Ligue 1,583,Paris Saint-Germain,3,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+318470,24/25,FR1,Ligue 1,583,Paris Saint-Germain,33,10,,0,0,1,0,0,0,0,0,878.0,9,3,Goalkeeper
+319825,23/24,A1,Bundesliga,2446,WSG Tirol,17,1,,0,0,1,0,0,0,0,0,38.0,1,0,Goalkeeper
+319825,22/23,A1,Bundesliga,2446,WSG Tirol,28,5,,0,0,0,0,1,0,0,0,450.0,6,1,Goalkeeper
+319825,21/22,A1,Bundesliga,2446,WSG Tirol,31,11,,0,0,2,0,1,0,0,0,865.0,14,3,Goalkeeper
+320871,21/22,IT1,Serie A,252,Genoa CFC,5,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+323255,25/26,IT1,Serie A,6574,US Sassuolo,2,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+323255,21/22,IT1,Serie A,6574,US Sassuolo,29,1,,0,0,1,0,0,0,0,0,7.0,0,1,Goalkeeper
+323929,24/25,IT1,Serie A,607,Venezia FC,11,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+323929,21/22,IT1,Serie A,607,Venezia FC,13,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+328770,25/26,FR1,Ligue 1,415,FC Toulouse,3,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+328770,24/25,FR1,Ligue 1,415,FC Toulouse,17,6,,0,0,1,0,0,0,0,0,497.0,7,1,Goalkeeper
+328770,22/23,FR1,Ligue 1,415,FC Toulouse,38,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+329813,24/25,GB1,Premier League,29,Everton FC,38,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+329813,23/24,GB1,Premier League,29,Everton FC,38,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+33027,23/24,GB1,Premier League,1031,Luton Town,37,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+33027,21/22,GB1,Premier League,1123,Norwich City,32,29,,1,0,0,0,1,0,0,0,2610.0,62,5,Goalkeeper
+331977,22/23,FR1,Ligue 1,1147,AC Ajaccio,35,6,,0,0,0,0,0,0,0,0,540.0,14,1,Goalkeeper
+333175,25/26,FR1,Ligue 1,1158,FC Lorient,4,3,,0,0,0,0,0,0,0,0,270.0,8,1,Goalkeeper
+333175,22/23,FR1,Ligue 1,969,Montpellier HSC,29,5,,0,0,1,0,1,0,0,0,407.0,11,0,Goalkeeper
+335221,22/23,ES1,LaLiga,150,Real Betis Balompié,29,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+336077,25/26,GB1,Premier League,985,Manchester United,3,3,,0,0,0,0,0,0,0,0,270.0,4,0,Goalkeeper
+336077,24/25,GB1,Premier League,985,Manchester United,31,4,,0,0,0,0,0,0,0,0,360.0,10,1,Goalkeeper
+336077,23/24,GB1,Premier League,985,Manchester United,33,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+336307,25/26,IT1,Serie A,1005,US Lecce,2,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+336307,24/25,IT1,Serie A,1005,US Lecce,38,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+336307,23/24,A1,Bundesliga,14,Austria Vienna,29,29,,0,0,0,0,2,0,0,0,2610.0,29,13,Goalkeeper
+336307,22/23,A1,Bundesliga,14,Austria Vienna,32,32,,0,0,0,1,0,0,0,0,2835.0,52,5,Goalkeeper
+336307,21/22,L1,Bundesliga,27,Bayern Munich,17,1,,0,0,1,0,0,0,0,0,9.0,0,1,Goalkeeper
+336367,24/25,GB1,Premier League,180,Southampton FC,8,3,,0,0,0,0,0,0,0,0,270.0,7,0,Goalkeeper
+33754,22/23,GB1,Premier League,1003,Leicester City,3,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+33781,24/25,FR1,Ligue 1,1082,LOSC Lille,33,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+33781,23/24,FR1,Ligue 1,1082,LOSC Lille,28,2,,0,0,1,0,0,0,0,0,91.0,2,1,Goalkeeper
+33781,23/24,FR1,Ligue 1,1158,FC Lorient,3,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+33781,22/23,FR1,Ligue 1,1158,FC Lorient,27,18,,0,0,1,0,1,0,0,0,1607.0,24,5,Goalkeeper
+33781,21/22,FR1,Ligue 1,162,AS Monaco,17,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+338101,22/23,IT1,Serie A,2239,US Cremonese,33,2,,0,0,0,0,0,0,0,0,180.0,3,1,Goalkeeper
+338670,25/26,IT1,Serie A,12,AS Roma,2,2,,0,0,0,0,0,0,0,0,180.0,0,2,Goalkeeper
+338670,24/25,IT1,Serie A,12,AS Roma,38,38,,0,0,0,0,1,0,0,0,3420.0,35,16,Goalkeeper
+338670,23/24,IT1,Serie A,12,AS Roma,38,15,,0,0,0,0,1,0,0,0,1350.0,19,5,Goalkeeper
+338670,22/23,IT1,Serie A,12,AS Roma,38,3,,0,0,0,0,1,0,0,0,270.0,3,1,Goalkeeper
+33873,24/25,GB1,Premier League,29,Everton FC,18,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+33873,22/23,GB1,Premier League,29,Everton FC,38,1,,0,0,0,0,0,0,0,0,90.0,0,1,Goalkeeper
+33873,21/22,GB1,Premier League,29,Everton FC,38,3,,0,0,0,0,0,0,0,0,270.0,8,1,Goalkeeper
+339079,25/26,ES1,LaLiga,3709,Getafe CF,3,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+339079,24/25,ES1,LaLiga,3709,Getafe CF,38,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+33925,22/23,FR1,Ligue 1,1095,ESTAC Troyes,10,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+33925,21/22,FR1,Ligue 1,1095,ESTAC Troyes,26,7,,0,0,0,0,1,1,0,0,553.0,8,1,Goalkeeper
+340353,24/25,IT1,Serie A,410,Udinese Calcio,25,25,,1,0,0,0,1,0,0,0,2250.0,40,4,Goalkeeper
+340353,23/24,IT1,Serie A,410,Udinese Calcio,37,21,,0,0,0,0,2,0,0,0,1890.0,25,5,Goalkeeper
+340918,25/26,GB1,Premier League,1148,Brentford FC,3,3,,0,0,0,0,1,0,0,0,270.0,5,1,Goalkeeper
+340918,24/25,GB1,Premier League,31,Liverpool FC,37,10,,0,0,0,0,0,0,0,0,900.0,12,4,Goalkeeper
+340918,23/24,GB1,Premier League,31,Liverpool FC,37,10,,0,0,0,0,0,0,0,0,900.0,11,2,Goalkeeper
+340918,22/23,GB1,Premier League,31,Liverpool FC,29,1,,0,0,0,0,0,0,0,0,90.0,4,0,Goalkeeper
+340918,21/22,GB1,Premier League,31,Liverpool FC,36,2,,0,0,0,0,0,0,0,0,180.0,2,1,Goalkeeper
+341043,21/22,GB1,Premier League,180,Southampton FC,4,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+34130,25/26,GB1,Premier League,985,Manchester United,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+34130,24/25,GB1,Premier League,985,Manchester United,8,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+34130,23/24,GB1,Premier League,985,Manchester United,4,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+34130,22/23,GB1,Premier League,985,Manchester United,23,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+34130,21/22,GB1,Premier League,985,Manchester United,14,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+341713,25/26,ES1,LaLiga,1050,Villarreal CF,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+341713,24/25,ES1,LaLiga,1050,Villarreal CF,33,22,,0,0,0,1,2,0,0,0,1963.0,33,2,Goalkeeper
+341713,22/23,ES1,LaLiga,3709,Getafe CF,36,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+341713,21/22,ES1,LaLiga,3709,Getafe CF,37,1,,0,0,1,0,0,0,0,0,5.0,0,1,Goalkeeper
+34370,22/23,ES1,LaLiga,367,Rayo Vallecano,32,2,,0,0,1,0,0,0,0,0,95.0,4,0,Goalkeeper
+34370,21/22,ES1,LaLiga,714,RCD Espanyol Barcelona,36,36,,0,0,0,2,3,0,0,0,3178.0,49,11,Goalkeeper
+344457,21/22,ES1,LaLiga,131,FC Barcelona,7,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+344591,21/22,FR1,Ligue 1,40,FC Girondins Bordeaux,36,13,,1,0,0,0,2,0,0,0,1170.0,29,2,Goalkeeper
+345437,22/23,FR1,Ligue 1,1095,ESTAC Troyes,30,9,,0,0,1,0,1,0,0,0,750.0,16,2,Goalkeeper
+346551,25/26,L1,Bundesliga,82,VfL Wolfsburg,2,2,,0,0,0,0,0,0,0,0,180.0,2,0,Goalkeeper
+346551,24/25,L1,Bundesliga,82,VfL Wolfsburg,29,29,,0,0,0,1,2,0,0,0,2586.0,49,6,Goalkeeper
+346546,25/26,FR1,Ligue 1,3911,Stade Brestois 29,3,3,,0,0,0,0,0,0,0,0,235.0,5,1,Goalkeeper
+346546,24/25,FR1,Ligue 1,162,AS Monaco,26,15,,0,0,0,0,1,0,0,0,1350.0,22,3,Goalkeeper
+346546,23/24,FR1,Ligue 1,162,AS Monaco,34,12,,0,0,0,0,1,0,0,0,1080.0,10,7,Goalkeeper
+346546,21/22,FR1,Ligue 1,162,AS Monaco,22,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+348778,23/24,L1,Bundesliga,80,VfL Bochum,20,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+349536,23/24,A1,Bundesliga,409,Red Bull Salzburg,15,1,,0,0,0,0,0,0,0,0,90.0,1,0,Goalkeeper
+349536,22/23,A1,Bundesliga,409,Red Bull Salzburg,15,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+349536,21/22,A1,Bundesliga,409,Red Bull Salzburg,29,3,,0,0,0,0,0,0,0,0,270.0,2,1,Goalkeeper
+352041,25/26,GB1,Premier League,399,Leeds United,3,3,,0,0,0,0,0,0,0,0,270.0,5,2,Goalkeeper
+352041,24/25,FR1,Ligue 1,1041,Olympique Lyon,33,33,,0,0,0,0,1,0,0,0,2970.0,44,10,Goalkeeper
+352041,23/24,FR1,Ligue 1,1041,Olympique Lyon,16,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+354715,22/23,ARM1,Premier League,74661,FC Van,5,2,,0,0,0,0,1,0,0,0,180.0,1,1,Goalkeeper
+357047,24/25,FR1,Ligue 1,618,AS Saint-Étienne,34,34,,0,0,0,0,5,0,0,0,3060.0,77,5,Goalkeeper
+357047,21/22,FR1,Ligue 1,3911,Stade Brestois 29,37,0,0.0,0,0,0,0,1,0,0,0,,0,0,Goalkeeper
+357117,24/25,FR1,Ligue 1,995,FC Nantes,16,12,,0,0,0,0,1,0,0,0,1080.0,19,2,Goalkeeper
+357117,23/24,FR1,Ligue 1,995,FC Nantes,29,28,,0,0,0,1,2,0,0,0,2497.0,43,7,Goalkeeper
+357117,22/23,FR1,Ligue 1,995,FC Nantes,37,37,,0,0,0,0,0,1,0,0,3330.0,54,11,Goalkeeper
+357117,21/22,FR1,Ligue 1,995,FC Nantes,38,38,,0,0,0,0,3,0,0,0,3420.0,48,8,Goalkeeper
+357658,25/26,GB1,Premier League,29,Everton FC,3,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+357658,24/25,GB1,Premier League,989,AFC Bournemouth,23,5,,0,0,0,0,0,0,0,0,450.0,5,1,Goalkeeper
+357658,23/24,GB1,Premier League,989,AFC Bournemouth,29,4,,0,0,0,0,0,0,0,0,360.0,5,2,Goalkeeper
+357658,22/23,GB1,Premier League,989,AFC Bournemouth,38,12,,0,0,1,0,0,0,0,0,1035.0,32,2,Goalkeeper
+357770,24/25,ES1,LaLiga,472,UD Las Palmas,36,13,,0,0,2,0,1,0,0,0,1083.0,19,1,Goalkeeper
+357991,21/22,IT1,Serie A,5,AC Milan,2,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+35865,23/24,IT1,Serie A,6574,US Sassuolo,35,35,,0,0,0,0,1,0,0,0,3150.0,68,3,Goalkeeper
+35865,22/23,IT1,Serie A,6574,US Sassuolo,36,35,,0,0,0,0,0,0,0,0,3150.0,55,9,Goalkeeper
+35865,21/22,IT1,Serie A,6574,US Sassuolo,37,37,,0,0,0,1,2,0,0,0,3323.0,63,3,Goalkeeper
+361256,25/26,FR1,Ligue 1,1082,LOSC Lille,3,3,,0,0,0,0,0,0,0,0,270.0,4,1,Goalkeeper
+364558,22/23,A1,Bundesliga,2446,WSG Tirol,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+367443,22/23,A1,Bundesliga,266,SV Ried,31,6,,0,0,0,0,1,0,0,0,540.0,8,1,Goalkeeper
+367443,21/22,A1,Bundesliga,266,SV Ried,7,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+367464,23/24,ES1,LaLiga,3302,UD Almería,37,33,,0,0,0,0,1,0,0,0,2970.0,63,6,Goalkeeper
+367464,22/23,IT1,Serie A,398,SS Lazio,37,1,,0,0,0,0,0,0,0,0,6.0,0,1,Goalkeeper
+367464,21/22,ES1,LaLiga,16795,Granada CF,37,35,,1,0,0,1,2,0,0,0,3137.0,55,8,Goalkeeper
+36898,21/22,L1,Bundesliga,65,SpVgg Greuther Fürth,31,14,,0,0,0,0,0,0,0,0,1260.0,28,3,Goalkeeper
+369258,23/24,L1,Bundesliga,86,SV Werder Bremen,9,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+369258,22/23,L1,Bundesliga,86,SV Werder Bremen,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+370701,23/24,IT1,Serie A,8970,Frosinone Calcio,38,8,,1,0,1,0,1,0,0,0,675.0,11,3,Goalkeeper
+370701,22/23,IT1,Serie A,430,ACF Fiorentina,38,5,,0,0,0,0,0,0,0,0,450.0,3,2,Goalkeeper
+370701,21/22,IT1,Serie A,430,ACF Fiorentina,7,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+371013,21/22,IT1,Serie A,276,Hellas Verona,23,3,,0,0,0,0,0,0,0,0,270.0,6,0,Goalkeeper
+371021,25/26,IT1,Serie A,6574,US Sassuolo,2,1,,0,0,0,0,0,0,0,0,90.0,3,0,Goalkeeper
+371021,24/25,GB1,Premier League,677,Ipswich Town,26,18,,0,0,0,0,1,0,0,0,1620.0,33,1,Goalkeeper
+371021,23/24,GB1,Premier League,1132,Burnley FC,35,10,,1,0,0,0,0,0,0,0,900.0,16,0,Goalkeeper
+371247,22/23,IT1,Serie A,46,Inter Milan,3,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+371816,24/25,FR1,Ligue 1,969,Montpellier HSC,34,4,,0,0,0,0,0,0,0,0,360.0,11,0,Goalkeeper
+371816,23/24,FR1,Ligue 1,969,Montpellier HSC,29,4,,0,0,0,0,0,0,0,0,360.0,11,0,Goalkeeper
+371816,22/23,FR1,Ligue 1,969,Montpellier HSC,7,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+371816,21/22,FR1,Ligue 1,969,Montpellier HSC,36,11,,0,0,2,0,0,0,0,0,832.0,20,3,Goalkeeper
+373714,21/22,FR1,Ligue 1,826,RC Lens,36,13,,0,0,2,0,0,0,0,0,1104.0,15,3,Goalkeeper
+379548,21/22,ES1,LaLiga,621,Athletic Bilbao,27,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+379869,24/25,FR1,Ligue 1,738,Le Havre AC,33,18,,0,0,0,0,2,0,0,0,1620.0,38,3,Goalkeeper
+379869,23/24,FR1,Ligue 1,738,Le Havre AC,33,33,,0,0,0,0,2,0,0,0,2970.0,43,7,Goalkeeper
+379869,21/22,FR1,Ligue 1,3524,Clermont Foot 63,31,15,,1,0,0,1,0,0,0,0,1305.0,33,3,Goalkeeper
+380744,24/25,IT1,Serie A,410,Udinese Calcio,2,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+381469,24/25,GB1,Premier League,931,Fulham FC,38,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+385412,23/24,GB1,Premier League,350,Sheffield United,6,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+386685,25/26,L1,Bundesliga,89,1.FC Union Berlin,2,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+388067,24/25,L1,Bundesliga,79,VfB Stuttgart,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+388067,21/22,L1,Bundesliga,16,Borussia Dortmund,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+388516,25/26,IT1,Serie A,46,Inter Milan,2,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+388516,24/25,IT1,Serie A,46,Inter Milan,38,5,,0,0,0,0,0,0,0,0,450.0,3,3,Goalkeeper
+388516,23/24,IT1,Serie A,252,Genoa CFC,37,36,,0,0,0,0,2,1,0,0,3240.0,43,8,Goalkeeper
+388516,21/22,L1,Bundesliga,23826,RB Leipzig,34,1,,0,0,0,0,0,0,0,0,90.0,3,0,Goalkeeper
+388815,21/22,L1,Bundesliga,16,Borussia Dortmund,2,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+39015,22/23,L1,Bundesliga,33,FC Schalke 04,27,12,,0,0,0,1,0,0,0,0,1026.0,13,6,Goalkeeper
+390304,25/26,IT1,Serie A,1025,Bologna FC 1909,2,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+390304,24/25,IT1,Serie A,1025,Bologna FC 1909,38,12,,0,0,1,0,0,0,0,0,1055.0,14,5,Goalkeeper
+390304,23/24,IT1,Serie A,1025,Bologna FC 1909,38,6,,0,0,0,1,0,0,0,0,536.0,3,4,Goalkeeper
+390304,22/23,IT1,Serie A,1025,Bologna FC 1909,20,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+39037,21/22,GB1,Premier League,1010,Watford FC,9,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+392124,24/25,L1,Bundesliga,167,FC Augsburg,5,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+392124,22/23,L1,Bundesliga,167,FC Augsburg,19,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+392124,21/22,L1,Bundesliga,167,FC Augsburg,2,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+392717,21/22,A1,Bundesliga,28760,SK Austria Klagenfurt,28,5,,0,0,1,0,0,0,0,0,396.0,5,2,Goalkeeper
+393489,21/22,ARM1,Premier League,74661,FC Van,13,9,,0,0,1,1,0,0,0,0,720.0,12,2,Goalkeeper
+393686,24/25,A1,Bundesliga,413,LASK,18,18,,0,0,0,1,0,0,0,0,1583.0,14,8,Goalkeeper
+393686,23/24,A1,Bundesliga,413,LASK,32,32,,0,0,0,0,1,0,0,0,2880.0,33,14,Goalkeeper
+393686,22/23,A1,Bundesliga,413,LASK,29,7,,0,0,0,0,0,0,0,0,630.0,9,1,Goalkeeper
+393686,21/22,A1,Bundesliga,413,LASK,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+395602,24/25,FR1,Ligue 1,1421,Stade Reims,32,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+395602,23/24,FR1,Ligue 1,1421,Stade Reims,34,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+395602,22/23,FR1,Ligue 1,1421,Stade Reims,14,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+396107,21/22,ES1,LaLiga,368,Sevilla FC,34,1,,0,0,0,0,0,0,0,0,90.0,1,0,Goalkeeper
+397676,25/26,ES1,LaLiga,367,Rayo Vallecano,3,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+397676,24/25,ES1,LaLiga,367,Rayo Vallecano,38,6,,0,0,0,0,0,0,0,0,540.0,6,2,Goalkeeper
+397676,23/24,ES1,LaLiga,367,Rayo Vallecano,37,1,,0,0,0,0,0,0,0,0,90.0,1,0,Goalkeeper
+397676,21/22,ES1,LaLiga,3368,Levante UD,36,24,,0,0,0,0,3,0,0,0,2160.0,46,5,Goalkeeper
+398131,25/26,ES1,LaLiga,1049,Valencia CF,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+398131,23/24,ES1,LaLiga,1049,Valencia CF,38,1,,0,0,1,0,0,0,0,0,56.0,1,0,Goalkeeper
+398131,22/23,ES1,LaLiga,1049,Valencia CF,26,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+398131,21/22,ES1,LaLiga,1049,Valencia CF,2,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+39918,25/26,FR1,Ligue 1,826,RC Lens,3,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+40034,25/26,L1,Bundesliga,24,Eintracht Frankfurt,2,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+40034,24/25,L1,Bundesliga,24,Eintracht Frankfurt,12,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+40034,23/24,L1,Bundesliga,24,Eintracht Frankfurt,34,2,,0,0,0,0,0,0,0,0,180.0,2,0,Goalkeeper
+40034,22/23,L1,Bundesliga,24,Eintracht Frankfurt,3,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+40034,21/22,L1,Bundesliga,24,Eintracht Frankfurt,15,1,,0,0,0,0,0,0,0,0,90.0,2,0,Goalkeeper
+400536,25/26,GB1,Premier League,379,West Ham United,3,3,,0,0,0,0,0,0,0,0,270.0,8,1,Goalkeeper
+400536,24/25,GB1,Premier League,1003,Leicester City,27,27,,0,0,0,1,1,0,0,0,2385.0,58,1,Goalkeeper
+403151,25/26,GB1,Premier League,631,Chelsea FC,3,3,,0,0,0,0,0,0,0,0,270.0,1,2,Goalkeeper
+403151,24/25,GB1,Premier League,631,Chelsea FC,38,32,,0,0,0,0,5,0,0,0,2880.0,34,10,Goalkeeper
+403151,23/24,GB1,Premier League,631,Chelsea FC,18,16,,0,0,0,1,1,0,0,0,1434.0,25,3,Goalkeeper
+403151,22/23,GB1,Premier League,1237,Brighton & Hove Albion,33,23,,0,0,0,0,2,0,0,0,2070.0,30,6,Goalkeeper
+403151,21/22,GB1,Premier League,1237,Brighton & Hove Albion,37,37,,0,0,0,0,3,0,0,0,3330.0,42,11,Goalkeeper
+403564,21/22,GB1,Premier League,1123,Norwich City,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+40423,23/24,ES1,LaLiga,150,Real Betis Balompié,20,7,,0,0,0,0,0,0,0,0,630.0,5,2,Goalkeeper
+40423,22/23,ES1,LaLiga,150,Real Betis Balompié,33,12,,0,0,0,0,2,0,0,0,1080.0,9,4,Goalkeeper
+40423,21/22,ES1,LaLiga,150,Real Betis Balompié,28,17,,0,0,0,1,2,0,0,0,1457.0,19,6,Goalkeeper
+404839,25/26,ES1,LaLiga,418,Real Madrid,3,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+404839,24/25,ES1,LaLiga,418,Real Madrid,36,7,,0,0,0,0,0,0,0,0,630.0,7,4,Goalkeeper
+404839,23/24,ES1,LaLiga,418,Real Madrid,38,21,,0,0,0,0,2,0,0,0,1890.0,17,10,Goalkeeper
+404839,22/23,ES1,LaLiga,418,Real Madrid,37,7,,0,0,0,0,0,0,0,0,630.0,7,3,Goalkeeper
+404839,21/22,ES1,LaLiga,418,Real Madrid,34,2,,0,0,0,0,0,0,0,0,180.0,2,0,Goalkeeper
+406556,22/23,GB1,Premier League,1237,Brighton & Hove Albion,6,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+406556,21/22,GB1,Premier League,1237,Brighton & Hove Albion,3,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+40680,25/26,L1,Bundesliga,27,Bayern Munich,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+40680,24/25,L1,Bundesliga,27,Bayern Munich,16,1,,0,0,0,0,0,0,0,0,90.0,0,1,Goalkeeper
+40680,23/24,L1,Bundesliga,27,Bayern Munich,32,11,,0,0,0,0,1,0,0,0,990.0,12,4,Goalkeeper
+40680,22/23,L1,Bundesliga,27,Bayern Munich,34,3,,0,0,0,0,1,0,0,0,270.0,2,2,Goalkeeper
+40680,21/22,L1,Bundesliga,27,Bayern Munich,24,6,,0,0,0,0,0,0,0,0,540.0,11,1,Goalkeeper
+40792,23/24,L1,Bundesliga,80,VfL Bochum,33,33,,0,0,0,0,5,0,0,0,2970.0,70,4,Goalkeeper
+40792,22/23,L1,Bundesliga,80,VfL Bochum,34,34,,1,0,0,0,3,0,0,0,3060.0,72,5,Goalkeeper
+40792,21/22,L1,Bundesliga,80,VfL Bochum,31,31,,0,0,0,0,2,0,0,0,2790.0,45,7,Goalkeeper
+412042,23/24,ES1,LaLiga,16795,Granada CF,25,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+41323,23/24,L1,Bundesliga,80,VfL Bochum,12,1,,0,0,0,0,0,0,0,0,90.0,4,0,Goalkeeper
+41323,21/22,L1,Bundesliga,89,1.FC Union Berlin,30,27,,0,0,0,0,3,0,0,0,2430.0,39,6,Goalkeeper
+415383,25/26,FR1,Ligue 1,1420,Angers SCO,3,3,,0,0,0,0,0,0,0,0,270.0,2,1,Goalkeeper
+415383,24/25,FR1,Ligue 1,826,RC Lens,25,5,,0,0,0,0,2,0,0,0,450.0,8,0,Goalkeeper
+417278,25/26,FR1,Ligue 1,1082,LOSC Lille,3,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+417414,22/23,IT1,Serie A,6195,SSC Napoli,37,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+417414,21/22,IT1,Serie A,6195,SSC Napoli,35,1,,0,0,1,0,0,0,0,0,10.0,0,1,Goalkeeper
+417913,25/26,ES1,LaLiga,150,Real Betis Balompié,4,2,,0,0,0,0,0,0,0,0,180.0,3,0,Goalkeeper
+417913,23/24,ES1,LaLiga,472,UD Las Palmas,37,37,,0,0,0,0,2,0,0,0,3264.0,44,9,Goalkeeper
+418561,22/23,GB1,Premier League,399,Leeds United,11,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+418561,21/22,GB1,Premier League,399,Leeds United,38,1,,0,0,1,0,0,0,0,0,35.0,1,0,Goalkeeper
+418651,24/25,FR1,Ligue 1,1420,Angers SCO,34,33,,0,0,0,0,4,0,0,0,2970.0,51,7,Goalkeeper
+418651,22/23,FR1,Ligue 1,1420,Angers SCO,27,11,,0,0,0,0,2,0,0,0,990.0,19,1,Goalkeeper
+41912,23/24,IT1,Serie A,1390,Cagliari Calcio,34,1,,0,0,1,0,0,0,0,0,1.0,1,0,Goalkeeper
+41912,21/22,IT1,Serie A,1390,Cagliari Calcio,36,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+419996,24/25,FR1,Ligue 1,290,AJ Auxerre,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+420179,22/23,IT1,Serie A,2239,US Cremonese,38,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+421873,25/26,IT1,Serie A,1390,Cagliari Calcio,3,3,,0,0,0,0,0,0,0,0,270.0,2,1,Goalkeeper
+421873,24/25,IT1,Serie A,1390,Cagliari Calcio,18,18,,0,0,0,0,0,0,0,0,1620.0,22,5,Goalkeeper
+421873,24/25,IT1,Serie A,6195,SSC Napoli,19,4,,0,0,1,0,0,0,0,0,324.0,1,3,Goalkeeper
+421873,23/24,IT1,Serie A,749,FC Empoli,32,23,,0,0,0,0,0,0,0,0,2070.0,27,5,Goalkeeper
+42205,25/26,IT1,Serie A,46,Inter Milan,2,2,,0,0,0,0,0,0,0,0,180.0,2,1,Goalkeeper
+42205,24/25,IT1,Serie A,46,Inter Milan,36,33,,0,0,0,0,0,0,0,0,2970.0,32,13,Goalkeeper
+42205,23/24,IT1,Serie A,46,Inter Milan,37,34,,0,0,0,0,1,0,0,0,3060.0,19,19,Goalkeeper
+42205,22/23,L1,Bundesliga,27,Bayern Munich,19,19,,0,0,0,0,1,0,0,0,1710.0,25,5,Goalkeeper
+42205,22/23,L1,Bundesliga,18,Borussia Mönchengladbach,10,10,,0,0,0,0,0,0,0,0,900.0,14,3,Goalkeeper
+42205,21/22,L1,Bundesliga,18,Borussia Mönchengladbach,34,33,,0,0,0,0,2,0,0,0,2970.0,60,5,Goalkeeper
+42373,22/23,ES1,LaLiga,940,Celta de Vigo,6,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+424187,25/26,SIN1,Premier League,4131,Lion City Sailors,1,1,,0,0,0,0,0,0,0,0,90.0,1,0,Goalkeeper
+425306,24/25,GB1,Premier League,873,Crystal Palace,32,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+425306,23/24,GB1,Premier League,703,Nottingham Forest,38,17,,0,0,0,0,2,0,0,0,1530.0,28,2,Goalkeeper
+425306,22/23,GB1,Premier League,11,Arsenal FC,37,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+426951,24/25,ETP1,Premier League,69809,Sihul Shire FC,30,25,,1,0,0,0,3,0,0,0,2250.0,28,6,Goalkeeper
+426951,23/24,GHPL,Premier League,502,Asante Kotoko SC,21,3,,0,0,0,0,0,0,0,0,270.0,6,0,Goalkeeper
+426951,22/23,GHPL,Premier League,502,Asante Kotoko SC,25,3,,0,0,0,0,0,0,0,0,270.0,1,2,Goalkeeper
+427341,24/25,ARM1,Premier League,53453,FC Ararat-Armenia,28,13,,0,0,0,1,1,0,0,0,1109.0,10,7,Goalkeeper
+42744,22/23,IT1,Serie A,749,FC Empoli,35,1,,0,0,1,0,0,0,0,0,6.0,1,0,Goalkeeper
+42744,21/22,IT1,Serie A,749,FC Empoli,35,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+427568,25/26,GB1,Premier League,762,Newcastle United,3,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+427568,24/25,GB1,Premier League,180,Southampton FC,30,30,,0,0,0,0,2,0,0,0,2700.0,66,3,Goalkeeper
+427568,24/25,GB1,Premier League,11,Arsenal FC,2,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+427568,23/24,GB1,Premier League,11,Arsenal FC,37,6,,0,0,0,0,0,0,0,0,540.0,5,2,Goalkeeper
+427568,22/23,GB1,Premier League,11,Arsenal FC,38,38,,0,0,0,0,1,0,0,0,3420.0,43,14,Goalkeeper
+427568,21/22,GB1,Premier League,11,Arsenal FC,36,34,,0,0,0,0,1,0,0,0,3060.0,39,12,Goalkeeper
+42796,22/23,IT1,Serie A,1038,UC Sampdoria,29,9,,0,0,0,0,0,0,0,0,810.0,23,0,Goalkeeper
+42796,21/22,IT1,Serie A,1038,UC Sampdoria,35,1,,0,0,1,0,0,0,0,0,4.0,1,0,Goalkeeper
+428016,24/25,GB1,Premier League,148,Tottenham Hotspur,13,1,,0,0,0,0,0,0,0,0,90.0,2,0,Goalkeeper
+428016,23/24,GB1,Premier League,148,Tottenham Hotspur,18,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+428016,22/23,GB1,Premier League,148,Tottenham Hotspur,15,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+428016,21/22,GB1,Premier League,148,Tottenham Hotspur,4,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+428948,22/23,ES1,LaLiga,681,Real Sociedad,37,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+429563,21/22,GB1,Premier League,1148,Brentford FC,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+431417,24/25,IT1,Serie A,1047,Como 1907,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+43217,23/24,IT1,Serie A,8970,Frosinone Calcio,35,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+432298,25/26,IT1,Serie A,130,Parma Calcio 1913,3,3,,0,0,0,0,1,0,0,0,270.0,5,0,Goalkeeper
+432298,24/25,IT1,Serie A,130,Parma Calcio 1913,37,37,,0,0,0,0,0,1,0,0,3315.0,53,8,Goalkeeper
+432671,25/26,L1,Bundesliga,533,TSG 1899 Hoffenheim,2,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+432671,24/25,L1,Bundesliga,533,TSG 1899 Hoffenheim,34,6,,0,0,0,0,0,0,0,0,540.0,15,0,Goalkeeper
+432671,23/24,L1,Bundesliga,533,TSG 1899 Hoffenheim,27,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+432671,22/23,L1,Bundesliga,533,TSG 1899 Hoffenheim,27,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+432671,21/22,L1,Bundesliga,533,TSG 1899 Hoffenheim,19,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+432859,24/25,A1,Bundesliga,4467,TSV Hartberg,32,1,,0,0,0,0,1,0,0,0,90.0,0,1,Goalkeeper
+432859,23/24,A1,Bundesliga,122,SK Sturm Graz,32,2,,0,0,0,0,0,0,0,0,180.0,0,2,Goalkeeper
+432859,22/23,A1,Bundesliga,122,SK Sturm Graz,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+432859,21/22,A1,Bundesliga,122,SK Sturm Graz,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+43824,25/26,L1,Bundesliga,2036,1.FC Heidenheim 1846,2,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+43824,24/25,L1,Bundesliga,2036,1.FC Heidenheim 1846,33,33,,0,0,0,1,0,0,0,0,2940.0,64,8,Goalkeeper
+43824,23/24,L1,Bundesliga,2036,1.FC Heidenheim 1846,34,34,,0,0,0,0,1,0,0,0,3060.0,55,6,Goalkeeper
+438682,23/24,ES1,LaLiga,3709,Getafe CF,37,1,,0,0,1,0,0,0,0,0,6.0,2,0,Goalkeeper
+438682,21/22,IT1,Serie A,12,AS Roma,35,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+44058,25/26,ES1,LaLiga,131,FC Barcelona,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+44058,24/25,ES1,LaLiga,131,FC Barcelona,29,15,,0,0,0,0,1,0,0,0,1350.0,12,8,Goalkeeper
+44058,23/24,IT1,Serie A,506,Juventus FC,36,35,,0,0,0,0,1,0,0,0,3150.0,30,15,Goalkeeper
+44058,22/23,IT1,Serie A,506,Juventus FC,34,28,,0,0,0,1,1,0,0,0,2473.0,26,15,Goalkeeper
+44058,21/22,IT1,Serie A,506,Juventus FC,37,33,,0,0,0,0,2,0,0,0,2970.0,29,12,Goalkeeper
+442531,22/23,GB1,Premier League,631,Chelsea FC,23,10,,0,0,1,0,1,0,0,0,855.0,14,1,Goalkeeper
+442531,21/22,GB1,Premier League,631,Chelsea FC,34,34,,0,0,0,0,3,0,0,0,3060.0,31,14,Goalkeeper
+443936,25/26,A1,Bundesliga,4441,Wolfsberger AC,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+443936,24/25,A1,Bundesliga,4441,Wolfsberger AC,5,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+443936,23/24,A1,Bundesliga,4441,Wolfsberger AC,3,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+443936,22/23,A1,Bundesliga,4441,Wolfsberger AC,15,1,,0,0,0,0,0,0,0,0,90.0,2,0,Goalkeeper
+443936,21/22,A1,Bundesliga,4441,Wolfsberger AC,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+443900,22/23,ES1,LaLiga,368,Sevilla FC,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+444641,21/22,GB1,Premier League,543,Wolverhampton Wanderers,9,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+448632,25/26,FR1,Ligue 1,417,OGC Nice,3,3,,0,0,0,0,0,0,0,0,270.0,5,0,Goalkeeper
+448632,24/25,FR1,Ligue 1,1421,Stade Reims,34,34,,0,0,0,0,1,0,0,0,3060.0,47,7,Goalkeeper
+448632,23/24,FR1,Ligue 1,1421,Stade Reims,34,34,,0,0,0,0,0,0,0,0,3060.0,47,8,Goalkeeper
+448632,22/23,FR1,Ligue 1,1421,Stade Reims,35,31,,0,0,0,0,2,0,0,0,2790.0,31,14,Goalkeeper
+448632,21/22,FR1,Ligue 1,1421,Stade Reims,31,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+448705,25/26,L1,Bundesliga,2036,1.FC Heidenheim 1846,2,2,,0,0,0,0,1,0,0,0,180.0,5,0,Goalkeeper
+448705,22/23,L1,Bundesliga,24,Eintracht Frankfurt,34,1,,0,0,0,0,0,0,0,0,90.0,1,0,Goalkeeper
+448705,21/22,L1,Bundesliga,24,Eintracht Frankfurt,20,1,,0,0,0,0,0,0,0,0,90.0,1,0,Goalkeeper
+448835,21/22,ES1,LaLiga,940,Celta de Vigo,4,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+449453,21/22,A1,Bundesliga,28760,SK Austria Klagenfurt,5,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+45026,24/25,IT1,Serie A,800,Atalanta BC,36,3,,0,0,0,0,0,0,0,0,270.0,3,1,Goalkeeper
+45026,23/24,IT1,Serie A,12,AS Roma,38,23,,0,0,0,0,1,0,0,0,2070.0,27,6,Goalkeeper
+45026,22/23,IT1,Serie A,12,AS Roma,36,35,,0,0,0,0,1,0,0,0,3150.0,35,13,Goalkeeper
+45026,21/22,IT1,Serie A,12,AS Roma,38,38,,0,0,0,0,2,0,0,0,3420.0,43,15,Goalkeeper
+451154,24/25,IT1,Serie A,749,FC Empoli,24,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+451154,23/24,IT1,Serie A,1005,US Lecce,34,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+451154,22/23,IT1,Serie A,1005,US Lecce,33,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+452192,24/25,L1,Bundesliga,80,VfL Bochum,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+452192,21/22,L1,Bundesliga,80,VfL Bochum,3,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+452707,22/23,GB1,Premier League,703,Nottingham Forest,2,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+453704,24/25,ES1,LaLiga,368,Sevilla FC,38,9,,0,0,1,0,2,0,0,0,746.0,16,3,Goalkeeper
+453704,22/23,ES1,LaLiga,714,RCD Espanyol Barcelona,35,11,,0,0,0,0,1,0,0,0,990.0,18,2,Goalkeeper
+453704,21/22,GB1,Premier League,1148,Brentford FC,31,12,,1,0,0,0,0,0,0,0,1080.0,24,1,Goalkeeper
+453742,25/26,L1,Bundesliga,35,FC St. Pauli,2,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+453742,24/25,L1,Bundesliga,35,FC St. Pauli,24,2,,0,0,1,0,1,0,0,0,91.0,2,1,Goalkeeper
+453737,24/25,L1,Bundesliga,16,Borussia Dortmund,4,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+453737,23/24,L1,Bundesliga,16,Borussia Dortmund,7,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+453737,22/23,L1,Bundesliga,16,Borussia Dortmund,5,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+453737,21/22,L1,Bundesliga,44,Hertha BSC,13,10,,0,0,1,0,1,0,0,0,884.0,20,2,Goalkeeper
+453770,22/23,L1,Bundesliga,33,FC Schalke 04,2,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+454149,23/24,FR1,Ligue 1,3911,Stade Brestois 29,2,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+45494,24/25,GB1,Premier League,703,Nottingham Forest,5,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+45494,23/24,GB1,Premier League,703,Nottingham Forest,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+45494,22/23,GB1,Premier League,703,Nottingham Forest,37,4,,0,0,1,0,0,0,0,0,271.0,5,1,Goalkeeper
+45494,21/22,GB1,Premier League,1132,Burnley FC,38,2,,0,0,0,0,0,0,0,0,180.0,6,0,Goalkeeper
+455922,23/24,L1,Bundesliga,18,Borussia Mönchengladbach,23,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+455922,22/23,L1,Bundesliga,18,Borussia Mönchengladbach,21,4,,0,0,0,0,0,0,0,0,360.0,11,0,Goalkeeper
+456292,23/24,GB1,Premier League,1148,Brentford FC,3,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+45672,25/26,FR1,Ligue 1,10004,Paris FC,2,1,,0,0,0,0,0,0,0,0,90.0,2,0,Goalkeeper
+45672,24/25,L1,Bundesliga,24,Eintracht Frankfurt,26,26,,0,0,0,1,1,0,0,0,2295.0,34,7,Goalkeeper
+45672,23/24,L1,Bundesliga,24,Eintracht Frankfurt,32,32,,0,0,0,0,2,0,0,0,2880.0,48,7,Goalkeeper
+45672,22/23,L1,Bundesliga,24,Eintracht Frankfurt,33,33,,0,0,0,0,3,0,0,0,2970.0,51,6,Goalkeeper
+45672,21/22,L1,Bundesliga,24,Eintracht Frankfurt,32,32,,0,0,0,0,2,0,0,0,2880.0,46,5,Goalkeeper
+459697,24/25,IT1,Serie A,749,FC Empoli,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+459763,25/26,IT1,Serie A,800,Atalanta BC,2,2,,0,0,0,0,0,0,0,0,180.0,2,0,Goalkeeper
+459763,24/25,IT1,Serie A,800,Atalanta BC,36,34,,0,0,0,0,1,0,0,0,3060.0,34,13,Goalkeeper
+459763,23/24,IT1,Serie A,800,Atalanta BC,38,27,,0,0,0,1,0,0,0,0,2426.0,30,9,Goalkeeper
+459763,22/23,IT1,Serie A,2239,US Cremonese,31,27,,0,0,0,0,1,0,0,0,2430.0,47,4,Goalkeeper
+461581,21/22,FR1,Ligue 1,1041,Olympique Lyon,3,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+462699,24/25,IT1,Serie A,252,Genoa CFC,7,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+463527,24/25,A1,Bundesliga,122,SK Sturm Graz,30,30,,0,0,0,0,0,0,0,0,2700.0,38,7,Goalkeeper
+463527,23/24,A1,Bundesliga,122,SK Sturm Graz,16,16,,0,0,0,0,1,0,0,0,1440.0,12,7,Goalkeeper
+463527,21/22,GB1,Premier League,1237,Brighton & Hove Albion,8,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+463600,25/26,FR1,Ligue 1,583,Paris Saint-Germain,3,3,,0,0,0,0,0,0,0,0,270.0,3,2,Goalkeeper
+463600,24/25,FR1,Ligue 1,1082,LOSC Lille,34,34,,0,0,0,0,0,0,0,0,3060.0,36,11,Goalkeeper
+463600,23/24,FR1,Ligue 1,1082,LOSC Lille,33,33,,0,0,0,1,1,0,0,0,2970.0,32,15,Goalkeeper
+463600,22/23,FR1,Ligue 1,1082,LOSC Lille,38,32,,0,0,0,0,1,0,0,0,2880.0,31,10,Goalkeeper
+463601,23/24,FR1,Ligue 1,347,FC Metz,34,1,,0,0,1,0,0,0,0,0,72.0,1,0,Goalkeeper
+463792,23/24,IT1,Serie A,416,Torino FC,37,2,,0,0,0,0,0,0,0,0,180.0,5,0,Goalkeeper
+463792,22/23,IT1,Serie A,416,Torino FC,36,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+463792,21/22,IT1,Serie A,416,Torino FC,28,1,,0,0,0,0,0,0,0,0,90.0,0,1,Goalkeeper
+465555,25/26,GB1,Premier League,989,AFC Bournemouth,3,3,,0,0,0,0,1,0,0,0,270.0,4,2,Goalkeeper
+465555,24/25,FR1,Ligue 1,667,RC Strasbourg Alsace,31,31,,0,0,0,0,2,0,0,0,2790.0,38,10,Goalkeeper
+465555,23/24,GB1,Premier League,631,Chelsea FC,35,23,,0,0,1,0,2,0,0,0,1986.0,38,5,Goalkeeper
+465836,25/26,FR1,Ligue 1,667,RC Strasbourg Alsace,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+465836,21/22,FR1,Ligue 1,618,AS Saint-Étienne,19,7,,0,0,3,0,0,0,0,0,508.0,13,0,Goalkeeper
+465955,24/25,FR1,Ligue 1,417,OGC Nice,34,34,,0,0,0,0,0,0,0,0,3060.0,41,8,Goalkeeper
+465955,23/24,FR1,Ligue 1,417,OGC Nice,34,34,,0,0,0,0,2,0,0,0,3060.0,29,17,Goalkeeper
+465955,22/23,FR1,Ligue 1,417,OGC Nice,22,2,,0,0,0,0,0,0,0,0,180.0,2,0,Goalkeeper
+465955,21/22,FR1,Ligue 1,417,OGC Nice,38,1,,0,0,0,0,0,0,0,0,90.0,1,0,Goalkeeper
+466783,25/26,ES1,LaLiga,1050,Villarreal CF,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+466783,24/25,FR1,Ligue 1,583,Paris Saint-Germain,12,1,,0,0,0,0,0,0,0,0,90.0,1,0,Goalkeeper
+466783,23/24,FR1,Ligue 1,583,Paris Saint-Germain,19,6,,0,0,1,0,0,0,0,0,528.0,7,1,Goalkeeper
+466783,22/23,ES1,LaLiga,131,FC Barcelona,36,0,0.0,0,0,0,0,1,0,0,0,,0,0,Goalkeeper
+466783,21/22,ES1,LaLiga,131,FC Barcelona,17,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+468539,25/26,L1,Bundesliga,41,Hamburger SV,2,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+468539,24/25,L1,Bundesliga,27,Bayern Munich,17,3,,0,0,0,0,1,0,0,0,270.0,5,0,Goalkeeper
+468539,23/24,L1,Bundesliga,27,Bayern Munich,14,1,,0,0,1,0,0,0,0,0,16.0,0,1,Goalkeeper
+470816,23/24,L1,Bundesliga,79,VfB Stuttgart,3,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+470816,21/22,L1,Bundesliga,79,VfB Stuttgart,7,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+471936,25/26,A1,Bundesliga,122,SK Sturm Graz,3,3,,0,0,0,0,0,0,0,0,270.0,3,1,Goalkeeper
+471936,23/24,IT1,Serie A,430,ACF Fiorentina,28,4,,0,0,0,0,0,0,0,0,360.0,9,0,Goalkeeper
+471936,22/23,L1,Bundesliga,44,Hertha BSC,34,33,,0,0,0,0,2,0,0,0,2970.0,68,3,Goalkeeper
+471936,21/22,L1,Bundesliga,44,Hertha BSC,25,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+475946,25/26,GB1,Premier League,289,Sunderland AFC,3,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+476274,24/25,ARM1,Premier League,11411,FC Urartu Yerevan,29,23,,0,0,0,0,2,0,0,0,2070.0,23,9,Goalkeeper
+476274,23/24,ARM1,Premier League,11411,FC Urartu Yerevan,36,26,,0,0,0,0,3,0,0,0,2340.0,37,5,Goalkeeper
+476274,22/23,ARM1,Premier League,11411,FC Urartu Yerevan,34,22,,0,0,0,0,4,0,0,0,1980.0,15,13,Goalkeeper
+478346,22/23,FR1,Ligue 1,969,Montpellier HSC,7,2,,0,0,1,0,0,0,0,0,135.0,3,1,Goalkeeper
+478346,21/22,FR1,Ligue 1,969,Montpellier HSC,11,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+48015,25/26,FR1,Ligue 1,162,AS Monaco,3,3,,0,0,0,1,0,0,0,0,259.0,4,0,Goalkeeper
+48015,24/25,L1,Bundesliga,15,Bayer 04 Leverkusen,33,29,,0,0,0,0,1,0,0,0,2610.0,38,6,Goalkeeper
+48015,23/24,L1,Bundesliga,15,Bayer 04 Leverkusen,34,33,,0,0,0,0,2,0,0,0,2970.0,24,15,Goalkeeper
+48015,22/23,L1,Bundesliga,15,Bayer 04 Leverkusen,33,33,,0,0,0,0,0,0,0,0,2970.0,47,9,Goalkeeper
+48015,21/22,L1,Bundesliga,15,Bayer 04 Leverkusen,33,32,,0,0,0,0,1,0,0,0,2880.0,44,8,Goalkeeper
+480958,22/23,ES1,LaLiga,621,Athletic Bilbao,15,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+480958,21/22,ES1,LaLiga,621,Athletic Bilbao,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+480966,22/23,ES1,LaLiga,1049,Valencia CF,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+481344,22/23,IT1,Serie A,6574,US Sassuolo,34,1,,0,0,0,0,0,0,0,0,90.0,3,0,Goalkeeper
+481675,25/26,IT1,Serie A,398,SS Lazio,2,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+481675,24/25,IT1,Serie A,398,SS Lazio,38,9,,0,0,0,0,0,0,0,0,810.0,7,4,Goalkeeper
+481675,23/24,IT1,Serie A,398,SS Lazio,35,9,,0,0,1,0,0,0,0,0,721.0,6,5,Goalkeeper
+483007,23/24,FR1,Ligue 1,969,Montpellier HSC,10,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+484838,22/23,GB1,Premier League,405,Aston Villa,15,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+484838,21/22,GB1,Premier League,405,Aston Villa,2,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+486046,25/26,L1,Bundesliga,23826,RB Leipzig,2,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+486046,24/25,L1,Bundesliga,23826,RB Leipzig,34,6,,0,0,2,0,0,0,0,0,428.0,9,2,Goalkeeper
+486144,24/25,GB1,Premier League,1003,Leicester City,21,10,,0,0,0,0,1,0,0,0,900.0,16,2,Goalkeeper
+486604,24/25,GB1,Premier League,31,Liverpool FC,12,1,,0,0,1,0,0,0,0,0,11.0,0,1,Goalkeeper
+486604,23/24,A1,Bundesliga,122,SK Sturm Graz,14,14,,0,0,0,0,0,0,0,0,1260.0,11,5,Goalkeeper
+487828,21/22,IT1,Serie A,410,Udinese Calcio,17,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+488270,21/22,IT1,Serie A,276,Hellas Verona,2,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+48870,21/22,GB1,Premier League,1148,Brentford FC,12,2,,0,0,0,0,0,0,0,0,180.0,5,0,Goalkeeper
+488935,25/26,GB1,Premier League,1148,Brentford FC,3,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+488935,24/25,GB1,Premier League,1148,Brentford FC,38,2,,0,0,1,0,0,0,0,0,144.0,2,1,Goalkeeper
+488935,23/24,GB1,Premier League,1148,Brentford FC,4,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+490606,25/26,ES1,LaLiga,237,RCD Mallorca,3,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+490606,23/24,GB1,Premier League,631,Chelsea FC,15,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+492319,25/26,IT1,Serie A,416,Torino FC,2,2,,0,0,0,0,0,0,0,0,180.0,5,1,Goalkeeper
+492319,21/22,IT1,Serie A,506,Juventus FC,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+493513,25/26,L1,Bundesliga,86,SV Werder Bremen,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+493513,24/25,ES1,LaLiga,366,Real Valladolid CF,33,31,,0,0,0,0,0,0,0,0,2790.0,68,5,Goalkeeper
+493513,23/24,GB1,Premier League,11,Arsenal FC,5,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+493513,22/23,GB1,Premier League,11,Arsenal FC,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+493513,21/22,GB1,Premier League,11,Arsenal FC,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+495033,22/23,GB1,Premier League,985,Manchester United,4,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+495722,25/26,IT1,Serie A,12,AS Roma,2,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+495722,24/25,IT1,Serie A,749,FC Empoli,38,32,,0,0,0,0,2,0,0,0,2880.0,45,6,Goalkeeper
+495722,22/23,IT1,Serie A,5,AC Milan,6,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+497103,23/24,MAL1,Premier League,329,Sliema Wanderers,25,24,,0,0,0,1,5,0,0,0,2151.0,11,15,Goalkeeper
+497103,21/22,MAL1,Premier League,329,Sliema Wanderers,5,1,,0,0,0,0,0,0,0,0,90.0,0,0,Goalkeeper
+499319,22/23,L1,Bundesliga,79,VfB Stuttgart,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+502070,22/23,GB1,Premier League,931,Fulham FC,2,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+502475,21/22,IT1,Serie A,6574,US Sassuolo,4,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+502676,25/26,GB1,Premier League,31,Liverpool FC,3,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+502676,24/25,ES1,LaLiga,1049,Valencia CF,34,34,,0,0,0,0,2,0,0,0,3060.0,48,8,Goalkeeper
+502676,23/24,ES1,LaLiga,1049,Valencia CF,37,37,,0,0,0,0,3,0,0,0,3285.0,41,13,Goalkeeper
+502676,22/23,ES1,LaLiga,1049,Valencia CF,38,38,,0,0,0,0,3,0,0,0,3420.0,45,7,Goalkeeper
+502676,21/22,ES1,LaLiga,1049,Valencia CF,35,18,,0,0,0,0,2,0,0,0,1620.0,20,8,Goalkeeper
+503769,22/23,A1,Bundesliga,122,SK Sturm Graz,16,15,,0,0,0,0,0,0,0,0,1350.0,18,4,Goalkeeper
+503769,21/22,GB1,Premier League,11,Arsenal FC,7,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+504825,23/24,IT1,Serie A,506,Juventus FC,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+51321,23/24,GB1,Premier League,989,AFC Bournemouth,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+51321,22/23,GB1,Premier League,989,AFC Bournemouth,3,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+51321,22/23,GB1,Premier League,379,West Ham United,8,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+51321,21/22,GB1,Premier League,379,West Ham United,3,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+513972,21/22,ES1,LaLiga,2687,Cádiz CF,7,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+51710,22/23,ES1,LaLiga,366,Real Valladolid CF,30,10,,0,0,0,0,0,0,0,0,900.0,21,1,Goalkeeper
+51710,21/22,ES1,LaLiga,1050,Villarreal CF,36,6,,0,0,0,0,1,0,0,0,540.0,9,0,Goalkeeper
+51977,24/25,L1,Bundesliga,82,VfL Wolfsburg,10,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+51977,23/24,L1,Bundesliga,82,VfL Wolfsburg,34,9,,0,0,0,0,1,0,0,0,810.0,17,2,Goalkeeper
+51977,22/23,L1,Bundesliga,82,VfL Wolfsburg,33,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+51977,21/22,L1,Bundesliga,82,VfL Wolfsburg,34,6,,0,0,0,0,0,0,0,0,540.0,14,1,Goalkeeper
+524937,25/26,FR1,Ligue 1,415,FC Toulouse,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+524937,24/25,FR1,Ligue 1,415,FC Toulouse,17,1,,0,0,1,0,0,0,0,0,18.0,0,1,Goalkeeper
+524937,23/24,FR1,Ligue 1,415,FC Toulouse,34,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+525155,25/26,FR1,Ligue 1,3911,Stade Brestois 29,3,1,,0,0,1,0,0,0,0,0,31.0,3,0,Goalkeeper
+525155,24/25,FR1,Ligue 1,3911,Stade Brestois 29,34,2,,0,0,0,0,0,0,0,0,180.0,5,0,Goalkeeper
+525155,23/24,FR1,Ligue 1,3911,Stade Brestois 29,34,3,,0,0,1,0,0,0,0,0,181.0,0,3,Goalkeeper
+525155,22/23,FR1,Ligue 1,3911,Stade Brestois 29,6,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+525155,21/22,FR1,Ligue 1,3911,Stade Brestois 29,3,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+525438,25/26,ES1,LaLiga,2497,Real Oviedo,3,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+525438,24/25,ES1,LaLiga,13,Atlético de Madrid,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+525438,23/24,ES1,LaLiga,13,Atlético de Madrid,18,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+52570,24/25,GB1,Premier League,148,Tottenham Hotspur,18,7,,0,0,0,0,0,0,0,0,630.0,15,1,Goalkeeper
+52570,23/24,GB1,Premier League,148,Tottenham Hotspur,23,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+52570,22/23,GB1,Premier League,148,Tottenham Hotspur,38,14,,0,0,1,0,1,0,0,0,1215.0,24,3,Goalkeeper
+52570,21/22,GB1,Premier League,180,Southampton FC,33,19,,0,0,0,0,1,0,0,0,1710.0,35,3,Goalkeeper
+526845,25/26,L1,Bundesliga,60,SC Freiburg,2,2,,0,0,0,0,0,0,0,0,180.0,7,0,Goalkeeper
+526845,24/25,L1,Bundesliga,60,SC Freiburg,28,26,,0,0,0,1,2,0,0,0,2308.0,37,10,Goalkeeper
+526845,23/24,L1,Bundesliga,60,SC Freiburg,34,34,,0,0,0,0,0,0,0,0,3060.0,58,10,Goalkeeper
+526845,22/23,L1,Bundesliga,60,SC Freiburg,8,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+526845,21/22,L1,Bundesliga,60,SC Freiburg,3,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+528181,25/26,IT1,Serie A,130,Parma Calcio 1913,2,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+528181,24/25,IT1,Serie A,130,Parma Calcio 1913,38,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+531274,22/23,ES1,LaLiga,3302,UD Almería,15,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+535740,25/26,IT1,Serie A,1390,Cagliari Calcio,2,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+535740,24/25,IT1,Serie A,1390,Cagliari Calcio,26,1,,0,0,1,0,0,0,0,0,8.0,0,1,Goalkeeper
+535881,23/24,IT1,Serie A,276,Hellas Verona,18,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+535881,22/23,IT1,Serie A,276,Hellas Verona,12,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+535881,21/22,IT1,Serie A,276,Hellas Verona,16,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+536794,23/24,GB1,Premier League,29,Everton FC,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+537171,24/25,IT1,Serie A,2919,AC Monza,38,9,,1,0,1,1,0,0,0,0,736.0,17,2,Goalkeeper
+537367,21/22,ES1,LaLiga,368,Sevilla FC,7,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+538079,25/26,IT1,Serie A,398,SS Lazio,2,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+538079,24/25,IT1,Serie A,398,SS Lazio,38,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+538079,23/24,IT1,Serie A,398,SS Lazio,2,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+538079,21/22,IT1,Serie A,398,SS Lazio,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+540641,21/22,FR1,Ligue 1,40,FC Girondins Bordeaux,8,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+540643,21/22,FR1,Ligue 1,40,FC Girondins Bordeaux,3,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+540642,22/23,FR1,Ligue 1,1095,ESTAC Troyes,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+541282,21/22,IT1,Serie A,380,US Salernitana 1919,14,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+541621,24/25,ES1,LaLiga,940,Celta de Vigo,7,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+54217,25/26,ES1,LaLiga,1108,Deportivo Alavés,3,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+54217,23/24,ES1,LaLiga,16795,Granada CF,14,4,,0,0,0,1,0,0,0,0,281.0,11,1,Goalkeeper
+542452,25/26,FR1,Ligue 1,347,FC Metz,3,3,,0,0,0,0,0,0,0,0,270.0,7,0,Goalkeeper
+542586,22/23,GB1,Premier League,399,Leeds United,38,34,,0,0,0,0,3,0,0,0,3060.0,67,5,Goalkeeper
+542586,21/22,GB1,Premier League,399,Leeds United,38,38,,0,0,0,1,2,0,0,0,3385.0,78,5,Goalkeeper
+542588,24/25,IT1,Serie A,2919,AC Monza,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+542588,23/24,IT1,Serie A,2919,AC Monza,38,7,,0,0,2,0,0,0,0,0,546.0,16,0,Goalkeeper
+542588,22/23,IT1,Serie A,2919,AC Monza,36,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+543666,25/26,IT1,Serie A,6574,US Sassuolo,2,1,,0,0,0,0,0,0,0,0,90.0,2,0,Goalkeeper
+543666,24/25,IT1,Serie A,2919,AC Monza,34,30,,0,0,0,1,1,0,0,0,2677.0,52,2,Goalkeeper
+543666,23/24,IT1,Serie A,8970,Frosinone Calcio,33,31,,0,0,0,1,0,0,0,0,2745.0,58,5,Goalkeeper
+543726,22/23,GB1,Premier League,379,West Ham United,3,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+54534,23/24,ES1,LaLiga,940,Celta de Vigo,18,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+54534,22/23,ES1,LaLiga,940,Celta de Vigo,19,19,,0,0,0,0,3,0,0,0,1710.0,29,6,Goalkeeper
+547248,24/25,ES1,LaLiga,1050,Villarreal CF,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+547248,23/24,ES1,LaLiga,1050,Villarreal CF,7,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+547248,22/23,ES1,LaLiga,1050,Villarreal CF,17,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+547248,21/22,ES1,LaLiga,1050,Villarreal CF,10,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+548347,25/26,FR1,Ligue 1,1420,Angers SCO,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+548347,24/25,FR1,Ligue 1,1420,Angers SCO,34,1,,0,0,0,0,0,0,0,0,90.0,2,0,Goalkeeper
+55000,23/24,IT1,Serie A,380,US Salernitana 1919,27,4,,0,0,0,0,1,0,0,0,360.0,8,0,Goalkeeper
+55000,22/23,IT1,Serie A,380,US Salernitana 1919,33,1,,0,0,0,0,0,0,0,0,90.0,2,0,Goalkeeper
+55000,21/22,IT1,Serie A,380,US Salernitana 1919,20,1,,0,0,0,0,0,0,0,0,90.0,5,0,Goalkeeper
+55089,25/26,L1,Bundesliga,533,TSG 1899 Hoffenheim,2,2,,0,0,0,0,0,0,0,0,180.0,4,0,Goalkeeper
+55089,24/25,L1,Bundesliga,533,TSG 1899 Hoffenheim,28,28,,0,0,0,0,1,0,0,0,2520.0,53,4,Goalkeeper
+55089,23/24,L1,Bundesliga,533,TSG 1899 Hoffenheim,34,34,,0,0,0,0,1,0,0,0,3060.0,66,2,Goalkeeper
+55089,22/23,L1,Bundesliga,533,TSG 1899 Hoffenheim,34,34,,0,0,0,0,2,0,0,0,3060.0,57,5,Goalkeeper
+55089,21/22,L1,Bundesliga,533,TSG 1899 Hoffenheim,33,33,,0,0,0,0,1,0,0,0,2970.0,57,8,Goalkeeper
+550829,24/25,L1,Bundesliga,15,Bayer 04 Leverkusen,33,5,,0,0,0,0,0,0,0,0,450.0,5,3,Goalkeeper
+550829,23/24,L1,Bundesliga,15,Bayer 04 Leverkusen,33,1,,0,0,0,0,0,0,0,0,90.0,0,1,Goalkeeper
+550829,22/23,GB1,Premier League,985,Manchester United,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+551182,24/25,ES1,LaLiga,150,Real Betis Balompié,34,4,,0,0,0,0,0,0,0,0,360.0,5,0,Goalkeeper
+551182,23/24,ES1,LaLiga,150,Real Betis Balompié,32,4,,0,0,1,0,0,0,0,0,315.0,4,2,Goalkeeper
+551182,22/23,ES1,LaLiga,150,Real Betis Balompié,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+552223,24/25,IT1,Serie A,607,Venezia FC,28,16,,0,0,0,1,1,0,0,0,1368.0,23,1,Goalkeeper
+553282,22/23,L1,Bundesliga,44,Hertha BSC,31,1,,0,0,0,0,0,0,0,0,90.0,1,0,Goalkeeper
+553282,21/22,L1,Bundesliga,80,VfL Bochum,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+555074,24/25,GB1,Premier League,405,Aston Villa,9,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+555074,23/24,GB1,Premier League,405,Aston Villa,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+555074,22/23,GB1,Premier League,405,Aston Villa,2,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+555557,23/24,IT1,Serie A,6195,SSC Napoli,17,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+555557,22/23,IT1,Serie A,6195,SSC Napoli,5,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+555557,21/22,IT1,Serie A,6195,SSC Napoli,8,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+55569,21/22,A1,Bundesliga,4441,Wolfsberger AC,32,28,,1,0,0,0,3,0,0,0,2520.0,43,7,Goalkeeper
+5578,22/23,FR1,Ligue 1,1421,Stade Reims,7,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+5578,21/22,FR1,Ligue 1,1421,Stade Reims,10,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+558631,25/26,ARM1,Premier League,74661,FC Van,4,1,,0,0,0,0,0,0,0,0,90.0,0,1,Goalkeeper
+561613,25/26,ES1,LaLiga,131,FC Barcelona,3,3,,0,0,0,0,0,0,0,0,270.0,3,1,Goalkeeper
+561613,24/25,ES1,LaLiga,714,RCD Espanyol Barcelona,38,38,,0,0,0,0,2,0,0,0,3420.0,51,8,Goalkeeper
+561613,22/23,ES1,LaLiga,714,RCD Espanyol Barcelona,36,1,,0,0,0,0,0,0,0,0,90.0,3,0,Goalkeeper
+561613,21/22,ES1,LaLiga,714,RCD Espanyol Barcelona,32,2,,0,0,1,0,0,0,0,0,107.0,3,0,Goalkeeper
+561702,23/24,ES1,LaLiga,681,Real Sociedad,8,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+561702,21/22,ES1,LaLiga,681,Real Sociedad,5,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+562742,25/26,ES1,LaLiga,237,RCD Mallorca,3,3,,0,0,0,0,0,0,0,0,270.0,6,0,Goalkeeper
+562742,24/25,ES1,LaLiga,237,RCD Mallorca,38,7,,0,0,0,0,0,0,0,0,630.0,10,2,Goalkeeper
+562742,22/23,ES1,LaLiga,237,RCD Mallorca,31,1,,0,0,0,0,0,0,0,0,90.0,0,1,Goalkeeper
+562742,21/22,ES1,LaLiga,237,RCD Mallorca,15,2,,0,0,0,0,0,0,0,0,180.0,5,0,Goalkeeper
+563140,22/23,FR1,Ligue 1,290,AJ Auxerre,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+564792,23/24,IT1,Serie A,506,Juventus FC,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+564792,22/23,IT1,Serie A,506,Juventus FC,4,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+565093,25/26,GB1,Premier League,1237,Brighton & Hove Albion,3,3,,0,0,0,0,0,0,0,0,270.0,4,0,Goalkeeper
+565093,24/25,GB1,Premier League,1237,Brighton & Hove Albion,36,36,,0,0,0,0,5,0,0,0,3240.0,58,7,Goalkeeper
+565093,23/24,GB1,Premier League,1237,Brighton & Hove Albion,38,21,,0,0,0,0,3,0,0,0,1890.0,28,4,Goalkeeper
+565684,22/23,GB1,Premier League,703,Nottingham Forest,2,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+566666,21/22,ES1,LaLiga,150,Real Betis Balompié,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+566799,25/26,GB1,Premier League,281,Manchester City,3,3,,0,0,0,0,0,0,0,0,270.0,4,1,Goalkeeper
+566799,23/24,GB1,Premier League,1132,Burnley FC,36,28,,0,0,0,0,2,0,0,0,2520.0,62,2,Goalkeeper
+567465,21/22,IT1,Serie A,5,AC Milan,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+567504,24/25,ES1,LaLiga,150,Real Betis Balompié,11,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+567504,23/24,ES1,LaLiga,150,Real Betis Balompié,8,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+56809,23/24,FR1,Ligue 1,347,FC Metz,34,34,,0,0,0,1,3,0,0,0,2988.0,57,7,Goalkeeper
+56809,21/22,FR1,Ligue 1,347,FC Metz,34,21,,1,0,0,1,2,0,0,0,1877.0,39,3,Goalkeeper
+568154,23/24,ES1,LaLiga,418,Real Madrid,4,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+568154,22/23,ES1,LaLiga,418,Real Madrid,6,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+568617,25/26,IT1,Serie A,410,Udinese Calcio,2,2,,0,0,0,0,1,0,0,0,180.0,2,0,Goalkeeper
+568617,24/25,IT1,Serie A,410,Udinese Calcio,31,12,,0,0,0,0,1,0,0,0,1080.0,16,4,Goalkeeper
+568728,25/26,FR1,Ligue 1,347,FC Metz,3,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+57071,25/26,L1,Bundesliga,23826,RB Leipzig,2,2,,0,0,0,0,0,0,0,0,180.0,6,1,Goalkeeper
+57071,24/25,L1,Bundesliga,23826,RB Leipzig,31,30,,0,0,0,2,0,0,0,0,2632.0,39,14,Goalkeeper
+57071,23/24,L1,Bundesliga,23826,RB Leipzig,29,13,,0,0,0,0,0,0,0,0,1170.0,9,5,Goalkeeper
+57071,22/23,L1,Bundesliga,23826,RB Leipzig,6,6,,0,0,0,0,0,0,0,0,540.0,10,2,Goalkeeper
+57071,21/22,L1,Bundesliga,23826,RB Leipzig,33,33,,0,0,0,1,1,0,0,0,2967.0,34,10,Goalkeeper
+57134,23/24,FR1,Ligue 1,667,RC Strasbourg Alsace,6,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+57134,21/22,FR1,Ligue 1,1158,FC Lorient,38,16,,0,0,0,0,0,0,0,0,1440.0,25,7,Goalkeeper
+574164,21/22,IT1,Serie A,1025,Bologna FC 1909,12,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+574203,23/24,L1,Bundesliga,82,VfL Wolfsburg,4,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+574203,22/23,L1,Bundesliga,82,VfL Wolfsburg,2,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+574448,25/26,GB1,Premier League,29,Everton FC,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+574448,21/22,GB1,Premier League,29,Everton FC,2,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+576033,25/26,FR1,Ligue 1,273,Stade Rennais FC,3,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+576033,22/23,FR1,Ligue 1,273,Stade Rennais FC,38,6,,0,0,2,0,1,0,0,0,406.0,8,1,Goalkeeper
+576033,21/22,FR1,Ligue 1,273,Stade Rennais FC,19,12,,0,0,0,0,1,0,0,0,1080.0,13,4,Goalkeeper
+576099,23/24,GB1,Premier League,379,West Ham United,7,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+576099,22/23,GB1,Premier League,379,West Ham United,7,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+57631,22/23,ARM1,Premier League,10301,FC Pyunik Yerevan,8,6,,0,0,0,0,1,0,0,0,540.0,3,3,Goalkeeper
+57631,21/22,ARM1,Premier League,10301,FC Pyunik Yerevan,16,16,,0,0,0,0,3,0,0,0,1440.0,9,8,Goalkeeper
+57631,21/22,ARM1,Premier League,37914,Alashkert Yerevan FC,9,6,,0,0,0,0,0,0,0,0,540.0,7,2,Goalkeeper
+577869,23/24,ES1,LaLiga,940,Celta de Vigo,4,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+577869,22/23,ES1,LaLiga,940,Celta de Vigo,2,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+57796,24/25,L1,Bundesliga,2036,1.FC Heidenheim 1846,19,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+57796,23/24,L1,Bundesliga,2036,1.FC Heidenheim 1846,33,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+581604,23/24,IT1,Serie A,12,AS Roma,36,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+581604,22/23,IT1,Serie A,12,AS Roma,38,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+581604,21/22,IT1,Serie A,12,AS Roma,23,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+581640,23/24,ES1,LaLiga,940,Celta de Vigo,13,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+581640,22/23,ES1,LaLiga,940,Celta de Vigo,17,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+581640,21/22,ES1,LaLiga,940,Celta de Vigo,18,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+582078,25/26,GB1,Premier League,989,AFC Bournemouth,3,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+582078,24/25,GB1,Premier League,989,AFC Bournemouth,21,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+582078,22/23,GB1,Premier League,989,AFC Bournemouth,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+58360,22/23,A1,Bundesliga,2446,WSG Tirol,28,27,,0,0,0,0,1,0,0,0,2430.0,47,4,Goalkeeper
+58360,21/22,A1,Bundesliga,2446,WSG Tirol,26,23,,0,0,0,1,0,0,0,0,2015.0,44,7,Goalkeeper
+585323,25/26,GB1,Premier League,631,Chelsea FC,3,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+585323,24/25,GB1,Premier League,631,Chelsea FC,37,6,,0,0,0,0,0,0,0,0,540.0,9,1,Goalkeeper
+585323,23/24,ES1,LaLiga,1050,Villarreal CF,38,36,,0,0,0,0,4,0,0,0,3240.0,63,6,Goalkeeper
+585323,22/23,ES1,LaLiga,1050,Villarreal CF,26,2,,0,0,0,0,0,0,0,0,180.0,3,0,Goalkeeper
+585323,21/22,ES1,LaLiga,1050,Villarreal CF,14,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+585550,22/23,GB1,Premier League,180,Southampton FC,38,32,,0,0,0,0,0,0,0,0,2880.0,56,4,Goalkeeper
+587018,24/25,GB1,Premier League,985,Manchester United,2,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+587505,25/26,IT1,Serie A,1047,Como 1907,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+59009,24/25,A1,Bundesliga,413,LASK,16,11,,0,0,1,1,0,0,0,0,892.0,16,2,Goalkeeper
+59009,23/24,A1,Bundesliga,413,LASK,31,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+59009,22/23,A1,Bundesliga,122,SK Sturm Graz,30,16,,0,0,0,0,0,0,0,0,1440.0,11,6,Goalkeeper
+59009,21/22,A1,Bundesliga,122,SK Sturm Graz,32,32,,1,0,0,0,0,0,0,0,2880.0,46,8,Goalkeeper
+59027,21/22,L1,Bundesliga,16,Borussia Dortmund,3,1,,0,0,0,0,0,0,0,0,90.0,1,0,Goalkeeper
+591190,23/24,FR1,Ligue 1,1158,FC Lorient,6,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+591844,24/25,GB1,Premier League,405,Aston Villa,10,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+591844,23/24,GB1,Premier League,405,Aston Villa,5,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+59238,21/22,L1,Bundesliga,16,Borussia Dortmund,33,5,,0,0,1,0,0,0,0,0,405.0,12,0,Goalkeeper
+592924,22/23,A1,Bundesliga,3551,SCR Altach,10,6,,0,0,0,0,0,0,0,0,540.0,10,1,Goalkeeper
+592924,22/23,IT1,Serie A,5,AC Milan,8,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+592924,21/22,IT1,Serie A,5,AC Milan,8,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+59349,23/24,ES1,LaLiga,3302,UD Almería,37,1,,0,0,0,0,0,0,0,0,90.0,2,0,Goalkeeper
+59349,22/23,ES1,LaLiga,3302,UD Almería,18,1,,0,0,1,0,0,0,0,0,45.0,2,0,Goalkeeper
+59377,25/26,IT1,Serie A,430,ACF Fiorentina,2,2,,0,0,0,0,0,0,0,0,180.0,1,1,Goalkeeper
+59377,24/25,IT1,Serie A,430,ACF Fiorentina,38,35,,0,0,0,0,1,0,0,0,3150.0,38,11,Goalkeeper
+59377,22/23,GB1,Premier League,985,Manchester United,38,38,,0,0,0,0,0,0,0,0,3420.0,43,17,Goalkeeper
+59377,21/22,GB1,Premier League,985,Manchester United,38,38,,0,0,0,0,0,0,0,0,3420.0,57,8,Goalkeeper
+594993,22/23,FR1,Ligue 1,3524,Clermont Foot 63,31,1,,0,0,0,0,0,0,0,0,90.0,2,0,Goalkeeper
+594993,21/22,FR1,Ligue 1,3524,Clermont Foot 63,38,24,,0,0,1,0,1,0,0,0,2115.0,36,6,Goalkeeper
+598274,23/24,MAL1,Premier League,10262,Birkirkara FC,26,25,,0,0,0,1,3,0,0,0,2229.0,24,10,Goalkeeper
+600942,23/24,L1,Bundesliga,533,TSG 1899 Hoffenheim,7,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+600942,22/23,L1,Bundesliga,533,TSG 1899 Hoffenheim,2,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+602299,22/23,IT1,Serie A,3522,Spezia Calcio,28,1,,0,0,1,0,0,0,0,0,73.0,2,0,Goalkeeper
+602299,21/22,IT1,Serie A,3522,Spezia Calcio,38,1,,0,0,1,0,0,0,0,0,28.0,0,1,Goalkeeper
+602979,21/22,ES1,LaLiga,1531,Elche CF,16,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+604207,25/26,IT1,Serie A,130,Parma Calcio 1913,2,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+604326,22/23,L1,Bundesliga,27,Bayern Munich,6,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+60543,24/25,FR1,Ligue 1,738,Le Havre AC,33,16,,0,0,0,0,2,0,0,0,1440.0,33,1,Goalkeeper
+60543,23/24,FR1,Ligue 1,738,Le Havre AC,30,1,,0,0,0,0,1,0,0,0,90.0,2,0,Goalkeeper
+605528,25/26,ES1,LaLiga,714,RCD Espanyol Barcelona,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+605528,24/25,ES1,LaLiga,714,RCD Espanyol Barcelona,5,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+605528,23/24,ES1,LaLiga,16795,Granada CF,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+60561,25/26,FR1,Ligue 1,995,FC Nantes,3,3,,0,0,0,0,0,0,0,0,270.0,2,1,Goalkeeper
+60561,24/25,FR1,Ligue 1,995,FC Nantes,18,18,,0,0,0,1,2,0,0,0,1564.0,26,3,Goalkeeper
+60561,24/25,FR1,Ligue 1,1041,Olympique Lyon,2,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+60561,23/24,FR1,Ligue 1,1041,Olympique Lyon,31,31,,0,0,0,0,0,0,0,0,2790.0,49,9,Goalkeeper
+60561,22/23,FR1,Ligue 1,1041,Olympique Lyon,32,32,,0,0,0,0,2,0,0,0,2817.0,39,8,Goalkeeper
+60561,21/22,FR1,Ligue 1,1041,Olympique Lyon,34,34,,0,0,0,1,1,0,0,0,2984.0,45,9,Goalkeeper
+606301,21/22,L1,Bundesliga,10,Arminia Bielefeld,7,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+606614,22/23,IT1,Serie A,380,US Salernitana 1919,9,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+606614,21/22,IT1,Serie A,380,US Salernitana 1919,3,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+606576,21/22,FR1,Ligue 1,583,Paris Saint-Germain,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+607720,25/26,L1,Bundesliga,27,Bayern Munich,2,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+607720,24/25,L1,Bundesliga,27,Bayern Munich,15,8,,0,0,0,0,0,0,0,0,720.0,12,2,Goalkeeper
+607720,22/23,L1,Bundesliga,3,1.FC Köln,2,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+607720,21/22,L1,Bundesliga,3,1.FC Köln,11,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+607780,24/25,ES1,LaLiga,367,Rayo Vallecano,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+607780,23/24,ES1,LaLiga,367,Rayo Vallecano,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+607780,22/23,ES1,LaLiga,367,Rayo Vallecano,10,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+607780,21/22,ES1,LaLiga,367,Rayo Vallecano,2,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+608382,24/25,ES1,LaLiga,1108,Deportivo Alavés,25,2,,0,0,1,0,1,0,0,0,121.0,2,1,Goalkeeper
+608382,23/24,ES1,LaLiga,1108,Deportivo Alavés,16,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+608382,21/22,ES1,LaLiga,1108,Deportivo Alavés,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+610190,25/26,L1,Bundesliga,167,FC Augsburg,2,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+610190,24/25,L1,Bundesliga,167,FC Augsburg,34,15,,0,0,0,0,0,0,0,0,1350.0,32,2,Goalkeeper
+610863,23/24,GB1,Premier League,405,Aston Villa,10,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+610863,22/23,GB1,Premier League,405,Aston Villa,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+610863,21/22,GB1,Premier League,405,Aston Villa,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+611202,21/22,ES1,LaLiga,3368,Levante UD,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+612059,24/25,IT1,Serie A,410,Udinese Calcio,15,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+612059,23/24,IT1,Serie A,410,Udinese Calcio,2,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+612059,22/23,IT1,Serie A,410,Udinese Calcio,38,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+612059,21/22,IT1,Serie A,410,Udinese Calcio,8,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+613533,21/22,IT1,Serie A,1038,UC Sampdoria,3,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+616228,21/22,IT1,Serie A,607,Venezia FC,8,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+61697,24/25,GB1,Premier League,379,West Ham United,9,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+61697,23/24,GB1,Premier League,350,Sheffield United,38,30,,1,0,1,0,2,0,0,0,2648.0,79,1,Goalkeeper
+617059,25/26,ES1,LaLiga,3368,Levante UD,3,2,,0,0,0,0,0,0,0,0,180.0,5,0,Goalkeeper
+617059,21/22,ES1,LaLiga,3368,Levante UD,6,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+617164,23/24,IT1,Serie A,416,Torino FC,3,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+617178,21/22,IT1,Serie A,410,Udinese Calcio,11,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+617808,21/22,IT1,Serie A,800,Atalanta BC,2,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+618465,22/23,FR1,Ligue 1,1041,Olympique Lyon,8,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+618465,21/22,FR1,Ligue 1,1041,Olympique Lyon,7,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+618463,22/23,FR1,Ligue 1,3524,Clermont Foot 63,8,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+618463,21/22,FR1,Ligue 1,3524,Clermont Foot 63,7,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+618801,25/26,ES1,LaLiga,1531,Elche CF,4,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+618801,24/25,ES1,LaLiga,13,Atlético de Madrid,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+618801,22/23,ES1,LaLiga,13,Atlético de Madrid,8,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+61989,23/24,L1,Bundesliga,80,VfL Bochum,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+61989,22/23,L1,Bundesliga,80,VfL Bochum,26,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+61989,21/22,L1,Bundesliga,80,VfL Bochum,33,3,,0,0,0,0,0,0,0,0,270.0,7,0,Goalkeeper
+620295,25/26,L1,Bundesliga,86,SV Werder Bremen,2,2,,0,0,0,0,0,0,0,0,180.0,7,0,Goalkeeper
+620295,24/25,L1,Bundesliga,86,SV Werder Bremen,33,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+620362,24/25,GB1,Premier League,985,Manchester United,2,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+620362,23/24,GB1,Premier League,985,Manchester United,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+620912,25/26,FR1,Ligue 1,244,Olympique Marseille,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+621997,24/25,GB1,Premier League,677,Ipswich Town,4,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+621997,21/22,GB1,Premier League,281,Manchester City,3,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+622236,24/25,A1,Bundesliga,2157,FC Blau-Weiss Linz,26,26,,0,0,0,0,2,0,0,0,2340.0,35,6,Goalkeeper
+622236,23/24,GB1,Premier League,985,Manchester United,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+623412,25/26,IT1,Serie A,416,Torino FC,2,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+623412,23/24,IT1,Serie A,416,Torino FC,33,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+623526,23/24,ES1,LaLiga,12321,Girona FC,38,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+623526,22/23,ES1,LaLiga,12321,Girona FC,35,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+623526,21/22,ES1,LaLiga,418,Real Madrid,18,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+623525,22/23,ES1,LaLiga,418,Real Madrid,34,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+623525,21/22,ES1,LaLiga,418,Real Madrid,8,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+625014,25/26,ES1,LaLiga,1049,Valencia CF,3,3,,0,0,0,0,0,0,0,0,270.0,2,1,Goalkeeper
+625014,24/25,ES1,LaLiga,621,Athletic Bilbao,36,14,,0,0,0,1,1,0,0,0,1207.0,9,6,Goalkeeper
+625014,23/24,ES1,LaLiga,621,Athletic Bilbao,38,4,,0,0,2,0,0,0,0,0,236.0,4,2,Goalkeeper
+625014,22/23,ES1,LaLiga,621,Athletic Bilbao,34,8,,0,0,1,0,0,0,0,0,675.0,6,3,Goalkeeper
+625014,21/22,ES1,LaLiga,621,Athletic Bilbao,14,4,,0,0,0,0,0,0,0,0,360.0,5,1,Goalkeeper
+625657,25/26,ES1,LaLiga,681,Real Sociedad,3,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+625657,24/25,ES1,LaLiga,681,Real Sociedad,38,2,,0,0,0,0,0,0,0,0,180.0,3,0,Goalkeeper
+625657,23/24,ES1,LaLiga,681,Real Sociedad,38,2,,0,0,1,0,0,0,0,0,141.0,3,0,Goalkeeper
+625657,22/23,ES1,LaLiga,681,Real Sociedad,11,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+625657,21/22,ES1,LaLiga,681,Real Sociedad,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+628487,25/26,ES1,LaLiga,714,RCD Espanyol Barcelona,3,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+628487,24/25,ES1,LaLiga,714,RCD Espanyol Barcelona,38,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+628487,22/23,ES1,LaLiga,714,RCD Espanyol Barcelona,5,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+629011,25/26,A1,Bundesliga,413,LASK,5,5,,0,0,0,0,1,0,0,0,450.0,12,0,Goalkeeper
+629011,24/25,A1,Bundesliga,413,LASK,11,3,,0,0,1,0,0,0,0,0,225.0,5,1,Goalkeeper
+629011,23/24,A1,Bundesliga,413,LASK,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+629011,22/23,A1,Bundesliga,413,LASK,4,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+629032,25/26,A1,Bundesliga,122,SK Sturm Graz,4,1,,0,0,0,0,0,0,0,0,90.0,0,1,Goalkeeper
+629032,24/25,A1,Bundesliga,122,SK Sturm Graz,2,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+629032,23/24,A1,Bundesliga,122,SK Sturm Graz,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+629032,21/22,L1,Bundesliga,24,Eintracht Frankfurt,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+629587,22/23,FR1,Ligue 1,1158,FC Lorient,13,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+629587,21/22,FR1,Ligue 1,1158,FC Lorient,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+631693,24/25,ES1,LaLiga,1108,Deportivo Alavés,32,6,,0,0,1,0,0,0,0,0,486.0,7,0,Goalkeeper
+631693,23/24,ES1,LaLiga,1108,Deportivo Alavés,35,4,,0,0,0,0,1,0,0,0,360.0,8,1,Goalkeeper
+631693,21/22,ES1,LaLiga,1108,Deportivo Alavés,3,1,,0,0,0,0,0,0,0,0,90.0,1,0,Goalkeeper
+632471,21/22,ES1,LaLiga,16795,Granada CF,6,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+632913,24/25,ES1,LaLiga,237,RCD Mallorca,3,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+632913,23/24,ES1,LaLiga,237,RCD Mallorca,3,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+632913,22/23,ES1,LaLiga,237,RCD Mallorca,6,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+632913,21/22,ES1,LaLiga,237,RCD Mallorca,3,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+634117,24/25,ES1,LaLiga,331,CA Osasuna,15,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+634117,23/24,ES1,LaLiga,331,CA Osasuna,19,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+634117,22/23,ES1,LaLiga,331,CA Osasuna,3,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+634116,22/23,ES1,LaLiga,331,CA Osasuna,5,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+634116,21/22,ES1,LaLiga,331,CA Osasuna,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+636686,24/25,ES1,LaLiga,366,Real Valladolid CF,10,1,,0,0,0,0,0,0,0,0,90.0,2,0,Goalkeeper
+639582,25/26,A1,Bundesliga,4467,TSV Hartberg,5,5,,0,0,0,0,2,0,0,0,450.0,8,1,Goalkeeper
+639582,23/24,L1,Bundesliga,27,Bayern Munich,2,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+640544,21/22,IT1,Serie A,1390,Cagliari Calcio,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+641458,24/25,GB1,Premier League,703,Nottingham Forest,33,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+64399,24/25,ES1,LaLiga,940,Celta de Vigo,37,34,,0,0,0,0,0,0,0,0,3060.0,48,8,Goalkeeper
+64399,23/24,ES1,LaLiga,940,Celta de Vigo,33,27,,1,0,1,0,2,0,0,0,2402.0,39,6,Goalkeeper
+64399,22/23,GB1,Premier League,873,Crystal Palace,32,27,,0,0,0,0,1,0,0,0,2430.0,34,6,Goalkeeper
+64399,21/22,GB1,Premier League,873,Crystal Palace,35,30,,0,0,0,1,2,0,0,0,2655.0,33,12,Goalkeeper
+6442,21/22,IT1,Serie A,430,ACF Fiorentina,28,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+646353,24/25,GB1,Premier League,1237,Brighton & Hove Albion,14,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+646741,24/25,ES1,LaLiga,940,Celta de Vigo,4,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+646741,23/24,ES1,LaLiga,940,Celta de Vigo,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+646741,21/22,ES1,LaLiga,940,Celta de Vigo,2,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+646991,25/26,GB1,Premier League,289,Sunderland AFC,3,3,,0,0,0,0,0,0,0,0,270.0,3,1,Goalkeeper
+650256,24/25,IT1,Serie A,800,Atalanta BC,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+650256,23/24,IT1,Serie A,800,Atalanta BC,3,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+650989,23/24,IT1,Serie A,506,Juventus FC,3,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+650989,22/23,IT1,Serie A,506,Juventus FC,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+65263,22/23,ES1,LaLiga,366,Real Valladolid CF,34,28,,0,0,0,1,4,0,0,0,2508.0,42,8,Goalkeeper
+652920,21/22,IT1,Serie A,416,Torino FC,2,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+654408,22/23,FR1,Ligue 1,583,Paris Saint-Germain,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+655136,22/23,GB1,Premier League,989,AFC Bournemouth,6,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+656316,25/26,GB1,Premier League,631,Chelsea FC,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+658586,22/23,IT1,Serie A,416,Torino FC,27,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+659375,25/26,A1,Bundesliga,2446,WSG Tirol,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+659375,24/25,A1,Bundesliga,2446,WSG Tirol,14,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+659375,23/24,A1,Bundesliga,2446,WSG Tirol,15,1,,0,0,1,0,0,0,0,0,9.0,1,0,Goalkeeper
+659375,22/23,A1,Bundesliga,2446,WSG Tirol,7,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+659375,21/22,A1,Bundesliga,2446,WSG Tirol,7,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+659648,25/26,IT1,Serie A,6574,US Sassuolo,2,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+659648,22/23,IT1,Serie A,6574,US Sassuolo,6,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+659648,21/22,IT1,Serie A,6574,US Sassuolo,2,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+662334,23/24,GB1,Premier League,31,Liverpool FC,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+662334,21/22,GB1,Premier League,31,Liverpool FC,2,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+665971,22/23,L1,Bundesliga,23826,RB Leipzig,4,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+666975,21/22,FR1,Ligue 1,347,FC Metz,8,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+667060,22/23,IT1,Serie A,800,Atalanta BC,6,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+667060,21/22,IT1,Serie A,800,Atalanta BC,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+667640,24/25,IT1,Serie A,1005,US Lecce,22,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+667640,23/24,IT1,Serie A,1005,US Lecce,13,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+667991,23/24,FR1,Ligue 1,667,RC Strasbourg Alsace,34,15,,0,0,0,0,1,0,0,0,1350.0,26,2,Goalkeeper
+667991,21/22,FR1,Ligue 1,667,RC Strasbourg Alsace,5,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+668313,24/25,ES1,LaLiga,681,Real Sociedad,11,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+668313,23/24,ES1,LaLiga,681,Real Sociedad,11,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+668996,22/23,FR1,Ligue 1,3911,Stade Brestois 29,34,1,,0,0,0,0,0,0,0,0,90.0,0,1,Goalkeeper
+670840,23/24,GB1,Premier League,873,Crystal Palace,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+670840,22/23,GB1,Premier League,873,Crystal Palace,14,2,,0,0,0,0,0,0,0,0,180.0,5,0,Goalkeeper
+677820,24/25,FR1,Ligue 1,995,FC Nantes,5,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+677820,23/24,FR1,Ligue 1,995,FC Nantes,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+678006,21/22,IT1,Serie A,276,Hellas Verona,6,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+678402,23/24,GB1,Premier League,31,Liverpool FC,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+68410,21/22,L1,Bundesliga,10,Arminia Bielefeld,30,1,,0,0,0,0,0,0,0,0,90.0,0,1,Goalkeeper
+685086,21/22,FR1,Ligue 1,273,Stade Rennais FC,7,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+693312,22/23,FR1,Ligue 1,273,Stade Rennais FC,3,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+693312,21/22,FR1,Ligue 1,273,Stade Rennais FC,3,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+695422,25/26,FR1,Ligue 1,290,AJ Auxerre,3,2,,0,0,1,0,0,0,0,0,135.0,2,0,Goalkeeper
+695422,24/25,FR1,Ligue 1,290,AJ Auxerre,32,2,,0,0,0,0,0,0,0,0,180.0,3,1,Goalkeeper
+695422,22/23,FR1,Ligue 1,290,AJ Auxerre,3,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+696600,23/24,FR1,Ligue 1,244,Olympique Marseille,4,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+696600,22/23,FR1,Ligue 1,244,Olympique Marseille,13,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+696600,21/22,FR1,Ligue 1,244,Olympique Marseille,5,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+696849,21/22,FR1,Ligue 1,618,AS Saint-Étienne,33,15,,0,0,0,2,1,0,0,0,1199.0,27,1,Goalkeeper
+697515,25/26,SIN1,Premier League,24991,Balestier Khalsa,1,1,,0,0,0,0,0,0,0,0,90.0,2,0,Goalkeeper
+700643,22/23,IT1,Serie A,1038,UC Sampdoria,20,4,,0,0,0,0,0,0,0,0,360.0,9,0,Goalkeeper
+703227,21/22,IT1,Serie A,12,AS Roma,3,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+70348,23/24,MAL1,Premier League,10604,Hibernians FC,19,19,,0,0,0,0,1,0,0,0,1710.0,17,8,Goalkeeper
+70348,22/23,MAL1,Premier League,10604,Hibernians FC,20,13,,0,0,0,0,0,0,0,0,1170.0,20,2,Goalkeeper
+70348,21/22,MAL1,Premier League,10604,Hibernians FC,17,16,,0,0,0,0,3,0,0,0,1440.0,12,5,Goalkeeper
+704079,21/22,IT1,Serie A,800,Atalanta BC,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+704337,21/22,IT1,Serie A,46,Inter Milan,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+704260,21/22,IT1,Serie A,1390,Cagliari Calcio,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+705355,23/24,IT1,Serie A,8970,Frosinone Calcio,7,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+70580,25/26,IT1,Serie A,46,Inter Milan,2,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+70580,24/25,IT1,Serie A,46,Inter Milan,25,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+70580,23/24,IT1,Serie A,46,Inter Milan,37,1,,0,0,1,0,0,0,0,0,22.0,0,1,Goalkeeper
+706815,24/25,GB1,Premier League,31,Liverpool FC,3,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+706815,22/23,GB1,Premier League,31,Liverpool FC,3,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+706797,23/24,ES1,LaLiga,2687,Cádiz CF,5,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+706797,22/23,ES1,LaLiga,2687,Cádiz CF,17,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+706797,21/22,ES1,LaLiga,2687,Cádiz CF,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+707245,21/22,FR1,Ligue 1,1082,LOSC Lille,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+707271,22/23,ES1,LaLiga,1049,Valencia CF,2,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+707271,21/22,ES1,LaLiga,1049,Valencia CF,2,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+707643,22/23,IT1,Serie A,12,AS Roma,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+708370,25/26,ES1,LaLiga,367,Rayo Vallecano,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+708370,24/25,ES1,LaLiga,367,Rayo Vallecano,7,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+709336,25/26,ES1,LaLiga,1050,Villarreal CF,2,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+709336,24/25,ES1,LaLiga,1050,Villarreal CF,8,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+709955,24/25,ES1,LaLiga,131,FC Barcelona,16,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+709955,23/24,ES1,LaLiga,131,FC Barcelona,23,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+709955,22/23,ES1,LaLiga,131,FC Barcelona,2,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+709986,25/26,IT1,Serie A,276,Hellas Verona,2,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+709986,23/24,IT1,Serie A,276,Hellas Verona,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+709986,22/23,IT1,Serie A,276,Hellas Verona,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+709986,21/22,IT1,Serie A,276,Hellas Verona,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+710474,24/25,ES1,LaLiga,366,Real Valladolid CF,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+710474,22/23,ES1,LaLiga,366,Real Valladolid CF,14,1,,0,0,1,0,0,0,0,0,12.0,0,1,Goalkeeper
+711367,24/25,ES1,LaLiga,681,Real Sociedad,6,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+711367,22/23,ES1,LaLiga,681,Real Sociedad,5,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+712107,25/26,ES1,LaLiga,1050,Villarreal CF,3,3,,0,0,0,0,1,0,0,0,270.0,1,2,Goalkeeper
+712107,24/25,ES1,LaLiga,1050,Villarreal CF,37,17,,0,0,1,0,2,0,0,0,1457.0,18,6,Goalkeeper
+712181,25/26,GB1,Premier League,405,Aston Villa,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+712181,23/24,GB1,Premier League,405,Aston Villa,3,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+712181,22/23,GB1,Premier League,405,Aston Villa,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+71271,25/26,ES1,LaLiga,150,Real Betis Balompié,4,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+71271,24/25,ES1,LaLiga,150,Real Betis Balompié,38,19,,0,0,0,0,3,0,0,0,1710.0,27,3,Goalkeeper
+71271,23/24,GB1,Premier League,31,Liverpool FC,15,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+71271,22/23,GB1,Premier League,31,Liverpool FC,12,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+71271,21/22,GB1,Premier League,31,Liverpool FC,5,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+712911,25/26,IT1,Serie A,1005,US Lecce,2,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+712911,24/25,IT1,Serie A,1005,US Lecce,38,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+712911,23/24,IT1,Serie A,1005,US Lecce,31,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+712911,22/23,IT1,Serie A,1005,US Lecce,3,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+713632,21/22,ES1,LaLiga,16795,Granada CF,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+715616,22/23,IT1,Serie A,12,AS Roma,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+71570,22/23,ES1,LaLiga,1049,Valencia CF,26,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+717952,23/24,ES1,LaLiga,418,Real Madrid,3,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+717952,22/23,ES1,LaLiga,418,Real Madrid,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+718756,24/25,A1,Bundesliga,122,SK Sturm Graz,32,2,,0,0,0,0,1,0,0,0,180.0,1,1,Goalkeeper
+721481,21/22,IT1,Serie A,607,Venezia FC,4,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+724099,24/25,IT1,Serie A,6195,SSC Napoli,11,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+72414,23/24,FR1,Ligue 1,273,Stade Rennais FC,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+72476,25/26,GB1,Premier League,931,Fulham FC,3,3,,0,0,0,0,0,0,0,0,270.0,4,0,Goalkeeper
+72476,24/25,GB1,Premier League,931,Fulham FC,38,38,,0,0,0,0,5,0,0,0,3420.0,54,5,Goalkeeper
+72476,23/24,GB1,Premier League,931,Fulham FC,38,38,,1,0,0,0,3,0,0,0,3420.0,61,10,Goalkeeper
+72476,22/23,GB1,Premier League,931,Fulham FC,38,36,,0,0,0,0,3,0,0,0,3240.0,51,8,Goalkeeper
+72476,21/22,GB1,Premier League,11,Arsenal FC,33,4,,0,0,0,0,0,0,0,0,360.0,9,1,Goalkeeper
+725912,25/26,GB1,Premier League,148,Tottenham Hotspur,3,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+725912,24/25,GB1,Premier League,148,Tottenham Hotspur,18,6,,0,0,0,0,0,0,0,0,540.0,11,1,Goalkeeper
+726120,23/24,L1,Bundesliga,24,Eintracht Frankfurt,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+727086,24/25,FR1,Ligue 1,244,Olympique Marseille,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+727086,23/24,FR1,Ligue 1,244,Olympique Marseille,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+728516,23/24,IT1,Serie A,749,FC Empoli,7,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+728516,22/23,IT1,Serie A,749,FC Empoli,6,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+73090,21/22,IT1,Serie A,380,US Salernitana 1919,38,23,,0,0,2,0,1,0,0,0,1936.0,49,3,Goalkeeper
+731466,23/24,GB1,Premier League,631,Chelsea FC,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+731469,22/23,IT1,Serie A,1038,UC Sampdoria,3,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+732120,23/24,GB1,Premier League,631,Chelsea FC,2,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+733430,21/22,GB1,Premier League,1132,Burnley FC,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+73396,21/22,IT1,Serie A,6195,SSC Napoli,36,31,,0,0,0,0,1,0,0,0,2790.0,25,13,Goalkeeper
+73517,25/26,ES1,LaLiga,368,Sevilla FC,4,4,,0,0,0,0,1,0,0,0,360.0,7,1,Goalkeeper
+73517,24/25,ES1,LaLiga,368,Sevilla FC,34,30,,0,0,0,1,2,0,0,0,2674.0,39,8,Goalkeeper
+73517,23/24,ES1,LaLiga,368,Sevilla FC,28,24,,0,0,0,0,1,0,0,0,2160.0,27,6,Goalkeeper
+73517,22/23,L1,Bundesliga,23826,RB Leipzig,25,2,,0,0,0,0,0,0,0,0,180.0,2,1,Goalkeeper
+735364,22/23,IT1,Serie A,46,Inter Milan,3,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+73564,25/26,GB1,Premier League,1237,Brighton & Hove Albion,3,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+73564,24/25,GB1,Premier League,1237,Brighton & Hove Albion,26,2,,0,0,0,0,0,0,0,0,180.0,1,1,Goalkeeper
+73564,23/24,GB1,Premier League,1237,Brighton & Hove Albion,38,17,,0,0,0,0,0,0,0,0,1530.0,34,2,Goalkeeper
+73564,22/23,GB1,Premier League,1237,Brighton & Hove Albion,37,15,,1,0,0,0,1,0,0,0,1350.0,23,6,Goalkeeper
+73564,21/22,GB1,Premier League,1237,Brighton & Hove Albion,33,1,,0,0,0,0,0,0,0,0,90.0,2,0,Goalkeeper
+736251,23/24,GB1,Premier League,1148,Brentford FC,2,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+736251,21/22,GB1,Premier League,1010,Watford FC,3,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+740517,21/22,IT1,Serie A,1390,Cagliari Calcio,2,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+741236,22/23,GB1,Premier League,1148,Brentford FC,21,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+741236,21/22,GB1,Premier League,1148,Brentford FC,10,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+741251,24/25,ES1,LaLiga,1049,Valencia CF,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+741251,23/24,ES1,LaLiga,1049,Valencia CF,5,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+741285,21/22,ES1,LaLiga,237,RCD Mallorca,3,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+743515,25/26,FR1,Ligue 1,826,RC Lens,3,3,,0,0,0,0,0,0,0,0,270.0,3,0,Goalkeeper
+743515,24/25,FR1,Ligue 1,667,RC Strasbourg Alsace,3,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+743515,22/23,FR1,Ligue 1,667,RC Strasbourg Alsace,27,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+744934,23/24,FR1,Ligue 1,1041,Olympique Lyon,3,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+745341,24/25,FR1,Ligue 1,162,AS Monaco,8,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+745341,23/24,FR1,Ligue 1,162,AS Monaco,2,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+745716,24/25,GB1,Premier League,1237,Brighton & Hove Albion,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+746156,24/25,A1,Bundesliga,2157,FC Blau-Weiss Linz,10,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+746156,23/24,A1,Bundesliga,2157,FC Blau-Weiss Linz,9,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+746711,24/25,IT1,Serie A,46,Inter Milan,14,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+746711,23/24,IT1,Serie A,46,Inter Milan,2,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+747197,23/24,ES1,LaLiga,3302,UD Almería,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+74857,24/25,ES1,LaLiga,131,FC Barcelona,11,8,,0,0,0,1,0,0,0,0,675.0,9,1,Goalkeeper
+74857,23/24,ES1,LaLiga,131,FC Barcelona,28,28,,0,0,0,0,3,0,0,0,2520.0,27,15,Goalkeeper
+74857,22/23,ES1,LaLiga,131,FC Barcelona,38,38,,0,0,0,2,0,0,0,0,3348.0,18,26,Goalkeeper
+74857,21/22,ES1,LaLiga,131,FC Barcelona,35,35,,0,0,0,0,3,0,0,0,3150.0,34,11,Goalkeeper
+74960,25/26,GB1,Premier League,1132,Burnley FC,3,3,,0,0,0,0,0,0,0,0,270.0,6,1,Goalkeeper
+74960,24/25,GB1,Premier League,762,Newcastle United,34,10,,0,0,0,0,0,0,0,0,900.0,12,5,Goalkeeper
+74960,23/24,GB1,Premier League,762,Newcastle United,37,23,,0,0,1,0,1,0,0,0,1984.0,42,5,Goalkeeper
+74960,22/23,GB1,Premier League,762,Newcastle United,24,2,,0,0,1,0,0,0,0,0,156.0,1,1,Goalkeeper
+74960,22/23,GB1,Premier League,985,Manchester United,4,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+74960,21/22,GB1,Premier League,762,Newcastle United,29,26,,0,0,0,0,1,0,0,0,2340.0,35,8,Goalkeeper
+749978,23/24,ES1,LaLiga,472,UD Las Palmas,18,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+750878,25/26,FR1,Ligue 1,10004,Paris FC,2,2,,0,0,0,0,0,0,0,0,180.0,6,0,Goalkeeper
+75411,25/26,IT1,Serie A,506,Juventus FC,2,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+75411,24/25,IT1,Serie A,506,Juventus FC,38,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+75411,23/24,IT1,Serie A,506,Juventus FC,38,1,,0,0,1,0,0,0,0,0,45.0,0,1,Goalkeeper
+75411,22/23,IT1,Serie A,506,Juventus FC,38,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+75411,21/22,IT1,Serie A,506,Juventus FC,36,1,,0,0,1,0,0,0,0,0,45.0,1,0,Goalkeeper
+75458,24/25,GB1,Premier League,405,Aston Villa,30,4,,0,0,3,0,0,0,0,0,225.0,6,1,Goalkeeper
+75458,23/24,GB1,Premier League,405,Aston Villa,31,5,,0,0,1,0,0,0,0,0,405.0,13,0,Goalkeeper
+75458,22/23,GB1,Premier League,405,Aston Villa,34,4,,0,0,2,0,0,0,0,0,280.0,8,1,Goalkeeper
+75458,21/22,GB1,Premier League,405,Aston Villa,18,1,,0,0,0,0,0,0,0,0,90.0,3,0,Goalkeeper
+76158,25/26,L1,Bundesliga,16,Borussia Dortmund,2,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+76158,24/25,L1,Bundesliga,16,Borussia Dortmund,33,2,,0,0,0,0,0,0,0,0,180.0,4,0,Goalkeeper
+76158,23/24,L1,Bundesliga,16,Borussia Dortmund,34,8,,0,0,1,0,0,0,0,0,694.0,9,3,Goalkeeper
+76158,22/23,L1,Bundesliga,16,Borussia Dortmund,34,7,,0,0,0,0,0,0,0,0,630.0,12,1,Goalkeeper
+766552,25/26,ES1,LaLiga,368,Sevilla FC,3,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+766552,24/25,ES1,LaLiga,368,Sevilla FC,22,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+766552,23/24,ES1,LaLiga,368,Sevilla FC,21,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+766552,22/23,ES1,LaLiga,368,Sevilla FC,24,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+766552,21/22,ES1,LaLiga,368,Sevilla FC,3,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+767255,24/25,ES1,LaLiga,368,Sevilla FC,10,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+767255,23/24,ES1,LaLiga,368,Sevilla FC,14,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+767255,22/23,ES1,LaLiga,368,Sevilla FC,12,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+77563,25/26,A1,Bundesliga,14,Austria Vienna,5,5,,0,0,0,0,0,0,0,0,450.0,9,1,Goalkeeper
+77563,24/25,A1,Bundesliga,14,Austria Vienna,32,32,,0,0,0,0,1,0,0,0,2880.0,32,10,Goalkeeper
+77563,22/23,A1,Bundesliga,266,SV Ried,26,26,,0,0,0,0,2,0,0,0,2340.0,42,3,Goalkeeper
+77563,21/22,A1,Bundesliga,266,SV Ried,31,31,,0,0,0,0,3,0,0,0,2780.0,51,4,Goalkeeper
+77757,23/24,GB1,Premier League,1031,Luton Town,38,38,,0,0,0,1,3,0,0,0,3406.0,85,2,Goalkeeper
+77825,23/24,IT1,Serie A,749,FC Empoli,26,14,,0,0,0,0,0,0,0,0,1260.0,25,4,Goalkeeper
+77825,22/23,IT1,Serie A,416,Torino FC,13,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+77825,21/22,IT1,Serie A,416,Torino FC,36,10,,0,0,0,0,1,0,0,0,900.0,8,4,Goalkeeper
+78047,24/25,FR1,Ligue 1,618,AS Saint-Étienne,33,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+782179,23/24,A1,Bundesliga,4467,TSV Hartberg,2,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+782179,22/23,A1,Bundesliga,4467,TSV Hartberg,2,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+782179,21/22,A1,Bundesliga,4467,TSV Hartberg,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+7825,24/25,IT1,Serie A,1047,Como 1907,38,12,,0,0,0,0,0,0,0,0,1035.0,14,2,Goalkeeper
+7825,23/24,ES1,LaLiga,1050,Villarreal CF,34,2,,0,0,0,0,1,0,0,0,152.0,2,0,Goalkeeper
+7825,22/23,ES1,LaLiga,1050,Villarreal CF,34,22,,0,0,0,0,2,0,0,0,1980.0,27,5,Goalkeeper
+7825,21/22,IT1,Serie A,398,SS Lazio,38,15,,0,0,0,0,3,0,0,0,1350.0,29,2,Goalkeeper
+78339,22/23,L1,Bundesliga,167,FC Augsburg,23,23,,0,0,0,0,3,0,0,0,2070.0,41,5,Goalkeeper
+78339,21/22,L1,Bundesliga,167,FC Augsburg,34,34,,0,0,0,0,0,0,0,0,3060.0,56,9,Goalkeeper
+789419,24/25,FR1,Ligue 1,417,OGC Nice,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+789419,23/24,FR1,Ligue 1,417,OGC Nice,10,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+789419,22/23,FR1,Ligue 1,417,OGC Nice,19,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+789419,21/22,FR1,Ligue 1,417,OGC Nice,7,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+79045,22/23,IT1,Serie A,3522,Spezia Calcio,29,5,,0,0,1,1,1,0,0,0,334.0,4,2,Goalkeeper
+79045,21/22,IT1,Serie A,3522,Spezia Calcio,36,7,,0,0,0,0,1,0,0,0,630.0,19,0,Goalkeeper
+79422,23/24,FR1,Ligue 1,583,Paris Saint-Germain,22,4,,0,0,0,0,0,0,0,0,360.0,6,1,Goalkeeper
+79422,22/23,GB1,Premier League,703,Nottingham Forest,17,17,,0,0,0,1,2,0,0,0,1530.0,32,2,Goalkeeper
+79422,22/23,FR1,Ligue 1,583,Paris Saint-Germain,17,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+79422,21/22,FR1,Ligue 1,583,Paris Saint-Germain,32,21,,0,0,0,1,0,0,0,0,1858.0,18,9,Goalkeeper
+800946,23/24,L1,Bundesliga,79,VfB Stuttgart,6,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+800946,22/23,L1,Bundesliga,79,VfB Stuttgart,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+801577,21/22,FR1,Ligue 1,244,Olympique Marseille,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+802986,23/24,FR1,Ligue 1,1041,Olympique Lyon,5,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+804829,23/24,FR1,Ligue 1,826,RC Lens,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+804829,22/23,FR1,Ligue 1,826,RC Lens,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+804829,21/22,FR1,Ligue 1,826,RC Lens,6,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+806024,23/24,A1,Bundesliga,28760,SK Austria Klagenfurt,8,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+806024,21/22,A1,Bundesliga,28760,SK Austria Klagenfurt,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+806469,23/24,A1,Bundesliga,541,SC Austria Lustenau,1,1,,0,0,0,0,0,0,0,0,90.0,2,0,Goalkeeper
+806948,24/25,L1,Bundesliga,2036,1.FC Heidenheim 1846,16,2,,0,0,1,0,0,0,0,0,120.0,0,2,Goalkeeper
+806948,23/24,L1,Bundesliga,2036,1.FC Heidenheim 1846,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+808690,24/25,A1,Bundesliga,2157,FC Blau-Weiss Linz,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+80894,25/26,IT1,Serie A,1025,Bologna FC 1909,2,2,,0,0,0,0,0,0,0,0,180.0,1,1,Goalkeeper
+80894,24/25,IT1,Serie A,1025,Bologna FC 1909,35,27,,0,0,0,1,1,0,0,0,2365.0,33,8,Goalkeeper
+80894,23/24,IT1,Serie A,1025,Bologna FC 1909,38,32,,0,0,0,0,2,0,0,0,2880.0,29,13,Goalkeeper
+80894,22/23,IT1,Serie A,1025,Bologna FC 1909,37,37,,0,0,0,0,4,0,0,0,3330.0,49,7,Goalkeeper
+80894,21/22,IT1,Serie A,1025,Bologna FC 1909,36,36,,0,0,0,0,4,0,0,0,3240.0,53,12,Goalkeeper
+810067,24/25,FR1,Ligue 1,583,Paris Saint-Germain,3,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+810067,23/24,FR1,Ligue 1,583,Paris Saint-Germain,2,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+810205,22/23,ES1,LaLiga,1531,Elche CF,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+81173,25/26,L1,Bundesliga,15,Bayer 04 Leverkusen,2,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+81173,24/25,A1,Bundesliga,409,Red Bull Salzburg,27,11,,0,0,0,0,0,0,0,0,990.0,14,5,Goalkeeper
+81173,23/24,L1,Bundesliga,23826,RB Leipzig,34,21,,0,0,0,0,0,0,0,0,1890.0,30,5,Goalkeeper
+81173,22/23,L1,Bundesliga,23826,RB Leipzig,33,26,,0,0,0,0,0,0,0,0,2340.0,29,7,Goalkeeper
+814434,22/23,IT1,Serie A,749,FC Empoli,3,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+814473,24/25,IT1,Serie A,506,Juventus FC,2,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+814473,23/24,IT1,Serie A,506,Juventus FC,3,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+814848,22/23,GB1,Premier League,873,Crystal Palace,4,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+815180,22/23,L1,Bundesliga,44,Hertha BSC,2,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+815550,23/24,IT1,Serie A,5,AC Milan,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+815563,25/26,IT1,Serie A,2239,US Cremonese,2,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+815563,24/25,IT1,Serie A,5,AC Milan,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+815563,23/24,IT1,Serie A,5,AC Milan,24,1,,0,0,1,0,0,0,0,0,2.0,1,0,Goalkeeper
+815563,22/23,IT1,Serie A,5,AC Milan,2,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+815563,21/22,IT1,Serie A,5,AC Milan,2,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+815567,24/25,IT1,Serie A,2919,AC Monza,38,1,,0,0,1,0,0,0,0,0,7.0,0,1,Goalkeeper
+815567,23/24,IT1,Serie A,2919,AC Monza,4,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+8176,21/22,ES1,LaLiga,714,RCD Espanyol Barcelona,24,2,,0,0,1,0,0,0,0,0,135.0,1,1,Goalkeeper
+817935,25/26,ARM1,Premier League,11912,FC Ararat Yerevan,2,2,,0,0,0,0,1,0,0,0,180.0,6,0,Goalkeeper
+818507,22/23,IT1,Serie A,380,US Salernitana 1919,6,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+818703,22/23,IT1,Serie A,1038,UC Sampdoria,13,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+818898,24/25,IT1,Serie A,276,Hellas Verona,9,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+818898,22/23,IT1,Serie A,398,SS Lazio,2,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+818892,24/25,IT1,Serie A,1025,Bologna FC 1909,36,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+818892,23/24,IT1,Serie A,1025,Bologna FC 1909,30,1,,0,0,1,0,0,0,0,0,4.0,0,1,Goalkeeper
+818892,22/23,IT1,Serie A,1025,Bologna FC 1909,12,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+818892,21/22,IT1,Serie A,1025,Bologna FC 1909,10,1,,0,0,1,0,0,0,0,0,2.0,0,1,Goalkeeper
+818929,23/24,IT1,Serie A,252,Genoa CFC,2,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+81997,23/24,ES1,LaLiga,3302,UD Almería,38,4,,0,0,0,0,0,0,0,0,360.0,10,0,Goalkeeper
+81997,22/23,ES1,LaLiga,3302,UD Almería,38,37,,0,0,0,1,3,0,0,0,3285.0,61,5,Goalkeeper
+821105,21/22,IT1,Serie A,1025,Bologna FC 1909,2,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+8246,23/24,L1,Bundesliga,3,1.FC Köln,25,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+8246,22/23,L1,Bundesliga,533,TSG 1899 Hoffenheim,5,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+8246,21/22,L1,Bundesliga,533,TSG 1899 Hoffenheim,17,1,,0,0,0,0,0,0,0,0,90.0,3,0,Goalkeeper
+825481,22/23,IT1,Serie A,276,Hellas Verona,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+829299,25/26,GB1,Premier League,1132,Burnley FC,3,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+833884,25/26,ES1,LaLiga,368,Sevilla FC,2,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+833884,24/25,ES1,LaLiga,368,Sevilla FC,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+833884,23/24,ES1,LaLiga,368,Sevilla FC,4,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+834397,25/26,FR1,Ligue 1,667,RC Strasbourg Alsace,2,2,,0,0,0,0,0,0,0,0,180.0,3,1,Goalkeeper
+834483,25/26,ES1,LaLiga,621,Athletic Bilbao,3,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+834483,24/25,ES1,LaLiga,621,Athletic Bilbao,13,5,,1,0,2,0,0,0,0,0,320.0,6,1,Goalkeeper
+834483,23/24,ES1,LaLiga,621,Athletic Bilbao,2,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+836132,21/22,FR1,Ligue 1,618,AS Saint-Étienne,5,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+838367,21/22,GB1,Premier League,543,Wolverhampton Wanderers,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+838947,23/24,FR1,Ligue 1,667,RC Strasbourg Alsace,15,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+848753,24/25,GB1,Premier League,11,Arsenal FC,3,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+84938,24/25,L1,Bundesliga,80,VfL Bochum,34,13,,0,0,0,0,2,0,0,0,1170.0,22,3,Goalkeeper
+84938,23/24,A1,Bundesliga,409,Red Bull Salzburg,12,3,,0,0,0,0,0,0,0,0,270.0,4,0,Goalkeeper
+84938,22/23,L1,Bundesliga,3,1.FC Köln,32,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+84938,21/22,L1,Bundesliga,3,1.FC Köln,26,13,,0,0,0,0,0,0,0,0,1170.0,21,1,Goalkeeper
+84993,25/26,L1,Bundesliga,41,Hamburger SV,2,2,,0,0,0,0,0,0,0,0,180.0,2,1,Goalkeeper
+85240,23/24,IT1,Serie A,2919,AC Monza,14,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+854158,25/26,ES1,LaLiga,2497,Real Oviedo,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+854988,24/25,FR1,Ligue 1,415,FC Toulouse,2,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+855050,22/23,FR1,Ligue 1,1147,AC Ajaccio,6,1,,0,0,1,0,0,0,0,0,81.0,0,1,Goalkeeper
+85528,25/26,IT1,Serie A,2239,US Cremonese,2,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+85528,24/25,IT1,Serie A,749,FC Empoli,15,5,,0,0,0,0,0,0,0,0,450.0,11,0,Goalkeeper
+85528,24/25,IT1,Serie A,410,Udinese Calcio,2,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+85528,23/24,IT1,Serie A,410,Udinese Calcio,33,17,,0,0,0,0,0,0,0,0,1530.0,28,4,Goalkeeper
+85528,22/23,IT1,Serie A,410,Udinese Calcio,38,38,,0,0,0,0,0,0,0,0,3420.0,48,10,Goalkeeper
+85528,21/22,IT1,Serie A,410,Udinese Calcio,35,35,,0,0,0,0,1,0,0,0,3150.0,50,7,Goalkeeper
+85543,25/26,L1,Bundesliga,15,Bayer 04 Leverkusen,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+85543,24/25,L1,Bundesliga,15,Bayer 04 Leverkusen,12,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+85543,23/24,L1,Bundesliga,15,Bayer 04 Leverkusen,2,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+85543,22/23,L1,Bundesliga,15,Bayer 04 Leverkusen,14,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+85543,21/22,L1,Bundesliga,15,Bayer 04 Leverkusen,14,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+857792,23/24,GB1,Premier League,631,Chelsea FC,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+85864,23/24,GB1,Premier League,762,Newcastle United,22,1,,0,0,0,0,0,0,0,0,90.0,4,0,Goalkeeper
+85864,22/23,GB1,Premier League,762,Newcastle United,8,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+85941,25/26,GB1,Premier League,281,Manchester City,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+85941,24/25,GB1,Premier League,281,Manchester City,38,13,,0,0,1,0,1,0,0,0,1099.0,18,4,Goalkeeper
+85941,23/24,GB1,Premier League,281,Manchester City,38,9,,0,0,4,0,0,0,0,0,632.0,7,4,Goalkeeper
+85941,22/23,GB1,Premier League,281,Manchester City,38,3,,0,0,0,0,0,0,0,0,270.0,1,2,Goalkeeper
+85941,21/22,L1,Bundesliga,10,Arminia Bielefeld,33,33,,0,0,0,0,1,0,0,0,2970.0,53,6,Goalkeeper
+86083,24/25,IT1,Serie A,130,Parma Calcio 1913,16,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+866916,25/26,FR1,Ligue 1,290,AJ Auxerre,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+866916,24/25,FR1,Ligue 1,290,AJ Auxerre,4,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+866916,23/24,FR1,Ligue 1,1082,LOSC Lille,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+866916,22/23,FR1,Ligue 1,1082,LOSC Lille,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+882995,23/24,IT1,Serie A,1025,Bologna FC 1909,7,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+883866,24/25,FR1,Ligue 1,618,AS Saint-Étienne,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+88595,25/26,IT1,Serie A,1047,Como 1907,2,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+88595,24/25,IT1,Serie A,1047,Como 1907,11,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+886189,23/24,IT1,Serie A,6574,US Sassuolo,2,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+88685,24/25,IT1,Serie A,416,Torino FC,38,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+890817,25/26,ES1,LaLiga,331,CA Osasuna,2,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+890817,24/25,ES1,LaLiga,331,CA Osasuna,8,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+890817,23/24,ES1,LaLiga,331,CA Osasuna,9,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+891312,23/24,ES1,LaLiga,16795,Granada CF,2,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+892421,23/24,ES1,LaLiga,237,RCD Mallorca,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+892482,23/24,IT1,Serie A,6574,US Sassuolo,2,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+894585,22/23,FR1,Ligue 1,1421,Stade Reims,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+895330,25/26,ES1,LaLiga,13,Atlético de Madrid,3,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+901980,23/24,IT1,Serie A,380,US Salernitana 1919,12,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+901980,22/23,IT1,Serie A,380,US Salernitana 1919,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+90317,24/25,L1,Bundesliga,39,1.FSV Mainz 05,7,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+90317,23/24,L1,Bundesliga,39,1.FSV Mainz 05,20,4,,0,0,0,0,0,0,0,0,360.0,3,1,Goalkeeper
+911985,23/24,FR1,Ligue 1,738,Le Havre AC,4,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+912902,25/26,FR1,Ligue 1,415,FC Toulouse,3,3,,0,0,0,0,0,0,0,0,270.0,6,2,Goalkeeper
+912902,24/25,FR1,Ligue 1,415,FC Toulouse,29,29,,0,0,0,2,2,0,0,0,2545.0,36,10,Goalkeeper
+912902,23/24,FR1,Ligue 1,415,FC Toulouse,34,34,,0,0,0,0,3,0,0,0,3060.0,46,6,Goalkeeper
+91340,23/24,GB1,Premier League,1031,Luton Town,14,1,,0,0,1,0,0,0,0,0,14.0,0,1,Goalkeeper
+91410,21/22,A1,Bundesliga,4441,Wolfsberger AC,31,4,,0,0,0,0,0,0,0,0,360.0,10,0,Goalkeeper
+914880,23/24,IT1,Serie A,416,Torino FC,4,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+915071,24/25,L1,Bundesliga,35,FC St. Pauli,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+916497,23/24,FR1,Ligue 1,3524,Clermont Foot 63,34,4,,0,0,0,0,0,0,0,0,360.0,6,0,Goalkeeper
+918957,23/24,IT1,Serie A,398,SS Lazio,10,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+920218,23/24,FR1,Ligue 1,3524,Clermont Foot 63,3,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+920218,22/23,FR1,Ligue 1,1420,Angers SCO,11,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+923606,24/25,L1,Bundesliga,533,TSG 1899 Hoffenheim,2,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+925864,25/26,IT1,Serie A,506,Juventus FC,2,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+926850,23/24,ES1,LaLiga,418,Real Madrid,14,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+926850,22/23,ES1,LaLiga,418,Real Madrid,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+926850,21/22,ES1,LaLiga,418,Real Madrid,9,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+927933,25/26,IT1,Serie A,1390,Cagliari Calcio,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+927933,24/25,IT1,Serie A,1390,Cagliari Calcio,10,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+927933,23/24,IT1,Serie A,1390,Cagliari Calcio,3,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+929864,24/25,ES1,LaLiga,331,CA Osasuna,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+930004,23/24,L1,Bundesliga,80,VfL Bochum,2,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+930415,24/25,ES1,LaLiga,13,Atlético de Madrid,31,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+930415,23/24,ES1,LaLiga,13,Atlético de Madrid,38,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+930415,22/23,ES1,LaLiga,13,Atlético de Madrid,23,1,,0,0,1,0,0,0,0,0,5.0,1,0,Goalkeeper
+930415,21/22,ES1,LaLiga,13,Atlético de Madrid,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+934159,25/26,IT1,Serie A,430,ACF Fiorentina,2,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+934159,24/25,IT1,Serie A,430,ACF Fiorentina,38,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+934159,23/24,IT1,Serie A,430,ACF Fiorentina,32,1,,0,0,0,0,0,0,0,0,90.0,2,0,Goalkeeper
+934159,22/23,IT1,Serie A,430,ACF Fiorentina,4,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+935777,24/25,IT1,Serie A,749,FC Empoli,38,1,,0,0,0,0,0,0,0,0,90.0,3,0,Goalkeeper
+935777,23/24,IT1,Serie A,749,FC Empoli,10,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+935777,22/23,IT1,Serie A,749,FC Empoli,2,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+93651,23/24,L1,Bundesliga,105,SV Darmstadt 98,33,31,,0,0,0,0,2,0,0,0,2790.0,76,3,Goalkeeper
+936595,23/24,IT1,Serie A,410,Udinese Calcio,6,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+93730,23/24,FR1,Ligue 1,583,Paris Saint-Germain,6,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+93730,22/23,FR1,Ligue 1,583,Paris Saint-Germain,16,1,,0,0,1,0,0,0,0,0,10.0,0,1,Goalkeeper
+93730,21/22,FR1,Ligue 1,583,Paris Saint-Germain,4,1,,0,0,1,0,0,0,0,0,7.0,0,1,Goalkeeper
+937631,24/25,IT1,Serie A,430,ACF Fiorentina,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+93763,24/25,L1,Bundesliga,89,1.FC Union Berlin,32,6,,0,0,0,0,0,0,0,0,540.0,13,0,Goalkeeper
+93763,23/24,L1,Bundesliga,89,1.FC Union Berlin,29,1,,0,0,0,0,0,0,0,0,90.0,2,0,Goalkeeper
+93763,22/23,L1,Bundesliga,33,FC Schalke 04,34,23,,0,0,1,0,1,0,0,0,2034.0,58,2,Goalkeeper
+93763,21/22,L1,Bundesliga,44,Hertha BSC,25,25,,0,0,0,1,1,0,0,0,2176.0,51,5,Goalkeeper
+93768,22/23,A1,Bundesliga,266,SV Ried,6,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+93768,21/22,A1,Bundesliga,170,Rapid Vienna,6,6,,0,0,0,1,0,0,0,0,513.0,7,2,Goalkeeper
+937713,24/25,L1,Bundesliga,27,Bayern Munich,2,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+937891,22/23,IT1,Serie A,1025,Bologna FC 1909,6,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+938144,25/26,ES1,LaLiga,131,FC Barcelona,3,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+938144,24/25,ES1,LaLiga,131,FC Barcelona,17,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+938144,23/24,ES1,LaLiga,131,FC Barcelona,26,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+938145,24/25,ES1,LaLiga,131,FC Barcelona,3,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+938145,23/24,ES1,LaLiga,131,FC Barcelona,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+938722,24/25,ES1,LaLiga,621,Athletic Bilbao,3,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+939445,25/26,ES1,LaLiga,3368,Levante UD,3,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+939445,21/22,ES1,LaLiga,3368,Levante UD,2,1,,0,0,0,0,0,0,0,0,90.0,1,0,Goalkeeper
+939745,24/25,IT1,Serie A,5,AC Milan,35,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+939745,23/24,IT1,Serie A,5,AC Milan,2,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+94192,24/25,L1,Bundesliga,80,VfL Bochum,33,21,,0,0,0,1,2,0,0,0,1890.0,46,2,Goalkeeper
+942004,24/25,IT1,Serie A,12,AS Roma,19,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+94308,25/26,ES1,LaLiga,714,RCD Espanyol Barcelona,3,3,,0,0,0,0,0,0,0,0,270.0,3,1,Goalkeeper
+94308,24/25,ES1,LaLiga,1244,CD Leganés,38,32,,0,0,0,0,0,0,0,0,2880.0,49,10,Goalkeeper
+94308,23/24,ES1,LaLiga,368,Sevilla FC,36,13,,1,0,0,0,1,0,0,0,1170.0,25,2,Goalkeeper
+94308,22/23,ES1,LaLiga,368,Sevilla FC,36,15,,0,0,2,0,1,0,0,0,1268.0,13,6,Goalkeeper
+94308,21/22,ES1,LaLiga,368,Sevilla FC,37,6,,0,0,0,0,0,0,0,0,540.0,5,4,Goalkeeper
+947524,25/26,A1,Bundesliga,2157,FC Blau-Weiss Linz,6,6,,0,0,0,0,0,0,0,0,540.0,9,0,Goalkeeper
+948047,24/25,IT1,Serie A,416,Torino FC,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+948135,25/26,A1,Bundesliga,122,SK Sturm Graz,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+948135,23/24,A1,Bundesliga,122,SK Sturm Graz,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+956588,25/26,IT1,Serie A,410,Udinese Calcio,2,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+95736,24/25,IT1,Serie A,130,Parma Calcio 1913,19,1,,0,0,0,0,0,0,0,0,90.0,3,0,Goalkeeper
+95976,24/25,GB1,Premier League,180,Southampton FC,38,5,,0,0,0,0,0,0,0,0,450.0,13,0,Goalkeeper
+95976,22/23,GB1,Premier League,180,Southampton FC,27,6,,0,0,0,0,0,0,0,0,540.0,17,0,Goalkeeper
+95976,21/22,GB1,Premier League,180,Southampton FC,18,17,,0,0,0,0,1,0,0,0,1530.0,27,5,Goalkeeper
+960628,23/24,MAL1,Premier League,10604,Hibernians FC,15,6,,0,0,0,0,0,0,0,0,540.0,10,1,Goalkeeper
+96254,25/26,IT1,Serie A,5,AC Milan,2,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+96254,24/25,IT1,Serie A,430,ACF Fiorentina,38,3,,0,0,0,0,0,0,0,0,270.0,3,1,Goalkeeper
+96254,23/24,IT1,Serie A,430,ACF Fiorentina,38,33,,0,0,0,0,3,0,0,0,2970.0,35,8,Goalkeeper
+96254,22/23,IT1,Serie A,430,ACF Fiorentina,37,29,,0,0,0,0,1,0,0,0,2610.0,38,5,Goalkeeper
+96254,21/22,IT1,Serie A,430,ACF Fiorentina,37,32,,0,0,1,0,0,0,0,0,2860.0,43,9,Goalkeeper
+966946,22/23,A1,Bundesliga,28760,SK Austria Klagenfurt,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+970490,21/22,ES1,LaLiga,1108,Deportivo Alavés,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+973314,25/26,ES1,LaLiga,418,Real Madrid,3,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+973314,24/25,ES1,LaLiga,418,Real Madrid,21,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+973314,23/24,ES1,LaLiga,13,Atlético de Madrid,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+973314,22/23,ES1,LaLiga,13,Atlético de Madrid,2,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+975438,24/25,FR1,Ligue 1,3911,Stade Brestois 29,3,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+983248,24/25,GB1,Premier League,989,AFC Bournemouth,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+983248,23/24,GB1,Premier League,989,AFC Bournemouth,3,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+986180,24/25,IT1,Serie A,5,AC Milan,9,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+986180,23/24,IT1,Serie A,5,AC Milan,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+988275,23/24,FR1,Ligue 1,738,Le Havre AC,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+991158,24/25,ES1,LaLiga,1244,CD Leganés,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+992569,25/26,IT1,Serie A,1025,Bologna FC 1909,2,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+992569,24/25,IT1,Serie A,1025,Bologna FC 1909,3,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+99254,23/24,IT1,Serie A,398,SS Lazio,33,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+99254,22/23,IT1,Serie A,380,US Salernitana 1919,33,17,,0,0,0,0,3,0,0,0,1530.0,27,3,Goalkeeper
+99254,21/22,IT1,Serie A,380,US Salernitana 1919,16,16,,0,0,0,2,2,0,0,0,1394.0,24,1,Goalkeeper
+99397,25/26,GB1,Premier League,399,Leeds United,3,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+99397,22/23,GB1,Premier League,762,Newcastle United,7,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+99397,21/22,GB1,Premier League,762,Newcastle United,34,8,,0,0,0,0,1,0,0,0,720.0,15,0,Goalkeeper
+99451,25/26,L1,Bundesliga,86,SV Werder Bremen,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+99451,24/25,L1,Bundesliga,86,SV Werder Bremen,1,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+99523,25/26,IT1,Serie A,4172,Pisa Sporting Club,2,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
+997861,24/25,L1,Bundesliga,24,Eintracht Frankfurt,29,9,,1,0,1,0,0,0,0,0,765.0,12,3,Goalkeeper
+997861,23/24,L1,Bundesliga,24,Eintracht Frankfurt,2,0,0.0,0,0,0,0,0,0,0,0,,0,0,Goalkeeper
